@@ -6,10 +6,12 @@ author_profile: true
 ---
 
 <h2> Publications </h2>
-Tax Rule Changes and the Timing of Asset Write-Offs in Loss Firms, with S. Kohlhase.
+ <a href="https://onlinelibrary.wiley.com/doi/10.1111/jbfa.12502">Tax Rule Changes and the Timing of Asset Write-Offs in Loss Firms</a> , with S. Kohlhase.
 Journal of Business Finance & Accounting, 2020. 
-Big baths and CEO overconfidence, singled authored.
-Accounting and Business Research, 2020. 
+
+ <a href="https://www.tandfonline.com/doi/full/10.1080/00014788.2020.1783634">Big baths and CEO overconfidence</a> , singled authored.
+ Accounting and Business Research, 2020. 
+ 
 The Effect of a Worldwide Tax System on Tax Management of Foreign Subsidiaries, with S. Kohlhase.
 Journal of International Business Studies (Impact Factor: 9.158), 2020.
 IPOs and IFRS in European exchange-regulated markets: A research note, singled authored.
