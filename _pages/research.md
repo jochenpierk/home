@@ -23,38 +23,19 @@ author_profile: true
          <ul>  <li> Der Betrieb, 2011. </li> </ul> 
 </ul> 
 
-
- 
-
- 
-
- 
- 
-
-
-
-
-
-
-
- 
-
-
-
-
-
 <h3> Working Papers </h3>
-Auditor Alignment and the Internal Information Environment, with E. Labro, C. D. Peter, and C. van Linden. 
-Status: Revise and resubmit
-Public Peers, Accounting Comparability, and Value Relevance of Private Firms' Financial Reporting, with T. Bourveau, J. V. Chen, and F. Elfers. 
-Status: Revise and resubmit
-Accounting Research on Private Firms: An Institutional and Topical Overview, with C. Beuselinck, F. Elfers, and J. Gassen. 
-Status: Revise and resubmit
-On the Dynamics between Local and International Tax Planning in Multinational Corporations, with C. Beuselinck. 
-Status: Revise and resubmit
-Brexit! The Effect of Political Uncertainty on International Research Collaborations of Firms and Research Institutions, with B. Osswald.
-Status: Submitted
-Covered by the Financial Times (October 4th, 2020 and October 8th, 2020) and Nature (October 22, 2020) 
-Does Shark Tank Enhance Entrepreneurial Activities, with C. D. Peter. 
-Status: Submitted
+
+<ul>
+<li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3370953"> Auditor Alignment and the Internal Information Environment </a>  ,  with E. Labro, C. D. Peter, and C. van Linden. </li>
+  <ul>  <li> Status: Revise and resubmit </li> </ul> 
+<li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3576389"> Public Peers, Accounting Comparability, and Value Relevance of Private Firms' Financial Reporting </a> , with T. Bourveau, J. V. Chen, and F. Elfers. </li>
+  <ul>  <li> Status: Revise and resubmit </li> </ul> 
+<li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3496543"> Accounting Research on Private Firms: An Institutional and Topical Overview, with C. Beuselinck </a> , F. Elfers, and J. Gassen. </li>
+  <ul>  <li> Status: Revise and resubmit </li> </ul> 
+<li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3108489"> On the Dynamics between Local and International Tax Planning in Multinational Corporations </a> , with C. Beuselinck. </li>
+  <ul>  <li> Status: Revise and resubmit </li> </ul> 
+<li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3703590"> Brexit! The Effect of Political Uncertainty on International Research Collaborations of Firms and Research Institutions </a> , with B. Osswald. </li>
+  <ul>  <li> Status: Submitted </li> </ul> 
+<li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3657391"> Does Shark Tank Enhance Entrepreneurial Activities </a> , with C. D. Peter.  </li>
+  <ul>  <li> Status: Submitted </li> </ul> 
 
