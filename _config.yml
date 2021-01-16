@@ -204,6 +204,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _coverage
+  - scope:
+      path: ""
+      type: coverage
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _research
   - scope:
       path: ""
