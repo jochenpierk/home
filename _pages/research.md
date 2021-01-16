@@ -19,7 +19,7 @@ author_profile: true
          <ul>  <li> Journal of Accounting and Public Policy, 2016. </li> </ul> 
  <li>  <a href="https://research.owlit.de/document/6ed42696-ea1c-3217-826f-c08e2ffa016d">Conversion of IFRS and German GAAP – Evidence from pension provisions (in German)</a> , with M. Weil.   </li>
          <ul>  <li> KoR - Zeitschrift für internationale und kapitalmarktorientierte Rechnungslegung, 2012. </li> </ul> 
- <li>  <a href="https://kor-ifrs.owlit.de/document/zeitschriften/der-betrieb/2011/heft-19/betriebswirtschaft/aufsatze/pensionsruckstellungen-nach-dem-bilmog---erst/MLX_974f> Pension provisions according to new German GAAP – Empirical evidence from early adopters (in German)</a>, with J. Gassen and M. Weil. </li>   
+ <li>  <a href="https://kor-ifrs.owlit.de/document/zeitschriften/der-betrieb/2011/heft-19/betriebswirtschaft/aufsatze/pensionsruckstellungen-nach-dem-bilmog---erst/MLX_974f"> Pension provisions according to new German GAAP – Empirical evidence from early adopters (in German)</a>, with J. Gassen and M. Weil. </li>   
          <ul>  <li> Der Betrieb, 2011. </li> </ul> 
 </ul> 
 
