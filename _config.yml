@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jochen Pierk"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Jochen Pierk"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jochen Pierk"
   avatar           : "profile.png"
-  bio              : "Assitant Professor"
+  bio              : "Assistant Professor"
   location         : 
   employer         : "Erasmus University Rotterdam"
   pubmed           : 
