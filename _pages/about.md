@@ -9,10 +9,6 @@ redirect_from:
 ---
 
 
-   <img src="/images/profile.png" height="1%">
-
-
-
   <p> Assistant Professor in Financial Accounting </p>
   <p> Erasmus School of Economics, Erasmus University Rotterdam. </p>
 
