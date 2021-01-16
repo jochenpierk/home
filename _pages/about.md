@@ -8,7 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Assistant Professor in Financial Accounting at the Erasmus School of Economics, Erasmus University Rotterdam. 
 
-  <img src="IMG_1221.png" alt="Simply Easy Learning" width="200"
-         height="80">
+   <img src="/images/profile.png" height="1%">
+
+
+
+  <p> Assistant Professor in Financial Accounting </p>
+  <p> Erasmus School of Economics, Erasmus University Rotterdam. </p>
+
+
+  
+
+
