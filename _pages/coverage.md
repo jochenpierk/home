@@ -25,7 +25,7 @@ author_profile: true
               <ul><li>RSM Discovery, February 11, 2020</li></ul>          
 </ul> 
 
-h3> Authored news articles / blogs </h3>
+<h3> Authored news articles / blogs </h3>
 <ul>
  <li> <a href="https://www.accountant.nl/discussie/opinie/2020/9/tandeloze-waakhonden/">Tandeloze waakhonden</a>, with Ferdinand Elfers</li>
               <ul><li>accountant.nl, September 23, 2020 </li></ul>      
