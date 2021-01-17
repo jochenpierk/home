@@ -14,8 +14,8 @@ redirect_from:
   <li>06/2015 – 10/2016     Vienna University of Economics and Business, International Accounting Group, Post-doc researcher  </li> 
   <li>01/2015 – 05/2015     University of North Carolina, Kenan-Flagler School of Business, Visiting Scholar, Invited by Robert Bushman  </li> 
   <li>05/2014 – 12/2014     Humboldt University Berlin, Institute of Financial Accounting and Auditing, Re-search Assistant  </li> 
-  <li>09/2013 – 04/2014     University of Michigan, Ross School of Business, Visiting Scholar, Invited by Cathe-rine Shakespeare   </li> 
-  <li>03/2010 – 08/2013     Humboldt University Berlin, Institute of Financial Accounting and Auditing, Re-search Assistant  </li> 
+  <li>09/2013 – 04/2014     University of Michigan, Ross School of Business, Visiting Scholar, Invited by Catherine Shakespeare   </li> 
+  <li>03/2010 – 08/2013     Humboldt University Berlin, Institute of Financial Accounting and Auditing, Research Assistant  </li> 
   <li>Short term research visits: Columbia University 11/2019; University of Illinois at Chicago 09/2017, 10/2018; University of Bristol 06/2017  </li> 
 </ul> </font> 
 
