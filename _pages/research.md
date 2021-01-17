@@ -27,7 +27,7 @@ author_profile: true
  
 <h3> Working Papers </h3>
 
-<ul>
+<font size="3">  <ul>
 <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3370953" target="_blank"> Auditor Alignment and the Internal Information Environment </a>,  with E. Labro, C. D. Peter, and C. van Linden. </li>
   <ul>  <li> Status: Revise and resubmit </li> </ul> 
 <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3576389" target="_blank"> Public Peers, Accounting Comparability, and Value Relevance of Private Firms' Financial Reporting </a>, with T. Bourveau, J. V. Chen, and F. Elfers. </li>
@@ -40,4 +40,4 @@ author_profile: true
   <ul>  <li> Status: Submitted </li> </ul> 
 <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3657391" target="_blank"> Does Shark Tank Enhance Entrepreneurial Activities</a> , with C. D. Peter.  </li>
   <ul>  <li> Status: Submitted </li> </ul> 
-
+</ul> </font> 
