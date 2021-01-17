@@ -9,7 +9,7 @@ author_profile: true
 <font size="3"> <ul>
   <li>  <a href="https://techpolicyinstitute.org/2020/12/09/research-roundup-for-december-2020/" target="_blank">Research Roundup for December 2020</a></li>
               <ul> <li> Technology Policy Institute (Think Tank), December 9 </li> </ul> 
-  <li>  <a href="https://www.nature.com/articles/d41586-020-02920-2">Brexit's back: the five issues that will shape science</a></li>
+  <li>  <a href="https://www.nature.com/articles/d41586-020-02920-2" target="_blank">Brexit's back: the five issues that will shape science</a></li>
               <ul><li>Nature, October 22, 2020</li></ul> 
   <li>  <a href="https://www.ft.com/content/241c599f-71db-4854-ac26-b37fc05cbc96" target="_blank">Can the UK and EU finally net that trade deal? </a></li>
               <ul><li>Financial Times, October 8, 2020 </li></ul>      
