@@ -6,7 +6,7 @@ author_profile: true
 ---
 <h3> Publications </h3>
 
-<font size="3.5"> 
+<font size="3"> 
  <ul>
   <li>  <a href="https://onlinelibrary.wiley.com/doi/10.1111/jbfa.12502" target="_blank">Tax Rule Changes and the Timing of Asset Write-Offs in Loss Firms</a>, with S. Kohlhase.   </li>
        <ul>  <li> Journal of Business Finance & Accounting, 2020.  </li> </ul> 
