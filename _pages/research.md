@@ -6,6 +6,7 @@ author_profile: true
 ---
 <h3> Publications </h3>
 
+<font size="1"> 
  <ul>
   <li>  <a href="https://onlinelibrary.wiley.com/doi/10.1111/jbfa.12502" target="_blank">Tax Rule Changes and the Timing of Asset Write-Offs in Loss Firms</a>, with S. Kohlhase.   </li>
        <ul>  <li> Journal of Business Finance & Accounting, 2020.  </li> </ul> 
@@ -22,7 +23,8 @@ author_profile: true
  <li>  <a href="https://kor-ifrs.owlit.de/document/zeitschriften/der-betrieb/2011/heft-19/betriebswirtschaft/aufsatze/pensionsruckstellungen-nach-dem-bilmog---erst/MLX_974f" target="_blank"> Pension provisions according to new German GAAP – Empirical evidence from early adopters (in German)</a>, with J. Gassen and M. Weil. </li>   
          <ul>  <li> Der Betrieb, 2011. </li> </ul> 
 </ul> 
-
+</font size> 
+ 
 <h3> Working Papers </h3>
 
 <ul>
