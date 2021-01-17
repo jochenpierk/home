@@ -16,7 +16,7 @@ author_profile: true
         <ul>  <li> Journal of International Business Studies (Impact Factor: 9.158), 2020. </li> </ul>   </li>
   <li>   <a href="https://www.sciencedirect.com/science/article/pii/S027842541830187X" target="_blank">IPOs and IFRS in European exchange-regulated markets: A research note</a>, singled authored. 
          <ul>  <li> Journal of Accounting and Public Policy, 2018. </li> </ul> </li>
- <li>  <a href="https://research.owlit.de/document/6ed42696-ea1c-3217-826f-c08e2ffa016d" target="_blank">Price Regulation and Accounting Choice</a>, with M. Weil.   
+ <li>  <a href="https://www.sciencedirect.com/science/article/pii/S027842541830187X target="_blank">Price Regulation and Accounting Choice</a>, with M. Weil.   
          <ul>  <li> Journal of Accounting and Public Policy, 2016. </li> </ul> </li>
  <li>  <a href="https://research.owlit.de/document/6ed42696-ea1c-3217-826f-c08e2ffa016d" target="_blank">Conversion of IFRS and German GAAP – Evidence from pension provisions (in German)</a>, with M. Weil.  
          <ul>  <li> KoR - Zeitschrift für internationale und kapitalmarktorientierte Rechnungslegung, 2012. </li> </ul>  </li>
