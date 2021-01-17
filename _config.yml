@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Home - Jochen Pierk"
 title_separator          : "-"
 name                     : &name "Jochen Pierk"
 description              : &description "personal description"
