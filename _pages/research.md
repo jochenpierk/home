@@ -40,7 +40,7 @@ author_profile: true
   <ul>    
    <li> Status: Submitted   </li>  
    <li> <a href= "https://jochenpierk.github.io/home/coverage/" target="_blank"> Covered by Financial Times and Nature</a>    </li>  
-   <li> <a href= "https://jochenpierk.github.io/home/coverage/" target="_blank"> Online Appendix</a> " target="_blank"> Online Appendix</a> (Collaborations by firm/university) </li>  
+   <li> <a href= "https://jochenpierk.github.io/brexit_collaborations/index.html" target="_blank"> Online Appendix</a> (Collaborations by firm/university) </li>  
  </ul> 
  </li>
 <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3657391" target="_blank"> Does Shark Tank Enhance Entrepreneurial Activities</a> , with C. D. Peter.  
