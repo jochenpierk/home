@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Coverage"
 permalink: /coverage/
 author_profile: true
 ---
