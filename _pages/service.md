@@ -20,6 +20,8 @@ author_profile: true
 
 <h3> Service for Journals / Associations </h3>
 
+<font size="3"> 
+ 
  <ul> 
   <li> Member of the <a href="http://www.eaa-online.org/r/Standing_Scientific_Committee" target="_blank">Standing Scientific Committee</a> of the European Accounting Assoication   </li> 
   <li> Ad hoc Reviewer for: 
@@ -30,5 +32,7 @@ author_profile: true
      <li> Journal of Accounting and Public Policy </li>
     </ul> </li>
   </ul>
+  
+  </font> 
      
       
