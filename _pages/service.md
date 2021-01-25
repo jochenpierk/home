@@ -32,7 +32,18 @@ author_profile: true
      <li> Journal of Accounting and Public Policy </li>
     </ul> </li>
   </ul>
+  </font>
   
-  </font> 
+  <h3> Publication Updates / New SSRN Paper </h3>
+
+<font size="3"> 
+<p>
+I am posting a weekly update on new accounting publications and SSRN working papers on the "<a href="http://easys-online.com/accupdate/" target="_blank">ACC Updates website</a>". Feel free to <a href="http://easys-online.com/subscribe-acc-updates/" target="_blank">sign up</a> for a weekly email notification or follow on <a href="https://twitter.com/updates_acc?lang=en" target="_blank">twitter</a>. 
+</p>
+
+ 
+</font>
+  
+ 
      
       
