@@ -5,7 +5,7 @@ permalink: /service/
 author_profile: true
 ---
  
-<h3> Event Organization </h3>
+<h3> Workshop Organization </h3>
 <font size="3"> 
 
  <ul>
