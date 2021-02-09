@@ -24,7 +24,9 @@ author_profile: true
  
  <ul> 
   <li> Member of the <a href="http://www.eaa-online.org/r/Standing_Scientific_Committee" target="_blank">Standing Scientific Committee</a> of the European Accounting Assoication   </li> 
-  <li> Ad hoc Reviewer for: 
+ <li> Member of the 
+  <a href="https://arc.eaa-online.org/accounting-resources-centre-committee" target="_blank">Accounting Resources Centre Committee</a> (EAA ARC) of the European Accounting Association </li> 
+ <li> Ad hoc Reviewer for: 
     <ul>  
      <li> European Accounting Review (2020 Excellence in Reviewing Recognition) </li>
      <li> Accounting and Business Research </li>
