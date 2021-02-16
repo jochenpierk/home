@@ -11,10 +11,11 @@ author_profile: true
 
 <font size="3"> 
  <ul>
-  <li>  <a href="https://onlinelibrary.wiley.com/doi/10.1111/jbfa.12502" target="_blank">Tax Rule Changes and the Timing of Asset Write-Offs in Loss Firms</a>, with S. Kohlhase.   
+   <li>  <a href="https://www.tandfonline.com/doi/full/10.1080/00014788.2020.1783634" target="_blank">Big baths and CEO overconfidence</a>, singled authored. 
+       <ul>  <li>  Accounting and Business Research, 2021.  </li> </ul> </li>
+ <li>  <a href="https://onlinelibrary.wiley.com/doi/10.1111/jbfa.12502" target="_blank">Tax Rule Changes and the Timing of Asset Write-Offs in Loss Firms</a>, with S. Kohlhase.   
        <ul>  <li> Journal of Business Finance & Accounting, 2020.  </li> </ul> </li>
-  <li>  <a href="https://www.tandfonline.com/doi/full/10.1080/00014788.2020.1783634" target="_blank">Big baths and CEO overconfidence</a>, singled authored. 
-       <ul>  <li>  Accounting and Business Research, 2020.  </li> </ul> </li>
+
  <li>  <a href="https://link.springer.com/article/10.1057/s41267-019-00287-9" target="_blank">The Effect of a Worldwide Tax System on Tax Management of Foreign Subsidiaries</a>,with S. Kohlhase.
         <ul>  <li> Journal of International Business Studies (Impact Factor: 9.158), 2020. </li> </ul>   </li>
   <li>   <a href="https://www.sciencedirect.com/science/article/pii/S027842541830187X" target="_blank">IPOs and IFRS in European exchange-regulated markets: A research note</a>, singled authored. 
