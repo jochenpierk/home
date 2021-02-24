@@ -36,7 +36,7 @@ author_profile: true
   <ul>  <li> Status: Revise and resubmit </li> </ul> </li>
 <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3576389" target="_blank"> Public Peers, Accounting Comparability, and Value Relevance of Private Firms' Financial Reporting </a>, with T. Bourveau, J. V. Chen, and F. Elfers. 
   <ul>  <li> Status: Revise and resubmit </li> </ul> </li>
-<li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3496543" target="_blank"> Accounting Research on Private Firms: An Institutional and Topical Overview, with C. Beuselinck </a>, F. Elfers, and J. Gassen. 
+<li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3496543" target="_blank"> Accounting Research on Private Firms: An Institutional and Topical Overview </a>, with C. Beuselinck, F. Elfers, and J. Gassen. 
   <ul>  <li> Status: Revise and resubmit </li> </ul> </li>
 <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3108489" target="_blank"> On the Dynamics between Local and International Tax Planning in Multinational Corporations </a>, with C. Beuselinck. 
   <ul>  <li> Status: Revise and resubmit </li> </ul> </li>
