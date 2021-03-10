@@ -28,7 +28,7 @@ author_profile: true
   <a href="https://arc.eaa-online.org/accounting-resources-centre-committee" target="_blank">Accounting Resources Centre Committee</a> (EAA ARC) of the European Accounting Association </li> 
  <li> Ad hoc Reviewer for: 
     <ul>  
-     <li> European Accounting Review (2020 Excellence in Reviewing Recognition) </li>
+     <li> European Accounting Review ( <a href="https://www.tandfonline.com/doi/full/10.1080/09638180.2021.1880631" target="_blank">2020 Excellence in Reviewing Recognition)</a> </li>
      <li> Accounting and Business Research </li>
      <li> Journal of Management Accouting Research </li>
      <li> Journal of Accounting and Public Policy </li>
