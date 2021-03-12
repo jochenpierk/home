@@ -22,11 +22,11 @@ redirect_from:
  }
 
 .left {
-  width: 75%;
+  width: 70%;
 }
 
 .right {
-  width: 25%;
+  width: 30%;
 }
 
 /* Clear floats after the columns */
@@ -45,7 +45,7 @@ redirect_from:
     <p> I am an assistant professor in financial accounting at the Erasmus School of 	Economics, Erasmus University Rotterdam. On this website, you can find information 		about my <a href= "https://jochenpierk.github.io/home/research/">research</a>, <a 	href= "https://jochenpierk.github.io/home/teaching/">teaching</a>, <a href= 			"https://jochenpierk.github.io/home/service/">service</a>, and my <a 		   href="https://jochenpierk.github.io/home/cv/">CV</a>.  </p>
   </div>
   
-  <div class="column right" style="background-color:#bbb;">
+  <div class="column right" >
      <p>
     <a class="twitter-timeline" href="https://twitter.com/jochenpierk?ref_src=twsrc%5Etfw">Tweets by jochenpierk</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
   </div>
