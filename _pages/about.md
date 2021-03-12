@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -36,8 +36,7 @@ redirect_from:
 <body>
 <div class="row">
   <div class="column left" >
-     <h2>Welcome to my Website! </h2>
-    <p> I am an assistant professor in financial accounting at the Erasmus School of 	Economics, Erasmus University Rotterdam. On this website, you can find information 		about my <a href= "https://jochenpierk.github.io/home/research/">research</a>, <a 	href= "https://jochenpierk.github.io/home/teaching/">teaching</a>, <a href= 			"https://jochenpierk.github.io/home/service/">service</a>, and my <a 		   href="https://jochenpierk.github.io/home/cv/">CV</a>.  </p>
+       <p> Welcome to my Website! I am an assistant professor in financial accounting at the Erasmus School of 	Economics, Erasmus University Rotterdam. On this website, you can find information 		about my <a href= "https://jochenpierk.github.io/home/research/">research</a>, <a 	href= "https://jochenpierk.github.io/home/teaching/">teaching</a>, <a href= 			"https://jochenpierk.github.io/home/service/">service</a>, and my <a 		   href="https://jochenpierk.github.io/home/cv/">CV</a>.  </p>
   </div>
  <div class="column right" >
      <br> 
