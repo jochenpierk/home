@@ -14,21 +14,17 @@ redirect_from:
 * {
   box-sizing: border-box;
 }
-
 /* Create two unequal columns that floats next to each other */
 .column {
   float: left;
   padding: 10px;
  }
-
 .left {
   width: 70%;
 }
-
 .right {
   width: 30%;
 }
-
 /* Clear floats after the columns */
 .row:after {
   content: "";
