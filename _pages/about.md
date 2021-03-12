@@ -46,7 +46,7 @@ redirect_from:
   </div>
   
   <div class="column right" >
-     <p>
+     <br> <br> 
     <a class="twitter-timeline" href="https://twitter.com/jochenpierk?ref_src=twsrc%5Etfw">Tweets by jochenpierk</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
   </div>
 </div>
