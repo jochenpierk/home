@@ -36,8 +36,7 @@ ul.no-bullets {
 <body>
 
  <h3> Publications </h3>
- 
-  
+   
  <table style="width:100%"> 
  <font size="3"> 
 <tr>
@@ -121,7 +120,8 @@ ul.no-bullets {
      <ul>  <li> Status: Revise and resubmit </li> </ul> </li>
    </td>
    <td>
-      <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3370953" data-popup="left" data-size="small" class="plumx-plum-print-popup" data-site="plum" data- hide-when-empty="true"></a>  </li> 
+      <ul class="no-bullets">
+      <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3370953" data-popup="left" data-size="small" class="plumx-plum-print-popup" data-site="plum" data- hide-when-empty="true"></a>  </li>  </ul>
    </td>
 </tr>
 <tr>
@@ -130,7 +130,8 @@ ul.no-bullets {
       <ul>  <li> Status: Revise and resubmit </li> </ul> </li>
    </td>
    <td>
-      <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3576389" data-popup="left" data-size="small" class="plumx-plum-print-popup" data-site="plum" data- hide-when-empty="true"></a>  </li> 
+      <ul class="no-bullets">
+      <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3576389" data-popup="left" data-size="small" class="plumx-plum-print-popup" data-site="plum" data- hide-when-empty="true"></a>  </li>  </ul>
    </td>
 </tr>
 <tr>
@@ -139,7 +140,8 @@ ul.no-bullets {
      <ul>  <li> Status: Revise and resubmit </li> </ul> </li>
    </td>
    <td>
-    <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3496543" data-popup="left" data-size="small" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true"></a>  </li> 
+    <ul class="no-bullets">
+    <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3496543" data-popup="left" data-size="small" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true"></a>  </li>  </ul>
    </td>
 </tr>
 <tr>
@@ -148,7 +150,8 @@ ul.no-bullets {
     <ul>  <li> Status: Revise and resubmit </li> </ul> </li>
    </td>
    <td>
-    <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3108489" data-popup="left" data-size="small" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true"></a>  </li>
+    <ul class="no-bullets">
+    <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3108489" data-popup="left" data-size="small" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true"></a>  </li> </ul>
    </td>
 </tr>
 <tr>
@@ -159,7 +162,8 @@ ul.no-bullets {
      <li> <a href= "https://jochenpierk.github.io/brexit_collaborations/index.html" target="_blank"> Online Appendix</a> (Collaborations by firm/university) </ul> </li>
     </td>
    <td>
-     <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3703590" data-popup="left" data-size="small" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true"></a>  </li>
+     <ul class="no-bullets">
+     <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3703590" data-popup="left" data-size="small" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true"></a>  </li> </ul>
    </td>
 </tr>
 <tr>
@@ -168,7 +172,8 @@ ul.no-bullets {
   <ul>  <li> Status: Submitted </li> </ul> </li>
    </td>
    <td>
-   <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3657391" data-popup="left" data-size="small" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true"></a>  </li> 
+   <ul class="no-bullets">
+   <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3657391" data-popup="left" data-size="small" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true"></a>  </li> </ul>
    </td>
 </tr>
 </table>
