@@ -32,17 +32,17 @@ author_profile: true
   clear: both;
 }
 ul  {
-     line-height:130%; 
+     line-height:135%; 
 }
 li  {
-     line-height:130%; 
+     line-height:135%; 
 }
 br {
-     line-height:130%;
+     line-height:135%;
 }
 ul.no-bullets {
   list-style-type: none; 
-  line-height:50%;
+  line-height:135%;
   margin: 0;
   padding: 0;
 }  
