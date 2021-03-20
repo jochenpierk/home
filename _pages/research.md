@@ -158,8 +158,8 @@ ul.no-bullets {
    <td>
      <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3703590" target="_blank"> Brexit! The Effect of Political Uncertainty on International Research Collaborations of Firms and Research Institutions</a> , with B. Osswald. 
     <ul>   <li> Status: Submitted   </li> 
-       <li> Covered by <a href= "https://www.ft.com/content/ed2e508e-cfcf-4469-ab28-a26dffbb4d5e" target="_blank">Financial Times</a> and <a href= "https://www.nature.com/articles/d41586-020-02920-2" target="_blank">Nature</a>.    </li>  
-     <li> <a href= "https://jochenpierk.github.io/brexit_collaborations/index.html" target="_blank"> Online Appendix</a> (Collaborations by firm/university) </li>
+           <li> Covered by <a href= "https://www.ft.com/content/ed2e508e-cfcf-4469-ab28-a26dffbb4d5e" target="_blank">Financial Times</a> and <a href= "https://www.nature.com/articles/d41586-020-02920-2" target="_blank">Nature</a>.    </li>  
+           <li> <a href= "https://jochenpierk.github.io/brexit_collaborations/index.html" target="_blank"> Online Appendix</a> (Collaborations by firm/university)      </li> </ul>
     </td>
    <td>
      <ul class="no-bullets">
@@ -176,4 +176,8 @@ ul.no-bullets {
    <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3657391" data-popup="left" data-size="small" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true"></a>  </li> </ul>
    </td>
 
-  
+  </tr>
+</table>
+
+</body>
+
