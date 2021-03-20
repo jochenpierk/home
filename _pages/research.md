@@ -6,6 +6,7 @@ author_profile: true
 ---
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
 
 <html>
 <head>
@@ -66,7 +67,7 @@ ul.no-bullets {
         <ul>  <li> Journal of International Business Studies (Impact Factor: 9.158), 2020. </li> </ul>   </li>
   <li>   <a href="https://www.sciencedirect.com/science/article/pii/S027842541830187X" target="_blank">IPOs and IFRS in European exchange-regulated markets: A research note</a>, singled authored. 
          <ul>  <li> Journal of Accounting and Public Policy, 2018. </li> </ul> </li>
- <li>  <a href="https://www.sciencedirect.com/science/article/pii/S027842541830187X" target="_blank">Price Regulation and Accounting Choice</a>, with M. Weil.   
+ <li>  <a href="https://www.sciencedirect.com/science/article/abs/pii/S027842541500099X" target="_blank">Price Regulation and Accounting Choice</a>, with M. Weil.   
          <ul>  <li> Journal of Accounting and Public Policy, 2016. </li> </ul> </li>
  <li>  <a href="https://research.owlit.de/document/6ed42696-ea1c-3217-826f-c08e2ffa016d" target="_blank">Conversion of IFRS and German GAAP – Evidence from pension provisions (in German)</a>, with M. Weil.  
          <ul>  <li> KoR - Zeitschrift für internationale und kapitalmarktorientierte Rechnungslegung, 2012. </li> </ul>  </li>
@@ -118,23 +119,25 @@ ul.no-bullets {
     <br>
  
    
-   <li > <span class="__dimensions_badge_embed__" data-doi="0.1016/j.jaccpubpol.2015.12.005" data-style="small_rectangle"> </span>  </li>    
+   <li > <span class="__dimensions_badge_embed__" data-doi="10.1016/j.jaccpubpol.2015.12.005" data-style="small_rectangle"> </span>  </li>    
    
    
    <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
    
- <li >  <span data-badge-type="2" data-link-target='_blank' data-doi="10.2139/ssrn.3576389   data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>    </li>
-  
-   <li >  <span data-badge-type="2" data-link-target='_blank' data-doi="10.2139/ssrn.3370953  data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>    </li>
-  
-   <li >  <span data-badge-type="2" data-link-target='_blank' data-doi="10.2139/ssrn.3496543  data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>    </li>
-  
-   <li >  <span data-badge-type="2" data-link-target='_blank' data-doi="10.2139/ssrn.3108489  data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>    </li>
-  
-   <li >  <span data-badge-type="2" data-link-target='_blank' data-doi="10.2139/ssrn.3703590  data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>    </li>
+ <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3370953" data-popup="right" data-size="large" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true">Auditor Alignment and the Internal Information Environment</a>  </li>
+ 
+ <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.ssrn.3496543" data-popup="right" data-size="large" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true">Auditor Alignment and the Internal Information Environment</a>  </li>
+ 
+ <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3108489" data-popup="right" data-size="large" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true">Auditor Alignment and the Internal Information Environment</a>  </li>
+ 
+ <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3370953" data-popup="right" data-size="large" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true">Auditor Alignment and the Internal Information Environment</a>  </li>
+ 
+ <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3703590" data-popup="right" data-size="large" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true">Auditor Alignment and the Internal Information Environment</a>  </li>
+ 
+ <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3657391" data-popup="right" data-size="large" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true">Auditor Alignment and the Internal Information Environment</a>  </li>
+ 
 
-   <li >  <span data-badge-type="2" data-link-target='_blank' data-doi="10.2139/ssrn.3657391  data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>    </li>
-  
+   
     
 </ul> </font> 
 </font> 
