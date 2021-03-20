@@ -11,7 +11,8 @@ author_profile: true
 <html>
 <head>
 
-<meta name="viewport" initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1" /> 
+                                      
 <style>
 * {
   box-sizing: border-box;
