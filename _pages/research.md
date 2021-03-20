@@ -42,7 +42,7 @@ br {
 }
 ul.no-bullets {
   list-style-type: none; 
-  line-height:120%;
+  line-height:110%;
   margin: 0;
   padding: 0;
 }  
