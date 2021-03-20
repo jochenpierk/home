@@ -20,10 +20,10 @@ author_profile: true
   padding: 1px;
  }
 .left {
-  width: 85%;
+  width: 90%;
 }
 .right {
-  width: 15%;
+  width: 10%;
 }
 /* Clear floats after the columns */
 .row:after {
@@ -42,8 +42,6 @@ br {
 }
 ul.no-bullets {
   list-style-type: none; 
-  padding: 0; 
-  margin: 5; 
   line-height:130%;
 }  
   
