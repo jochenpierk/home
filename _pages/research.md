@@ -122,24 +122,24 @@ ul.no-bullets {
    <li > <span class="__dimensions_badge_embed__" data-doi="10.1016/j.jaccpubpol.2015.12.005" data-style="small_rectangle"> </span>  </li>    
    
    
-   <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+   <br> <br> <br> <br> <br> <br> <br> <br> <br> 
    
  <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3370953" data-popup="right" data-size="small" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true">Auditor Alignment and the Internal Information Environment</a>  </li>
- 
+ <br> 
  <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.ssrn.3496543" data-popup="right" data-size="small" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true">Auditor Alignment and the Internal Information Environment</a>  </li>
- 
+ <br> 
  <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3108489" data-popup="right" data-size="small" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true">Auditor Alignment and the Internal Information Environment</a>  </li>
- 
+ <br> 
  <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3370953" data-popup="right" data-size="small" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true">Auditor Alignment and the Internal Information Environment</a>  </li>
- 
+ <br> 
  <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3703590" data-popup="right" data-size="small" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true">Auditor Alignment and the Internal Information Environment</a>  </li>
- 
+ <br> <br> <br> <br> <br> 
  <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3657391" data-popup="right" data-size="small" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true">Auditor Alignment and the Internal Information Environment</a>  </li>
  
 
    
     
-</ul> </font> 
+</ul> 
 </font> 
 </div>
 
