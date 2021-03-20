@@ -119,37 +119,20 @@ ul.no-bullets {
  
    
    <li > <span class="__dimensions_badge_embed__" data-doi="10.1016/j.jaccpubpol.2018.09.005" data-style="small_rectangle"> </span>  </li>    
-    <br>
+    <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
    
-   <li >   </li>
-   <li >   </li>
-   
-   <li >   </li>
-   <li >   </li>
-
-</ul> 
-
-<h3>  </h3>
-
-<font size="2">  
-  <ul style="list-style-type:none">
-   <li>   </li>
-   <li>   </li>
+ <li >  <span data-badge-type="2" data-link-target='_blank' data-doi="10.2139/ssrn.3576389   data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>    </li>
   
-   <li>   </li>
-   <li>   </li>
-    
-   <li>   </li>
-   <li>   </li>
-   
-   <li>   </li>
-   <li>   </li>
-   
-   <li>   </li>
-   <li>   </li>
-   
-   <li>   </li>
-   <li>   </li>
+   <li >  <span data-badge-type="2" data-link-target='_blank' data-doi="10.2139/ssrn.3370953  data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>    </li>
+  
+   <li >  <span data-badge-type="2" data-link-target='_blank' data-doi="10.2139/ssrn.3496543  data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>    </li>
+  
+   <li >  <span data-badge-type="2" data-link-target='_blank' data-doi="10.2139/ssrn.3108489  data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>    </li>
+  
+   <li >  <span data-badge-type="2" data-link-target='_blank' data-doi="10.2139/ssrn.3703590  data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>    </li>
+
+   <li >  <span data-badge-type="2" data-link-target='_blank' data-doi="10.2139/ssrn.3657391  data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>    </li>
+  
     
 </ul> </font> 
 </font> 
