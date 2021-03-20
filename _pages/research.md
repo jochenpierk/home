@@ -7,6 +7,15 @@ author_profile: true
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
+span.a {
+  display: inline; /* the default for span */
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;
+  background-color: yellow;
+}
+
 
 
 <h3> Publications </h3>
@@ -14,7 +23,7 @@ author_profile: true
 <font size="3"> 
  <ul>
    <li>  <a href="https://www.tandfonline.com/doi/full/10.1080/00014788.2020.1783634" target="_blank">Big baths and CEO overconfidence</a>, singled authored. 
-       <ul>  <li>  Accounting and Business Research, 2021.  <a class="__dimensions_badge_embed__" data-doi="10.1080/00014788.2020.1783634" data-style="small_rectangle"></a>   <span data-badge-type="2" data-link-target='_blank' data-doi="10.1080/00014788.2020.1783634" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>
+       <ul>  <li>  Accounting and Business Research, 2021.  <span class="__dimensions_badge_embed__" data-doi="10.1080/00014788.2020.1783634" data-style="small_rectangle"></span>   <span data-badge-type="2" data-link-target='_blank' data-doi="10.1080/00014788.2020.1783634" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>
         </li> </ul> </li>
   
  <li>  <a href="https://onlinelibrary.wiley.com/doi/10.1111/jbfa.12502" target="_blank">Tax Rule Changes and the Timing of Asset Write-Offs in Loss Firms</a>, with S. Kohlhase.   
