@@ -82,7 +82,11 @@ author_profile: true
 </font> 
 </div>
 
-
+<style>
+ul {
+  padding-left: 0;
+}
+</style>
 
 <div class="row">
   <div class="column right" >
@@ -90,19 +94,19 @@ author_profile: true
 <font size="2"> 
  <ul style="list-style-type:none">
    <li> <span class="__dimensions_badge_embed__" data-doi="10.1080/00014788.2020.1783634" data-style="small_rectangle"> </span>   
-   <ul>  <li>  <span data-badge-type="2" data-link-target='_blank' data-doi="10.1080/00014788.2020.1783634" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>   </li>  </ul> </li>
+   <ul style="list-style-type:none">  <li>  <span data-badge-type="2" data-link-target='_blank' data-doi="10.1080/00014788.2020.1783634" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>   </li>  </ul> </li>
   
    <li> <span class="__dimensions_badge_embed__" data-doi="10.1111/jbfa.12502" data-style="small_rectangle"> </span>   
-   <ul>  <li> <span data-badge-type="2" data-link-target='_blank' data-doi="10.1111/jbfa.12502" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>   </li>  </ul> </li>
+   <ul style="list-style-type:none">  <li> <span data-badge-type="2" data-link-target='_blank' data-doi="10.1111/jbfa.12502" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>   </li>  </ul> </li>
 
    <li> <span class="__dimensions_badge_embed__" data-doi="10.1057/s41267-019-00287-9" data-style="small_rectangle"> </span>  
-   <ul>  <li>  <span data-badge-type="2" data-link-target='_blank' data-doi="10.1057/s41267-019-00287-9" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>   </li>  </ul> </li>
+   <ul style="list-style-type:none">  <li>  <span data-badge-type="2" data-link-target='_blank' data-doi="10.1057/s41267-019-00287-9" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>   </li>  </ul> </li>
    
    <li> <span class="__dimensions_badge_embed__" data-doi="10.1080/00014788.2020.1783634" data-style="small_rectangle"> </span>   
-   <ul>  <li> <span data-badge-type="2" data-link-target='_blank' data-doi="10.1080/00014788.2020.1783634" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>   </li>  </ul> </li>
+   <ul style="list-style-type:none">  <li> <span data-badge-type="2" data-link-target='_blank' data-doi="10.1080/00014788.2020.1783634" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>   </li>  </ul> </li>
    
    <li> <span class="__dimensions_badge_embed__" data-doi="10.1080/00014788.2020.1783634" data-style="small_rectangle"> </span>    
-   <ul>  <li> <span data-badge-type="2" data-link-target='_blank' data-doi="10.1080/00014788.2020.1783634" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>   </li>  </ul> </li>
+   <ul style="list-style-type:none">  <li> <span data-badge-type="2" data-link-target='_blank' data-doi="10.1080/00014788.2020.1783634" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>   </li>  </ul> </li>
    
    <li>   </li>
    <li>   </li>
