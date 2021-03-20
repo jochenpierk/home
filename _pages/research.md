@@ -36,10 +36,10 @@ ul.no-bullets {
 <body>
 
  <h3> Publications </h3>
- <font size="3"> 
+ 
   
  <table style="width:100%"> 
- 
+ <font size="3"> 
 <tr>
    <td>
    <li>  <a href="https://www.tandfonline.com/doi/full/10.1080/00014788.2020.1783634" target="_blank">Big baths and CEO overconfidence</a>, singled authored. 
@@ -106,8 +106,7 @@ ul.no-bullets {
    </td>
     <td></td>
 </tr>
-</table>
- </font> 
+
 
 
  
