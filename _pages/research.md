@@ -97,7 +97,7 @@ br {
   <div class="column right" >
     <h3> Metrics </h3>
 <font size="2"> 
- <ul style="list-style-type:none" line-height:130%>
+ <ul style="list-style-type:none" style=line-height:130%>
    <li> <span class="__dimensions_badge_embed__" data-doi="10.1080/00014788.2020.1783634" data-style="small_rectangle"> </span>   </li> 
    <li> <span data-badge-type="2" data-link-target='_blank' data-doi="10.1080/00014788.2020.1783634" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>   </li>  
   
