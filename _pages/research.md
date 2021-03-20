@@ -105,7 +105,7 @@ ul.no-bullets {
    </td>
     <td></td>
 </tr>
-
+</table>
   
    
 
@@ -176,5 +176,8 @@ ul.no-bullets {
    <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3657391" data-popup="left" data-size="small" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true"></a>  </li> </ul>
    </td>
 </tr>
+</table>
+
+</body>
 
   
