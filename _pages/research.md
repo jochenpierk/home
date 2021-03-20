@@ -97,7 +97,7 @@ br {
   <div class="column right" >
     <h3> Metrics </h3>
 <font size="2"> 
- <ul style="list-style-type:none">
+ <ul style="list-style-type:none" line-height:130%>
    <li> <span class="__dimensions_badge_embed__" data-doi="10.1080/00014788.2020.1783634" data-style="small_rectangle"> </span>   </li> 
    <li> <span data-badge-type="2" data-link-target='_blank' data-doi="10.1080/00014788.2020.1783634" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>   </li>  
   
@@ -109,11 +109,11 @@ br {
    <br>
    
    <li> <span class="__dimensions_badge_embed__" data-doi="10.1016/j.jaccpubpol.2018.09.005" data-style="small_rectangle"> </span>   </li>
-   <li>  <span data-badge-type="2" data-link-target='_blank' data-doi="10.1057/s41267-019-00287-9" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>    </li>
+   <li>  <span data-badge-type="2" data-link-target='_blank' data-doi="10.1016/j.jaccpubpol.2018.09.005" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>    </li>
     <br>
    
    <li> <span class="__dimensions_badge_embed__" data-doi="10.1016/j.jaccpubpol.2018.09.005" data-style="small_rectangle"> </span>  </li>    
-    <li>  <span data-badge-type="2" data-link-target='_blank' data-doi="10.1057/s41267-019-00287-9" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>    </li>
+    <li>  <span data-badge-type="2" data-link-target='_blank' data-doi="10.1016/j.jaccpubpol.2018.09.005" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>    </li>
    
    <li>   </li>
    <li>   </li>
