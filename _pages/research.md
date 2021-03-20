@@ -36,7 +36,7 @@ ul.no-bullets {
 <body>
 
  <h3> Publications </h3>
- <font size="2"> 
+ <font size="3"> 
   
  <table style="width:100%"> 
  
@@ -107,7 +107,7 @@ ul.no-bullets {
     <td></td>
 </tr>
 </table>
-
+ </font> 
 
 
  
