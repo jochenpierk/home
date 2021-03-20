@@ -79,18 +79,67 @@ author_profile: true
 <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3657391" target="_blank"> Does Shark Tank Enhance Entrepreneurial Activities</a> , with C. D. Peter.  
   <ul>  <li> Status: Submitted </li> </ul> </li>
 </ul> </font> 
-
 </font> 
 </div>
 
+
+
+<div class="row">
   <div class="column right" >
+    <h3> P </h3>
 <font size="3"> 
  <ul>
-   <li> <span class="__dimensions_badge_embed__" data-doi="10.1080/00014788.2020.1783634" data-style="small_rectangle"> </span> </li> 
-   <li> <span data-badge-type="2" data-link-target='_blank' data-doi="10.1080/00014788.2020.1783634" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span> </li>
- </ul> 
+   <li> <span class="__dimensions_badge_embed__" data-doi="10.1080/00014788.2020.1783634" data-style="small_rectangle"> </span>   </li>
+   <li> <span data-badge-type="2" data-link-target='_blank' data-doi="10.1080/00014788.2020.1783634" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>   </li>
+  
+   <li> <span class="__dimensions_badge_embed__" data-doi="10.1080/00014788.2020.1783634" data-style="small_rectangle"> </span>   </li>
+   <li> <span data-badge-type="2" data-link-target='_blank' data-doi="10.1080/00014788.2020.1783634" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>   </li>
 
+   <li> <span class="__dimensions_badge_embed__" data-doi="10.1080/00014788.2020.1783634" data-style="small_rectangle"> </span>   </li>
+   <li> <span data-badge-type="2" data-link-target='_blank' data-doi="10.1080/00014788.2020.1783634" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>   </li>
+   
+   <li> <span class="__dimensions_badge_embed__" data-doi="10.1080/00014788.2020.1783634" data-style="small_rectangle"> </span>   </li>
+   <li> <span data-badge-type="2" data-link-target='_blank' data-doi="10.1080/00014788.2020.1783634" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>   </li>
+   
+   <li> <span class="__dimensions_badge_embed__" data-doi="10.1080/00014788.2020.1783634" data-style="small_rectangle"> </span>    </li>
+   <li> <span data-badge-type="2" data-link-target='_blank' data-doi="10.1080/00014788.2020.1783634" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>   </li>
+   
+   <li>   </li>
+   <li>   </li>
+   
+   <li>   </li>
+   <li>   </li>
+
+</ul> 
+
+<h3>  </h3>
+
+<font size="3">  
+  <ul>
+   <li>   </li>
+   <li>   </li>
+  
+   <li>   </li>
+   <li>   </li>
+    
+   <li>   </li>
+   <li>   </li>
+   
+   <li>   </li>
+   <li>   </li>
+   
+   <li>   </li>
+   <li>   </li>
+   
+   <li>   </li>
+   <li>   </li>
+    
+</ul> </font> 
 </font> 
 </div>
+
+
+
+ 
  
 
