@@ -31,7 +31,10 @@ author_profile: true
   display: table;
   clear: both;
 }
-ul li, ol li {
+ul  {
+     line-height:130%; 
+}
+li  {
      line-height:130%; 
 }
 br {
