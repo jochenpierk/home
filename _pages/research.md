@@ -59,7 +59,7 @@ ul.no-bullets {
       <ul class="no-bullets">
       <li > <span class="__dimensions_badge_embed__" data-doi="10.1111/jbfa.12502" data-style="small_rectangle"> </span>   </li>
       <li > <span data-badge-type="2" data-link-target='_blank' data-doi="10.1111/jbfa.12502" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>   </li> </ul>
-    </td
+    </td>
 </tr>        
 <tr>
     <td>
@@ -106,8 +106,66 @@ ul.no-bullets {
    </td>
     <td></td>
 </tr>
+</table>
+  
+   
 
+ <h3> Working Paper </h3>
 
-
- 
-
+<table style="width:100%"> 
+ <font size="3"> 
+<tr>
+   <td>
+      <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3576389" target="_blank"> Public Peers, Accounting Comparability, and Value Relevance of Private Firms' Financial Reporting </a>, with T. Bourveau, J. V. Chen, and F. Elfers. 
+      <ul>  <li> Status: Revise and resubmit </li> </ul> </li>
+   </td>
+   <td>
+   <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3370953" data-popup="left" data-size="small" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true"></a>  </li> 
+   </td>
+</tr>
+<tr>
+   <td>
+ <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3496543" target="_blank"> Accounting Research on Private Firms: An Institutional and Topical Overview </a>, with C. Beuselinck, F. Elfers, and J. Gassen. 
+  <ul>  <li> Status: Revise and resubmit </li> </ul> </li>
+   </td>
+   <td>
+    <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3496543" data-popup="left" data-size="small" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true"></a>  </li> 
+   </td>
+</tr>
+<tr>
+   <td>
+   <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3108489" target="_blank"> On the Dynamics between Local and International Tax Planning in Multinational Corporations </a>, with C. Beuselinck. 
+  <ul>  <li> Status: Revise and resubmit </li> </ul> </li>
+   </td>
+   <td>
+    <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3108489" data-popup="left" data-size="small" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true"></a>  </li>
+   </td>
+</tr>
+<tr>
+   <td>
+   <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3703590" target="_blank"> Brexit! The Effect of Political Uncertainty on International Research Collaborations of Firms and Research Institutions</a> , with B. Osswald. 
+  <ul>    
+   <li> Status: Submitted   </li>  
+   </td>
+   <td>
+   <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3370953" data-popup="left" data-size="small" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true"></a>  </li>
+   </td>
+</tr>
+<tr>
+   <td>
+    <li> Covered by <a href= "https://www.ft.com/content/ed2e508e-cfcf-4469-ab28-a26dffbb4d5e" target="_blank">Financial Times</a> and <a href= "https://www.nature.com/articles/d41586-020-02920-2" target="_blank">Nature</a>.    </li>  
+   <li> <a href= "https://jochenpierk.github.io/brexit_collaborations/index.html" target="_blank"> Online Appendix</a> (Collaborations by firm/university) </li>  
+    </td>
+   <td>
+  <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3703590" data-popup="left" data-size="small" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true"></a>  </li>
+   </td>
+</tr>
+<tr>
+   <td>
+ <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3657391" target="_blank"> Does Shark Tank Enhance Entrepreneurial Activities</a> , with C. D. Peter.  
+  <ul>  <li> Status: Submitted </li> </ul> </li>
+   </td>
+   <td>
+   <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3657391" data-popup="left" data-size="small" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true"></a>  </li> 
+   </td>
+</tr>
