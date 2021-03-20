@@ -41,10 +41,10 @@ br {
      line-height:130%;
 }
 ul.no-bullets {
-  list-style-type: none; /* Remove bullets */
-  padding: 0; /* Remove padding */
-  margin: 0; /* Remove margins */
-    line-height:130%;
+  list-style-type: none; 
+  padding: 0; 
+  margin: 0; 
+  line-height:130%;
 }  
   
 </style>
