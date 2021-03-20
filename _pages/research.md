@@ -118,7 +118,7 @@ ul.no-bullets {
     <br>
  
    
-   <li > <span class="__dimensions_badge_embed__" data-doi="10.1016/j.jaccpubpol.2018.09.005" data-style="small_rectangle"> </span>  </li>    
+   <li > <span class="__dimensions_badge_embed__" data-doi="0.1016/j.jaccpubpol.2015.12.005" data-style="small_rectangle"> </span>  </li>    
    
    
    <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
