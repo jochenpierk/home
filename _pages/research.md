@@ -7,20 +7,39 @@ author_profile: true
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-span.a {
-  display: inline; /* the default for span */
-  width: 100px;
-  height: 100px;
-  padding: 5px;
-  border: 1px solid blue;
-  background-color: yellow;
+* {
+  box-sizing: border-box;
+}
+/* Create two unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+ }
+.left {
+  width: 70%;
+}
+.right {
+  width: 30%;
+}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 </style>
-
+</head>
+<body>
+  
 
 <h3> Publications </h3>
 
+<div class="row">
+  <div class="column left" >
 <font size="3"> 
  <ul>
    <li>  <a href="https://www.tandfonline.com/doi/full/10.1080/00014788.2020.1783634" target="_blank">Big baths and CEO overconfidence</a>, singled authored. 
@@ -42,6 +61,17 @@ span.a {
          <ul>  <li> Der Betrieb, 2011. </li> </ul> </li>  
 </ul> 
 </font> 
+</div>
+
+  <div class="column left" >
+<font size="3"> 
+ <ul>
+   <li> <span class="__dimensions_badge_embed__" data-doi="10.1080/00014788.2020.1783634" data-style="small_rectangle"> </span> </li> 
+   <li> <span data-badge-type="2" data-link-target='_blank' data-doi="10.1080/00014788.2020.1783634" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span> </li>
+ </ul> 
+
+</font> 
+</div>
  
 <h3> Working Papers </h3>
 
