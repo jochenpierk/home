@@ -20,10 +20,10 @@ author_profile: true
   padding: 1px;
  }
 .left {
-  width: 80%;
+  width: 85%;
 }
 .right {
-  width: 20%;
+  width: 15%;
 }
 /* Clear floats after the columns */
 .row:after {
@@ -104,7 +104,7 @@ ul.no-bullets {
   <div class="column right" >
     <h3> Metrics </h3>
 <font size="2"> 
- <ul.no-bullets >
+ <ul.no-bullets>
    <li > <span class="__dimensions_badge_embed__" data-doi="10.1080/00014788.2020.1783634" data-style="small_rectangle"> </span>   </li> 
    <li > <span data-badge-type="2" data-link-target='_blank' data-doi="10.1080/00014788.2020.1783634" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>   </li>  
   
