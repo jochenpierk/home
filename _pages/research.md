@@ -60,19 +60,7 @@ author_profile: true
  <li>  <a href="https://kor-ifrs.owlit.de/document/zeitschriften/der-betrieb/2011/heft-19/betriebswirtschaft/aufsatze/pensionsruckstellungen-nach-dem-bilmog---erst/MLX_974f" target="_blank"> Pension provisions according to new German GAAP – Empirical evidence from early adopters (in German)</a>, with J. Gassen and M. Weil.  
          <ul>  <li> Der Betrieb, 2011. </li> </ul> </li>  
 </ul> 
-</font> 
-</div>
 
-  <div class="column left" >
-<font size="3"> 
- <ul>
-   <li> <span class="__dimensions_badge_embed__" data-doi="10.1080/00014788.2020.1783634" data-style="small_rectangle"> </span> </li> 
-   <li> <span data-badge-type="2" data-link-target='_blank' data-doi="10.1080/00014788.2020.1783634" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span> </li>
- </ul> 
-
-</font> 
-</div>
- 
 <h3> Working Papers </h3>
 
 <font size="3">  <ul>
@@ -94,3 +82,18 @@ author_profile: true
 <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3657391" target="_blank"> Does Shark Tank Enhance Entrepreneurial Activities</a> , with C. D. Peter.  
   <ul>  <li> Status: Submitted </li> </ul> </li>
 </ul> </font> 
+
+</font> 
+</div>
+
+  <div class="column left" >
+<font size="3"> 
+ <ul>
+   <li> <span class="__dimensions_badge_embed__" data-doi="10.1080/00014788.2020.1783634" data-style="small_rectangle"> </span> </li> 
+   <li> <span data-badge-type="2" data-link-target='_blank' data-doi="10.1080/00014788.2020.1783634" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span> </li>
+ </ul> 
+
+</font> 
+</div>
+ 
+
