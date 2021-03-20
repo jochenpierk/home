@@ -17,13 +17,13 @@ author_profile: true
 /* Create two unequal columns that floats next to each other */
 .column {
   float: left;
-  padding: 10px;
+  padding: 1px;
  }
 .left {
-  width: 70%;
+  width: 80%;
 }
 .right {
-  width: 30%;
+  width: 20%;
 }
 /* Clear floats after the columns */
 .row:after {
@@ -41,7 +41,7 @@ author_profile: true
 <div class="row">
   <div class="column left" >
     <h3> Publications </h3>
-<font size="3"> 
+<font size="2"> 
    <ul>
    <li>  <a href="https://www.tandfonline.com/doi/full/10.1080/00014788.2020.1783634" target="_blank">Big baths and CEO overconfidence</a>, singled authored. 
        <ul>  <li>  Accounting and Business Research, 2021.    </li> </ul> </li>
@@ -60,7 +60,7 @@ author_profile: true
 
 <h3> Working Papers </h3>
 
-<font size="3">  <ul>
+<font size="2">  <ul>
 <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3370953" target="_blank"> Auditor Alignment and the Internal Information Environment </a>,  with E. Labro, C. D. Peter, and C. van Linden. 
   <ul>  <li> Status: Revise and resubmit </li> </ul> </li>
 <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3576389" target="_blank"> Public Peers, Accounting Comparability, and Value Relevance of Private Firms' Financial Reporting </a>, with T. Bourveau, J. V. Chen, and F. Elfers. 
@@ -86,8 +86,8 @@ author_profile: true
 
 <div class="row">
   <div class="column right" >
-    <h3>  </h3>
-<font size="3"> 
+    <h3> Metrics </h3>
+<font size="2"> 
  <ul style="list-style-type:none">
    <li> <span class="__dimensions_badge_embed__" data-doi="10.1080/00014788.2020.1783634" data-style="small_rectangle"> </span>   </li>
    <li> <span data-badge-type="2" data-link-target='_blank' data-doi="10.1080/00014788.2020.1783634" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>   </li>
@@ -112,9 +112,9 @@ author_profile: true
 
 </ul> 
 
-<h3> Metrics </h3>
+<h3>  </h3>
 
-<font size="3">  
+<font size="2">  
   <ul style="list-style-type:none">
    <li>   </li>
    <li>   </li>
