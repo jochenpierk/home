@@ -12,7 +12,9 @@ author_profile: true
 <font size="3"> 
  <ul>
    <li>  <a href="https://www.tandfonline.com/doi/full/10.1080/00014788.2020.1783634" target="_blank">Big baths and CEO overconfidence</a>, singled authored. 
-       <ul>  <li>  Accounting and Business Research, 2021.  </li> </ul> </li>
+       <ul>  <li>  Accounting and Business Research, 2021. 
+        <span class="__dimensions_badge_embed__" data-doi="10.1080/00014788.2020.1783634"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+        </li> </ul> </li>
  <li>  <a href="https://onlinelibrary.wiley.com/doi/10.1111/jbfa.12502" target="_blank">Tax Rule Changes and the Timing of Asset Write-Offs in Loss Firms</a>, with S. Kohlhase.   
        <ul>  <li> Journal of Business Finance & Accounting, 2020.  </li> </ul> </li>
 
