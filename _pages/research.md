@@ -86,9 +86,9 @@ author_profile: true
 
 <div class="row">
   <div class="column right" >
-    <h3> P </h3>
+    <h3>  </h3>
 <font size="3"> 
- <ul>
+ <ul style="list-style-type:none">
    <li> <span class="__dimensions_badge_embed__" data-doi="10.1080/00014788.2020.1783634" data-style="small_rectangle"> </span>   </li>
    <li> <span data-badge-type="2" data-link-target='_blank' data-doi="10.1080/00014788.2020.1783634" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>   </li>
   
@@ -115,7 +115,7 @@ author_profile: true
 <h3>  </h3>
 
 <font size="3">  
-  <ul>
+  <ul style="list-style-type:none">
    <li>   </li>
    <li>   </li>
   
