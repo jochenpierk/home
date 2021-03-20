@@ -7,6 +7,7 @@ author_profile: true
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
+<style>
 span.a {
   display: inline; /* the default for span */
   width: 100px;
@@ -15,7 +16,7 @@ span.a {
   border: 1px solid blue;
   background-color: yellow;
 }
-
+</style>
 
 
 <h3> Publications </h3>
