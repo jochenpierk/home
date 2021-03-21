@@ -4,6 +4,17 @@ title: "Coverage"
 permalink: /coverage/
 author_profile: true
 ---
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-05633BF9HL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-05633BF9HL'), {'anonymize_ip': true};
+</script>
+
 <h3> In the News (paper covered) </h3>
 
 <font size="3"> <ul>
