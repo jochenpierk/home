@@ -51,7 +51,7 @@ table, th, td {
     font-size: 18px;
   }
  tr   {
- height:40px
+ height:20px
  } 
   
 </style>
