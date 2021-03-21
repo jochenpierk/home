@@ -46,13 +46,13 @@ ul.no-bullets {
 }  
 table, th, td {
   border: none;
+  padding-bottom: 0;
 }
  th, td {
     font-size: 18px;
+      padding-bottom: 0;
   }
- tr   {
- height:20px
- } 
+
   
 </style>
 </head>
