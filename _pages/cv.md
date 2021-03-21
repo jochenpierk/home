@@ -13,7 +13,7 @@ redirect_from:
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-05633BF9HL'), {'anonymize_ip': true};
+   gtag('config', 'G-05633BF9HL', {'anonymize_ip': true});
 </script>
 
 <h3>Academic Positions </h3>
