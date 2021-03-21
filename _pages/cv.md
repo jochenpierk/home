@@ -6,6 +6,15 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-05633BF9HL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-05633BF9HL'), {'anonymize_ip': true};
+</script>
 
 <h3>Academic Positions </h3>
 
