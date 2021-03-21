@@ -46,7 +46,7 @@ ul.no-bullets {
 }  
 table, th, td {
   border: none;
-  font-size: 18;
+  font-size: 25;
 }
 </style>
 </head>
