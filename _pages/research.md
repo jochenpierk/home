@@ -30,17 +30,17 @@ author_profile: true
 <style>
 
 ul  {
-     line-height:120%; 
+     line-height:100%; 
 }
 li  {
-     line-height:120%; 
+     line-height:100%; 
 }
 br {
      line-height:100%;
 }
 ul.no-bullets {
   list-style-type: none; 
-  line-height:120%;
+  line-height:100%;
   margin: 0;
   padding: 0;
 }  
