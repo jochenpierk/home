@@ -4,9 +4,23 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-05633BF9HL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-05633BF9HL'), {'anonymize_ip': true};
+</script>
+
+
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+
 
 <html>
 <head>
