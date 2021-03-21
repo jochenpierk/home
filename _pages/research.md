@@ -53,7 +53,7 @@ table, th, td {
 <body>
 
  <h3> Publications </h3>
-   
+ <font size="3">   
  <table style="width:100%"> 
 
 <tr>
@@ -123,7 +123,7 @@ table, th, td {
     <td></td>
 </tr>
 </table>
-  
+</font>   
    
 
  <h3> Working Paper </h3>
