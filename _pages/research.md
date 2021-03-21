@@ -50,6 +50,10 @@ table, th, td {
  th, td {
     font-size: 18px;
   }
+ tr   {
+ height:40px
+ } 
+  
 </style>
 </head>
 
