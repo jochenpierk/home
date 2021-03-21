@@ -11,7 +11,7 @@ author_profile: true
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-05633BF9HL'), {'anonymize_ip': true};
+   gtag('config', 'G-05633BF9HL', {'anonymize_ip': true});
 </script> 
  
 <h3> Workshop Organization </h3>
