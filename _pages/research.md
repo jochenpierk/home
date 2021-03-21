@@ -30,17 +30,17 @@ author_profile: true
 <style>
 
 ul  {
-     line-height:145%; 
+     line-height:120%; 
 }
 li  {
-     line-height:145%; 
+     line-height:120%; 
 }
 br {
-     line-height:145%;
+     line-height:100%;
 }
 ul.no-bullets {
   list-style-type: none; 
-  line-height:140%;
+  line-height:120%;
   margin: 0;
   padding: 0;
 }  
@@ -54,7 +54,7 @@ table, th, td {
 <body>
 
  <h3> Publications </h3>
- <font size="3">   
+
  <table style="width:100%"> 
 
 <tr>
