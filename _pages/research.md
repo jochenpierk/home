@@ -77,7 +77,7 @@ table, th, td {
    
  <tr>
    <td>
-   <li>  <a href="https://www.tandfonline.com/doi/full/10.1080/00014788.2020.1783634" target="_blank">Big baths and CEO overconfidence</a>, singled authored. 
+   <li>  <a href="https://www.tandfonline.com/doi/full/10.1080/00014788.2020.1783634" target="_blank">Big baths and CEO overconfidence</a> 
        <ul>  <li> <i>Accounting and Business Research</i>, 2021.    </li> </ul> </li>
    </td>
    <td>
@@ -100,7 +100,7 @@ table, th, td {
 </tr>  
 <tr>
      <td>
-       <li>   <a href="https://www.sciencedirect.com/science/article/pii/S027842541830187X" target="_blank">IPOs and IFRS in European exchange-regulated markets: A research note</a>, singled authored. 
+       <li>   <a href="https://www.sciencedirect.com/science/article/pii/S027842541830187X" target="_blank">IPOs and IFRS in European exchange-regulated markets: A research note</a> 
        <ul>  <li> <i>Journal of Accounting and Public Policy</i>, 2018. </li> </ul> </li>
      </td>
      <td> 
@@ -154,7 +154,7 @@ table, th, td {
 </tr>
 <tr>
    <td>
-     <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3496543" target="_blank"> Accounting Research on Private Firms: An Institutional and Topical Overview </a>, with C. Beuselinck, F. Elfers, and J. Gassen. 
+     <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3496543" target="_blank"> Private Firm Accounting: The European Reporting Environment, Data and Research Perspectives </a>, with C. Beuselinck, F. Elfers, and J. Gassen. 
      <ul>  <li> Status: Revise and resubmit </li> </ul> </li>
    </td>
    <td>
