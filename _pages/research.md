@@ -63,7 +63,19 @@ table, th, td {
  
  <table style="width:100%"> 
 
-<tr>
+
+ <tr>
+   <td>
+   <li>  <a href="https://onlinelibrary.wiley.com/doi/10.1111/jbfa.12502" target="_blank">Tax Rule Changes and the Timing of Asset Write-Offs in Loss Firms</a>, with S. Kohlhase.  <ul>  <li> <i>Journal of Business Finance & Accounting</i>, 2021.  </li> </ul> </li>
+    </td>
+    <td>
+      <ul class="no-bullets">
+      <li > <span class="__dimensions_badge_embed__" data-doi="10.1111/jbfa.12502" data-style="small_rectangle"> </span>   </li>
+      <li > <span data-badge-type="2" data-link-target='_blank' data-doi="10.1111/jbfa.12502" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>   </li> </ul>
+    </td>
+</tr>    
+   
+ <tr>
    <td>
    <li>  <a href="https://www.tandfonline.com/doi/full/10.1080/00014788.2020.1783634" target="_blank">Big baths and CEO overconfidence</a>, singled authored. 
        <ul>  <li> <i>Accounting and Business Research</i>, 2021.    </li> </ul> </li>
@@ -74,16 +86,7 @@ table, th, td {
    <li > <span data-badge-type="2" data-link-target='_blank' data-doi="10.1080/00014788.2020.1783634" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>   </li>  </ul>
    </td>
 </tr>  
-<tr>
-   <td>
-   <li>  <a href="https://onlinelibrary.wiley.com/doi/10.1111/jbfa.12502" target="_blank">Tax Rule Changes and the Timing of Asset Write-Offs in Loss Firms</a>, with S. Kohlhase.  <ul>  <li> <i>Journal of Business Finance & Accounting</i>, 2020.  </li> </ul> </li>
-    </td>
-    <td>
-      <ul class="no-bullets">
-      <li > <span class="__dimensions_badge_embed__" data-doi="10.1111/jbfa.12502" data-style="small_rectangle"> </span>   </li>
-      <li > <span data-badge-type="2" data-link-target='_blank' data-doi="10.1111/jbfa.12502" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>   </li> </ul>
-    </td>
-</tr>        
+      
 <tr>
     <td>
     <li>  <a href="https://link.springer.com/article/10.1057/s41267-019-00287-9" target="_blank">The Effect of a Worldwide Tax System on Tax Management of Foreign Subsidiaries</a>, with S. Kohlhase.
