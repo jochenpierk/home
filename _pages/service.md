@@ -51,7 +51,7 @@ author_profile: true
 <font size="3"> 
 <ul> 
   <li> 
-Go to <a href="https://jochenpierk.github.io/home/service2/" target="_blank">ACC Publications Updates</a>  
+Go to <a href="https://jochenpierk.github.io/home/service2/">ACC Publications Updates</a>  
   </li>  
 </ul>   
 
