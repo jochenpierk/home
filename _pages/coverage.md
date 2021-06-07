@@ -18,6 +18,8 @@ author_profile: true
 <h3> In the News (paper covered) </h3>
 
 <font size="3"> <ul>
+  <li>  <a href="https://discovery.rsm.nl/articles/503/" target="_blank">Tax rule changes and timing of asset write-offs in loss-making firms</a></li>
+              <ul><li>RSM Discovery, June 04, 2021</li></ul>     
   <li>  <a href="https://techpolicyinstitute.org/2020/12/09/research-roundup-for-december-2020/" target="_blank">Research Roundup for December 2020</a></li>
               <ul> <li> Technology Policy Institute (Think Tank), December 9 </li> </ul> 
   <li>  <a href="https://www.nature.com/articles/d41586-020-02920-2" target="_blank">Brexit's back: the five issues that will shape science</a></li>
