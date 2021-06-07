@@ -14,8 +14,9 @@ author_profile: true
    gtag('config', 'G-05633BF9HL', {'anonymize_ip': true});
 </script> 
  
+<font size="3">  
 On this page, you will find some information on how to easily keep up-to-date with the accounting literature. Since I was increasingly annoyed by the flood of emails from different RSS Feeds and email lists, and I often missed important papers, I structured this for myself in a weekly update that contains all new papers from the (to me) most relevant accounting journals and the SSRN accounting research network. Additionally, I included some finance, econ, and management journals that might be interesting for accounting scholars. While there are certainly other, maybe also more efficient, ways of tracking the literature, this overview might be handy, especially for new PhD students. If this is also interesting to you, feel free to sign up, details below. Similarly, I included an easy way how to screen these journals for specific keywords. 
-
+</font> 
 
   <h3> Publication Updates / New SSRN Paper </h3>
 
