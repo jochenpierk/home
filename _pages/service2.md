@@ -36,3 +36,10 @@ I am posting a weekly update on new accounting publications and SSRN working pap
    <li> Via email: Similarly, send up to 3 keywords (separated by ";") in the body of the email to <a href="mailto:acco.updates@gmail.com?subject=literature&body=keyword1; keyword2; keyword3">acco.updates@gmail.com</a>. Do not include other text in the body of the email and use the subject 'literature'.      
        </li> 
 </ul>   
+  </font> 
+    <h3> Private Firm Accounting Literature </h3>
+<font size="3">
+ <ul> 
+  <li> The online appendix of our paper <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3496543" target="_blank">Private Firm accounting: The European reporting environment, data and research perspectives</a> includes an <a href="https://accresearch.shinyapps.io/private_firm_lit/" target="_blank">online extension</a> that allows to diving deeper into the private firm accounting literature, e.g. explore topics, databases used, sample characteristics, etc. 
+     </li>  <ul> 
+    
