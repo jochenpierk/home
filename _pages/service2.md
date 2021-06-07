@@ -34,6 +34,6 @@ I am posting a weekly update on new accounting publications and SSRN working pap
  <ul> 
   <li> Via twitter: If you send keywords in a direct message to <a href="https://twitter.com/updates_acc?lang=en" target="_blank">@updates_acc</a>, it returns an email with a list of literature that contains these keywords either in the title, abstract, or keywords. Your message should contain your email, followed by up to 3 keywords, separated by ";". For example: Youremail@whatev.com; ifrs; enforcement; mandatory adoption. Note that the list will only contain paper in which all keywords are included. 
  </li> 
-   <li> Via email: Similarly, send up to 3 keywords (separated by ";") in the body of the email to <a href="mailto:acco.updates@gmail.com?subject=literature&body=keyword1; keyword2; keyword3">acco.updates@gmail.com</a> . Do not include other text in the body of the email and use the subject 'literature'.      
+   <li> Via email: Similarly, send up to 3 keywords (separated by ";") in the body of the email to <a href="mailto:acco.updates@gmail.com?subject=literature&body=keyword1; keyword2; keyword3">acco.updates@gmail.com</a>. Do not include other text in the body of the email and use the subject 'literature'.      
        </li> 
 </ul>   
