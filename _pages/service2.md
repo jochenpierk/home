@@ -28,7 +28,7 @@ I am posting a weekly update on new accounting publications and SSRN working pap
   You can also get an email update if specific SSRN working papers are revised, for example, because you cite the SSRN version in your work or just to keep tabs on your favorite working papers. Sign up <a href="http://easys-online.com/ssrn-revision-updates/" target="_blank">here</a>.
   </li> 
 </ul>   
-</font size="3"> 
+</font> 
   <h3> Literature Query </h3>
 <font size="3">
  <ul> 
