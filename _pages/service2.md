@@ -28,6 +28,7 @@ I am posting a weekly update on new accounting publications and SSRN working pap
   </li> 
 </ul>   
 </font> 
+
   <h3> Literature Query </h3>
 <font size="3">
  <ul> 
@@ -37,7 +38,8 @@ I am posting a weekly update on new accounting publications and SSRN working pap
        </li> 
 </ul>   
   </font> 
-    <h3> Private Firm Accounting Literature </h3>
+  
+   <h3> Private Firm Accounting Literature </h3>
 <font size="3">
  <ul> 
   <li> The online appendix of our paper <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3496543" target="_blank">Private Firm accounting: The European reporting environment, data and research perspectives</a> includes an <a href="https://accresearch.shinyapps.io/private_firm_lit/" target="_blank">online extension</a> that allows to diving deeper into the private firm accounting literature, e.g. explore topics, databases used, sample characteristics, etc. 
