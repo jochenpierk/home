@@ -17,6 +17,8 @@ author_profile: true
 
 <h3> Selected Coverage </h3>
 <font size="3"> <ul>
+   <li>  <a href="https://news.bloombergtax.com/daily-tax-report-international/how-tax-loss-offsetting-affects-financial-reporting" target="_blank">How Tax-Loss Offsetting Affects Financial Reporting</a></li>
+              <ul><li>Bloomberg Tax, July 5, 2021</li></ul> 
   <li>  <a href="https://www.nature.com/articles/d41586-020-02920-2" target="_blank">Brexit's back: the five issues that will shape science</a></li>
               <ul><li>Nature, October 22, 2020</li></ul> 
   <li>  <a href="https://www.ft.com/content/241c599f-71db-4854-ac26-b37fc05cbc96" target="_blank">Can the UK and EU finally net that trade deal? </a></li>
