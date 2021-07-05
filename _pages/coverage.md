@@ -17,8 +17,6 @@ author_profile: true
 
 <h3> Selected Coverage </h3>
 <font size="3"> <ul>
-   <li>  <a href="https://news.bloombergtax.com/daily-tax-report-international/how-tax-loss-offsetting-affects-financial-reporting" target="_blank">How Tax-Loss Offsetting Affects Financial Reporting</a></li>
-              <ul><li>Bloomberg Tax, July 5, 2021</li></ul> 
   <li>  <a href="https://www.nature.com/articles/d41586-020-02920-2" target="_blank">Brexit's back: the five issues that will shape science</a></li>
               <ul><li>Nature, October 22, 2020</li></ul> 
   <li>  <a href="https://www.ft.com/content/241c599f-71db-4854-ac26-b37fc05cbc96" target="_blank">Can the UK and EU finally net that trade deal? </a></li>
@@ -30,13 +28,15 @@ author_profile: true
   
  <h3> Authored News Articles / Blogs </h3> 
   <font size="3"> <ul>
-  <li>  <a href="https://discovery.rsm.nl/articles/503/" target="_blank">Tax rule changes and timing of asset write-offs in loss-making firms</a></li>
+     <li>  <a href="https://news.bloombergtax.com/daily-tax-report-international/how-tax-loss-offsetting-affects-financial-reporting" target="_blank">How Tax-Loss Offsetting Affects Financial Reporting</a>, with Saskia Kohlhase</li>
+              <ul><li>Bloomberg Tax, July 5, 2021</li></ul> 
+  <li>  <a href="https://discovery.rsm.nl/articles/503/" target="_blank">Tax rule changes and timing of asset write-offs in loss-making firms</a>, with Saskia Kohlhase</li>
               <ul><li>RSM Discovery, June 04, 2021</li></ul>      
   <li> <a href="https://www.accountant.nl/discussie/opinie/2020/9/tandeloze-waakhonden/" target="_blank">Tandeloze waakhonden</a>, with Ferdinand Elfers</li>
               <ul><li>accountant.nl, September 23, 2020 </li></ul>     
   <li>  <a href="https://arc.eaa-online.org/blog/toothless-watchdogs" target="_blank">Toothless Watchdogs</a>, with Ferdinand Elfers</li>
               <ul><li>Accounting Resource Center, September 2, 2020 </li></ul>   
-   <li>  <a href="https://discovery.rsm.nl/articles/424/" target="_blank">The effect of a worldwide tax system on tax management of foreign subsidiaries</a></li>
+   <li>  <a href="https://discovery.rsm.nl/articles/424/" target="_blank">The effect of a worldwide tax system on tax management of foreign subsidiaries</a>, with Saskia Kohlhase</li>
               <ul><li>RSM Discovery, February 11, 2020</li></ul>     
   </ul> </font> 
  
