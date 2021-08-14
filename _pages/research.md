@@ -98,6 +98,23 @@ table, th, td {
           <li >  <span data-badge-type="2" data-link-target='_blank' data-doi="10.1057/s41267-019-00287-9" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>    </li> </ul>
      </td>
 </tr>  
+   
+
+  <tr>
+    <td>
+    <li>  <a href="https://www.sciencedirect.com/science/article/pii/S027842541830187X" target="_blank">IPOs and IFRS in European exchange-regulated markets: A research note</a>
+     <ul>  <li> <i>Journal of Accounting and Public Policy</i>, 2018. </li> </ul>   </li>
+     </td>
+     <td>
+          <ul class="no-bullets">
+          <li > <span class="__dimensions_badge_embed__" data-doi="10.1016/j.jaccpubpol.2018.09.005" data-style="small_rectangle"> </span>  </li>
+          <li >  <span data-badge-type="2" data-link-target='_blank' data-doi="10.1016/j.jaccpubpol.2018.09.005" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>    </li> </ul>
+     </td>
+</tr>  
+   
+   
+   
+   
 <tr>
      <td>
        <li>   <a href="https://www.sciencedirect.com/science/article/pii/S027842541830187X" target="_blank">IPOs and IFRS in European exchange-regulated markets: A research note</a> 
