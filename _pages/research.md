@@ -64,6 +64,20 @@ table, th, td {
  <table style="width:100%"> 
 
 
+   
+   <tr>
+   <td>
+   <li>  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3496543" target="_blank">Private Firm Accounting: The European Reporting Environment, Data and Research Perspectives</a>, with C. Beuselinck, J. Gassen, and F. Elfers.  <ul>  <li> <i>Accounting and Business Research</i>, accepted.  </li> </ul> </li>
+    </td>
+    <td>
+      <ul class="no-bullets">
+      <li >   </li>
+      <li >   </li> </ul>
+    </td>
+</tr>    
+    
+   
+   
  <tr>
    <td>
    <li>  <a href="https://onlinelibrary.wiley.com/doi/10.1111/jbfa.12502" target="_blank">Tax Rule Changes and the Timing of Asset Write-Offs in Loss Firms</a>, with S. Kohlhase.  <ul>  <li> <i>Journal of Business Finance & Accounting</i>, 2021.  </li> </ul> </li>
@@ -160,16 +174,7 @@ table, th, td {
       <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3576389" data-popup="left" data-size="small" class="plumx-plum-print-popup" data-site="plum" data- hide-when-empty="true"></a>  </li>  </ul>
    </td>
 </tr>
-<tr>
-   <td>
-     <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3496543" target="_blank"> Private Firm Accounting: The European Reporting Environment, Data and Research Perspectives </a>, with C. Beuselinck, F. Elfers, and J. Gassen. 
-     <ul>  <li> Status: Revise and resubmit </li> </ul> </li>
-   </td>
-   <td>
-    <ul class="no-bullets">
-    <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3496543" data-popup="left" data-size="small" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true"></a>  </li>  </ul>
-   </td>
-</tr>
+
 <tr>
    <td>
      <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3108489" target="_blank"> On the Dynamics between Local and International Tax Planning in Multinational Corporations </a>, with C. Beuselinck. 
