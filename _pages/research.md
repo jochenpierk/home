@@ -189,7 +189,7 @@ table, th, td {
 <tr>
    <td>
      <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3370953" target="_blank"> Auditor Alignment and the Internal Information Environment </a>,  with E. Labro, C. D. Peter, and C. van Linden. 
-     <ul>  <li> Status: Work in Progress </li> </ul> </li>
+     <ul>  <li> Status: Submitted </li> </ul> </li>
    </td>
    <td>
       <ul class="no-bullets">
