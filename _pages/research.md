@@ -71,8 +71,8 @@ table, th, td {
     </td>
     <td>
       <ul class="no-bullets">
-      <li >   </li>
-      <li >   </li> </ul>
+      <li >  <span class="__dimensions_badge_embed__" data-doi="10.1080/00014788.2021.1982670" data-style="small_rectangle"> </span>    </li>
+      <li >  <span data-badge-type="2" data-link-target='_blank' data-doi="10.1080/00014788.2021.1982670" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>    </li> </ul>
     </td>
 </tr>    
     
