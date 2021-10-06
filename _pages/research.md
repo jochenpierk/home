@@ -71,7 +71,7 @@ table, th, td {
     </td>
     <td>
       <ul class="no-bullets">
-      <li > </span>    </li>
+      <li >   </li>
       <li >    </li> </ul>
     </td>
 </tr>    
