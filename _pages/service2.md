@@ -24,7 +24,7 @@ I am posting a weekly update on new accounting publications and SSRN working pap
  <p> </p>
  <u>Recent posts:</u> 
  <p> </p>
- <script src="//rss.bloople.net/?url=http%3A%2F%2Feasys-online.com%2Ffeed&detail=-1&limit=5&showtitle=false&type=js"></script>
+ <script src="//rss.bloople.net/?url=http%3A%2F%2Feasys-online.com%2Ffeed&detail=-1&limit=3&showtitle=false&type=js"></script>
  <p> </p>
  
 <h3> SSRN Revision Updates </h3>
