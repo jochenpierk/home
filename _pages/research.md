@@ -222,8 +222,6 @@ table, th, td {
 
   </tr>
 </table>
- <p> If you would like to receive an automated email update if a working paper is revised, please fill in your email address and the 7 digit SSRN ID  
- <a href="http://easys-online.com/ssrn-revision-updates/" target="_blank">here</a>. 
- </p> 
+
 </body>
 
