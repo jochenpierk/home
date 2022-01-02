@@ -22,7 +22,7 @@ author_profile: true
 
 I am posting a weekly update on new accounting publications and SSRN working papers. Feel free to <a href="http://easys-online.com/subscribe-acc-updates/" target="_blank">sign up</a> for a weekly email notification (subscribers: 202, Jan. 2nd, 2022) or follow on <a href="https://twitter.com/updates_acc?lang=en" target="_blank">twitter</a>. 
  <p> </p>
- <b>Recent posts:</b> 
+ <u>Recent posts:</u> 
  <p> </p>
  <script src="//rss.bloople.net/?url=http%3A%2F%2Feasys-online.com%2Ffeed&detail=-1&limit=5&showtitle=false&type=js"></script>
  <p> </p>
