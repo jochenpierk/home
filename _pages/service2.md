@@ -20,13 +20,15 @@ author_profile: true
 
 <font size="3"> 
 
-I am posting a weekly update on new accounting publications and SSRN working papers on the "<a href="http://easys-online.com/accupdate/" target="_blank">ACC Updates website</a>". Feel free to <a href="http://easys-online.com/subscribe-acc-updates/" target="_blank">sign up</a> for a weekly email notification or follow on <a href="https://twitter.com/updates_acc?lang=en" target="_blank">twitter</a>. 
+I am posting a weekly update on new accounting publications and SSRN working papers. Feel free to <a href="http://easys-online.com/subscribe-acc-updates/" target="_blank">sign up</a> for a weekly email notification or follow on <a href="https://twitter.com/updates_acc?lang=en" target="_blank">twitter</a>. 
+ <p> </p>
+ <b>Recent posts:</b> 
+ <p> </p>
+ <script src="//rss.bloople.net/?url=http%3A%2F%2Feasys-online.com%2Ffeed&detail=-1&limit=5&showtitle=false&type=js"></script>
+ <p> </p>
+ 
   
- Recent posts: 
-
-  <script src="//rss.bloople.net/?url=http%3A%2F%2Feasys-online.com%2Ffeed&detail=-1&limit=5&showtitle=false&type=js"></script>
-  
-  You can also get an email update if specific SSRN working papers are revised, for example, because you cite the SSRN version in your work or just to keep tabs on your favorite working papers. Sign up <a href="https://docs.google.com/forms/d/e/1FAIpQLSe0XTerPmxP8zVHMO1SebMfMiNqAnSV5wy_3rXBllsUoY-K7A/viewform?usp=sf_link" target="_blank">here</a>.
+ You can also get an email update if specific SSRN working papers are revised, for example, because you cite the SSRN version in your work or just to keep tabs on your favorite working papers. Sign up <a href="https://docs.google.com/forms/d/e/1FAIpQLSe0XTerPmxP8zVHMO1SebMfMiNqAnSV5wy_3rXBllsUoY-K7A/viewform?usp=sf_link" target="_blank">here</a>.
 
 </font> 
 
