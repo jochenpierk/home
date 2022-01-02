@@ -35,7 +35,6 @@ You can also get an email update if specific SSRN working papers are revised, fo
   
    <h3> Private Firm Accounting Literature </h3>
 <font size="3">
- <ul> 
-  <li> The online appendix of our paper <a href="https://www.tandfonline.com/doi/full/10.1080/00014788.2021.1982670" target="_blank">Private Firm accounting: The European reporting environment, data and research perspectives</a> includes an <a href="https://trr266.wiwi.hu-berlin.de/shiny/pfirmacclit/" target="_blank">online extension</a> that allows diving deeper into the private firm accounting literature, e.g. explore topics, databases used, sample characteristics, etc. 
-     </li>  <ul> 
+ The online appendix of our paper <a href="https://www.tandfonline.com/doi/full/10.1080/00014788.2021.1982670" target="_blank">Private Firm accounting: The European reporting environment, data and research perspectives</a> includes an <a href="https://trr266.wiwi.hu-berlin.de/shiny/pfirmacclit/" target="_blank">online extension</a> that allows diving deeper into the private firm accounting literature, e.g. explore topics, databases used, sample characteristics, etc. 
+   
     
