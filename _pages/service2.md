@@ -24,7 +24,7 @@ author_profile: true
 I am posting a weekly update on new accounting publications and SSRN working papers on the "<a href="http://easys-online.com/accupdate/" target="_blank">ACC Updates website</a>". Feel free to <a href="http://easys-online.com/subscribe-acc-updates/" target="_blank">sign up</a> for a weekly email notification or follow on <a href="https://twitter.com/updates_acc?lang=en" target="_blank">twitter</a>. 
   </li>  
   <li> 
-  You can also get an email update if specific SSRN working papers are revised, for example, because you cite the SSRN version in your work or just to keep tabs on your favorite working papers. Sign up <a href="http://easys-online.com/ssrn-revision-updates/" target="_blank">here</a>.
+  You can also get an email update if specific SSRN working papers are revised, for example, because you cite the SSRN version in your work or just to keep tabs on your favorite working papers. Sign up <a href="https://docs.google.com/forms/d/1h9O4qXGcE6feZLiVytMTDdlqb6nUR24_wbKlxFC0-Pk/edit" target="_blank">here</a>.
   </li> 
 </ul>   
 </font> 
