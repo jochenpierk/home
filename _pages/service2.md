@@ -15,14 +15,14 @@ author_profile: true
 </script> 
  
 <font size="4"> 
-Welcome to my ACC Update page. Below, you will find a few suggestions how to keep up-to-date with the accounting literature. If you have comments or suggestions, send me an <a href = "mailto: pierk@ese.eur.nl">Email</a>. If you find this useful, feel free to share with your colleagues.  
+Welcome to my ACC Update page. Below, you will find a few suggestions on how to keep up-to-date with the accounting literature. If you have comments or suggestions, send me an <a href = "mailto: pierk@ese.eur.nl">Email</a>. If you find this useful, feel free to share it with your colleagues.  
   
 </font>  
 <p> </p>
 
 <h3> Weekly Publication Update </h3>
 <font size="3"> 
-I am posting a weekly update on new accounting publications and SSRN working papers. Feel free to <a href="http://easys-online.com/subscribe-acc-updates/" target="_blank">sign up</a> for a weekly email notification (subscribers: 202, Jan. 2nd, 2022) or follow on <a href="https://twitter.com/updates_acc?lang=en" target="_blank">twitter</a>. 
+I am posting a weekly update on new accounting publications and SSRN working papers. Feel free to <a href="http://easys-online.com/subscribe-acc-updates/" target="_blank">sign up</a> for weekly email notifications (subscribers: 202, Jan. 2nd, 2022) or follow on <a href="https://twitter.com/updates_acc?lang=en" target="_blank">twitter</a>. 
  <p> </p>
  <u>Recent posts:</u> 
  <p> </p>
@@ -32,7 +32,7 @@ I am posting a weekly update on new accounting publications and SSRN working pap
   
 <h3> Personalized Keyword Update </h3>
 <font size="3">  
-Don't want to browse through all new publications? Save time and get a notification if the title of a newly published paper (journal publication or SSRN) contains your kewyord(s). Sign up <a href="https://docs.google.com/forms/d/e/1FAIpQLScOBQPIAO6Y2Wv5uUIHHj-4cUhhUF0snbaAs6Z_OjtVxFi-Fg/viewform?usp=sf_link" target="_blank">here</a>.
+Don't want to browse through all new publications? Save time and get a notification if the title of a newly published paper (journal publication or SSRN) contains your keyword(s). Sign up <a href="https://docs.google.com/forms/d/e/1FAIpQLScOBQPIAO6Y2Wv5uUIHHj-4cUhhUF0snbaAs6Z_OjtVxFi-Fg/viewform?usp=sf_link" target="_blank">here</a>.
 </font>  
   
 <h3> SSRN Revision Updates </h3>
