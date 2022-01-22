@@ -65,7 +65,19 @@ table, th, td {
 
 
    
-   <tr>
+<tr>
+   <td>
+   <li>  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3576389" target="_blank">Public Peers, Accounting Comparability, and Value Relevance of Private Firms' Financial Reporting </a>, with T. Bourveau, J. V. Chen, and F. Elfers.  <ul>  <li> <i>Review of Accounting Studies</i>, accepted.  </li> </ul> </li>
+    </td>
+    <td>
+      <ul class="no-bullets">
+      <li >   </li>
+      <li >    </li> </ul>
+    </td>
+</tr>    
+   
+   
+<tr>
    <td>
    <li>  <a href="https://www.tandfonline.com/doi/full/10.1080/00014788.2021.1982670" target="_blank">Private Firm Accounting: The European Reporting Environment, Data and Research Perspectives</a>, with C. Beuselinck, J. Gassen, and F. Elfers.  <ul>  <li> <i>Accounting and Business Research</i>, 2021.  </li> </ul> </li>
     </td>
@@ -163,17 +175,6 @@ table, th, td {
  <table style="width:100%"> 
 
 
-
-<tr>
-   <td>
-      <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3576389" target="_blank"> Public Peers, Accounting Comparability, and Value Relevance of Private Firms' Financial Reporting </a>, with T. Bourveau, J. V. Chen, and F. Elfers. 
-      <ul>  <li> Status: Revise and resubmit </li> </ul> </li>
-   </td>
-   <td>
-      <ul class="no-bullets">
-      <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3576389" data-popup="left" data-size="small" class="plumx-plum-print-popup" data-site="plum" data- hide-when-empty="true"></a>  </li>  </ul>
-   </td>
-</tr>
 
 <tr>
    <td>
