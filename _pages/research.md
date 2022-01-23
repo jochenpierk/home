@@ -59,6 +59,8 @@ table, th, td {
 
 <body>
 
+  
+  
  <h3> Publications </h3>
  
  <table style="width:100%"> 
@@ -79,7 +81,7 @@ table, th, td {
    
 <tr>
    <td>
-   <li>  <a href="https://www.tandfonline.com/doi/full/10.1080/00014788.2021.1982670" target="_blank">Private Firm Accounting: The European Reporting Environment, Data and Research Perspectives</a>, with C. Beuselinck, J. Gassen, and F. Elfers.  <ul>  <li> <i>Accounting and Business Research</i>, 2021.  </li> </ul> </li>
+   <li>  <a href="https://www.tandfonline.com/doi/full/10.1080/00014788.2021.1982670" target="_blank">Private Firm Accounting: The European Reporting Environment, Data and Research Perspectives</a>, with C. Beuselinck, J. Gassen, and F. Elfers.  <ul>  <li> <i>Accounting and Business Research</i>, 2021. <img src="https://github.com/jochenpierk/home/blob/master/open_access.JPG width="20%" height="20%">  </li> </ul> </li>
     </td>
     <td>
       <ul class="no-bullets">
