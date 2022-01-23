@@ -59,8 +59,7 @@ table, th, td {
 
 <body>
 
-  
-  
+
  <h3> Publications </h3>
  
  <table style="width:100%"> 
@@ -69,7 +68,7 @@ table, th, td {
    
 <tr>
    <td>
-   <li>  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3576389" target="_blank">Public Peers, Accounting Comparability, and Value Relevance of Private Firms' Financial Reporting </a>, with T. Bourveau, J. V. Chen, and F. Elfers.  <ul>  <li> <i>Review of Accounting Studies</i>, accepted.  </li> </ul> </li>
+   <li>  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3576389" target="_blank">Public Peers, Accounting Comparability, and Value Relevance of Private Firms' Financial Reporting</a>, with T. Bourveau, J. V. Chen, and F. Elfers.  <ul>  <li> <i>Review of Accounting Studies</i>, accepted.  </li> </ul> </li>
     </td>
     <td>
       <ul class="no-bullets">
@@ -78,10 +77,12 @@ table, th, td {
     </td>
 </tr>    
    
+  
    
 <tr>
    <td>
-   <li>  <a href="https://www.tandfonline.com/doi/full/10.1080/00014788.2021.1982670" target="_blank">Private Firm Accounting: The European Reporting Environment, Data and Research Perspectives</a>, with C. Beuselinck, J. Gassen, and F. Elfers.  <ul>  <li> <i>Accounting and Business Research</i>, 2021. <img src="https://github.com/jochenpierk/home/blob/master/open_access.JPG width="20%" height="20%">  </li> </ul> </li>
+   <li>  <a href="https://www.tandfonline.com/doi/full/10.1080/00014788.2021.1982670" target="_blank">Private Firm Accounting: The European Reporting Environment, Data and Research Perspectives</a>, with C. Beuselinck, J. Gassen, and F. Elfers.   
+   <img src="https://github.com/jochenpierk/home/blob/master/open_access.JPG" width="5%" height="5%">   <ul>  <li> <i>Accounting and Business Research</i>, 2021.  </li> </ul> </li>
     </td>
     <td>
       <ul class="no-bullets">
