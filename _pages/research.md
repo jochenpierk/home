@@ -82,7 +82,7 @@ table, th, td {
 <tr>
    <td>
    <li>  <a href="https://www.tandfonline.com/doi/full/10.1080/00014788.2021.1982670" target="_blank">Private Firm Accounting: The European Reporting Environment, Data and Research Perspectives</a>, with C. Beuselinck, J. Gassen, and F. Elfers.   
-   <img src="home/blob/master/open_access.JPG" width="5%" height="5%">   <ul>  <li> <i>Accounting and Business Research</i>, 2021.  </li> </ul> </li>
+   <img src="https://jochenpierk.github.io/home/open_access.JPG" width="5%" height="5%">   <ul>  <li> <i>Accounting and Business Research</i>, 2021.  </li> </ul> </li>
     </td>
     <td>
       <ul class="no-bullets">
