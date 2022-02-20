@@ -41,7 +41,7 @@ I am posting a weekly update on new accounting publications and SSRN working pap
   
    <a href="subscribe.html">subscribe</a>
   
-</html>
+
   
  <p> </p>
 </font>   
