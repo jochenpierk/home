@@ -45,28 +45,9 @@ I am posting a weekly update on new accounting publications and SSRN working pap
     <td> <script src='https://platform.linkedin.com/in.js' type='text/javascript'>lang: en_US</script> <script type='IN/Share' data-url="https://jochenpierk.github.io/acc_update/publications_week10.html"></script></td>
   </tr>
    
-      <tr> 
-    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week9.html" target="_blank">Publications Week 9</a> </td> 
-    <td> <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="New Accounting Publications" data-url="https://jochenpierk.github.io/acc_update/publications_week9.html" data-hashtags="accotwitter" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </td> 
-    <td> <script src='https://platform.linkedin.com/in.js' type='text/javascript'>lang: en_US</script> <script type='IN/Share' data-url="https://jochenpierk.github.io/acc_update/publications_week9.html"></script></td>
-  </tr>
-   
-   <tr> 
-    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week8.html" target="_blank">Publications Week 8</a> </td> 
-    <td> <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="New Accounting Publications" data-url="https://jochenpierk.github.io/acc_update/publications_week8.html" data-hashtags="accotwitter" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </td> 
-    <td> <script src='https://platform.linkedin.com/in.js' type='text/javascript'>lang: en_US</script> <script type='IN/Share' data-url="https://jochenpierk.github.io/acc_update/publications_week8.html"></script></td>
-  </tr>
-   
-   <tr> 
-    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week7.html" target="_blank">Publications Week 7</a> </td> 
-    <td> <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="New Accounting Publications" data-url="https://jochenpierk.github.io/acc_update/publications_week7.html" data-hashtags="accotwitter" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </td> 
-    <td> <script src='https://platform.linkedin.com/in.js' type='text/javascript'>lang: en_US</script> <script type='IN/Share' data-url="https://jochenpierk.github.io/acc_update/publications_week7.html"></script></td>
-  </tr>
-  <tr> 
-    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week6.html" target="_blank">Publications Week 6</a> </td> 
-    <td> <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="New Accounting Publications" data-url="https://jochenpierk.github.io/acc_update/publications_week6.html" data-hashtags="accotwitter" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </td>
-    <td> <script src='https://platform.linkedin.com/in.js' type='text/javascript'>lang: en_US</script> <script type='IN/Share' data-url="https://jochenpierk.github.io/acc_update/publications_week6.html"></script></td>
-  </tr>
+
+
+
 
  </table>
 
