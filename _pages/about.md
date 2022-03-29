@@ -25,12 +25,7 @@ Welcome to my Website! I am an assistant professor in financial accounting at th
 
 
 
- <p> </p>
- <u>Recent posts:</u> 
- <p> </p>
- <script src="//rss.bloople.net/?url=http%3A%2F%2Feasys-online.com%2Ffeed&detail=-1&limit=3&showtitle=false&type=js"></script>
- <p> </p>
- More information: <a href="https://jochenpierk.github.io/home/service2/" target="_blank">ACC Updates</a> 
+
 
 
 
