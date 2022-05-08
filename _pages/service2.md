@@ -27,6 +27,9 @@ I am posting a weekly update on new accounting publications and SSRN working pap
  <table>
   
     <tr> 
+    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week18.html" target="_blank">Publications Week 18</a> </td> 
+    </tr> 
+   <tr> 
     <td> <a href="https://jochenpierk.github.io/acc_update/publications_week17.html" target="_blank">Publications Week 17</a> </td> 
     </tr>
     <tr> 
@@ -38,9 +41,7 @@ I am posting a weekly update on new accounting publications and SSRN working pap
     <tr> 
     <td> <a href="https://jochenpierk.github.io/acc_update/publications_week14.html" target="_blank">Publications Week 14</a> </td> 
     </tr>
-    <tr> 
-    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week15.html" target="_blank">Publications Week 15</a> </td> 
-    </tr>
+
    
  </table>
 
