@@ -184,7 +184,7 @@ table, th, td {
 <tr>
    <td>
      <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3108489" target="_blank"> On the Dynamics between Local and International Tax Planning in Multinational Corporations </a>, with C. Beuselinck. 
-    <ul>  <li> Status: Revise and resubmit </li> </ul> </li>
+    <ul>  <li> Status: Conditional Accept </li> </ul> </li>
    </td>
    <td>
     <ul class="no-bullets">
