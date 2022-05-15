@@ -18,7 +18,7 @@ author_profile: true
 
 <h3> Weekly Publication Update </h3>
 <font size="3"> 
-I am posting a weekly update on new accounting publications and SSRN working papers. Feel free to <a href="https://jochenpierk.github.io/acc_update/subscribe.html" target="_blank">sign up</a> for weekly email notifications (subscribers: 202, Jan. 2nd, 2022) or follow on <a href="https://twitter.com/updates_acc?lang=en" target="_blank">twitter</a>. 
+I am posting a weekly update on new accounting publications and SSRN working papers. Feel free to <a href="https://jochenpierk.github.io/acc_update/subscribe.html" target="_blank">sign up</a> for weekly email notifications (subscribers: 278, May 15, 2022) or follow on <a href="https://twitter.com/updates_acc?lang=en" target="_blank">twitter</a>. 
  <p> </p>
  <u>Recent posts:</u> 
  <p> </p>
@@ -26,6 +26,9 @@ I am posting a weekly update on new accounting publications and SSRN working pap
   
  <table>
   
+    <tr> 
+    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week19.html" target="_blank">Publications Week 19</a> </td> 
+    </tr> 
     <tr> 
     <td> <a href="https://jochenpierk.github.io/acc_update/publications_week18.html" target="_blank">Publications Week 18</a> </td> 
     </tr> 
@@ -38,9 +41,7 @@ I am posting a weekly update on new accounting publications and SSRN working pap
     <tr> 
     <td> <a href="https://jochenpierk.github.io/acc_update/publications_week15.html" target="_blank">Publications Week 15</a> </td> 
     </tr>
-    <tr> 
-    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week14.html" target="_blank">Publications Week 14</a> </td> 
-    </tr>
+
 
    
  </table>
