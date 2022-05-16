@@ -225,8 +225,19 @@ table, th, td {
    <ul class="no-bullets">
    <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3657391" data-popup="left" data-size="small" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true"></a>  </li> </ul>
    </td>
-
   </tr>
+   
+   <tr>
+   <td>
+ <li>The Role of Multinational Corporations’ Executives in Foreign Subsidiaries’ Tax Management</a> , with Benjamin Osswald.  
+  <ul>  <li> Status: Work in Progress </li> </ul> </li>
+   </td>
+   <td>
+   <ul class="no-bullets">
+   <li >  </li> </ul>
+   </td>
+  </tr>
+   
 </table>
 
 </body>
