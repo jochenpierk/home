@@ -229,7 +229,7 @@ table, th, td {
    
    <tr>
    <td>
- <li>The Role of Multinational Corporations’ Executives in Foreign Subsidiaries’ Tax Management</a> , with Benjamin Osswald.  
+ <li>The Role of Multinational Corporations’ Executives in Foreign Subsidiaries’ Tax Management, with Benjamin Osswald.  
   <ul>  <li> Status: Work in Progress </li> </ul> </li>
    </td>
    <td>
