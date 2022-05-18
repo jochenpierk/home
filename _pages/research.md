@@ -194,7 +194,7 @@ table, th, td {
    
 <tr>
    <td>
-     <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3370953" target="_blank"> Auditor Alignment and the Internal Information Environment </a>,  with E. Labro, C. D. Peter, and C. van Linden. 
+     <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3370953" target="_blank"> In-Network Auditors as Information Intermediaries Within Business Groups </a>,  with E. Labro, C. D. Peter, and C. van Linden. 
      <ul>  <li> Status: Submitted </li> </ul> </li>
    </td>
    <td>
