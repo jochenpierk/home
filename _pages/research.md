@@ -166,7 +166,7 @@ table, th, td {
 </tr>
 <tr>
      <td>
-     <li>  <a href="https://kor-ifrs.owlit.de/document/zeitschriften/der-betrieb/2011/heft-19/betriebswirtschaft/aufsatze/pensionsruckstellungen-nach-dem-bilmog---erst/MLX_974f" target="_blank"> Pension provisions according to new German GAAP – Empirical evidence from early adopters (in German)</a>, with J. Gassen and M. Weil.  
+     <li>  <a href="https://research.owlit.de/document/691858c7-f15c-3507-8e25-0abebf9c974f" target="_blank"> Pension provisions according to new German GAAP – Empirical evidence from early adopters (in German)</a>, with J. Gassen and M. Weil.  
          <ul>  <li> <i>Der Betrieb</i>, 2011. </li> </ul> </li>  
    </td>
     <td></td>
