@@ -114,9 +114,7 @@ table, th, td {
       <li > <span data-badge-type="2" data-link-target='_blank' data-doi="10.1080/00014788.2021.1982670" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>     </li> </ul>
     </td>
 </tr>    
-    
-   
-   
+ 
  <tr>
    <td>
    <li>  <a href="https://onlinelibrary.wiley.com/doi/10.1111/jbfa.12502" target="_blank">Tax Rule Changes and the Timing of Asset Write-Offs in Loss Firms</a>, with S. Kohlhase. 
@@ -128,7 +126,6 @@ table, th, td {
       <li > <span data-badge-type="2" data-link-target='_blank' data-doi="10.1111/jbfa.12502" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>   </li> </ul>
     </td>
 </tr>    
-   
  <tr>
    <td>
    <li>  <a href="https://www.tandfonline.com/doi/full/10.1080/00014788.2020.1783634" target="_blank">Big baths and CEO overconfidence</a> 
@@ -141,10 +138,6 @@ table, th, td {
    <li > <span data-badge-type="2" data-link-target='_blank' data-doi="10.1080/00014788.2020.1783634" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>   </li>  </ul>
    </td>
 </tr>  
-      
-
-   
-    
 <tr>
      <td>
        <li>   <a href="https://www.sciencedirect.com/science/article/pii/S027842541830187X" target="_blank">IPOs and IFRS in European exchange-regulated markets: A research note</a> 
@@ -156,9 +149,7 @@ table, th, td {
               <li >  <span data-badge-type="2" data-link-target='_blank' data-doi="10.1016/j.jaccpubpol.2018.09.005" data-badge-popover='left' data-hide-no-mentions="true" class="altmetric-embed"> </span>    </li> 
               </ul>
        </td>
-</tr>
-   
-   
+</tr>   
 <tr>
      <td>
      <li>  <a href="https://www.sciencedirect.com/science/article/abs/pii/S027842541500099X" target="_blank">Price Regulation and Accounting Choice</a>, with M. Weil.   
@@ -171,6 +162,10 @@ table, th, td {
              </ul>   
      </td>
 </tr> 
+</table>   
+   
+<h4> Other </h4>    
+<table style="width:100%">     
 <tr>
     <td>
     <li>  <a href="https://research.owlit.de/document/6ed42696-ea1c-3217-826f-c08e2ffa016d" target="_blank">Conversion of IFRS and German GAAP – Evidence from pension provisions (in German)</a>, with M. Weil.  
