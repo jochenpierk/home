@@ -90,7 +90,7 @@ table, th, td {
 <tr>
     <td>
     <li>  <a href="https://link.springer.com/article/10.1057/s41267-019-00287-9" target="_blank">The Effect of a Worldwide Tax System on Tax Management of Foreign Subsidiaries</a>, with S. Kohlhase.        
-     <ul>  <li> <i>Journal of International Business Studies</i> (IF: 11.382), 2020. <img src="https://jochenpierk.github.io/home/open_access.JPG" width="6%" height="6%">  </li> </ul>   </li>
+     <ul>  <li> <i>Journal of International Business Studies</i>, 2020. <img src="https://jochenpierk.github.io/home/open_access.JPG" width="6%" height="6%">  </li> </ul>   </li>
      </td>
      <td>
           <ul class="no-bullets">
