@@ -19,7 +19,7 @@ author_profile: true
 <h3> Weekly Publication Update </h3>
 <font size="3"> 
 I am posting a weekly update on new accounting publications and SSRN working papers. Feel free to <a href="https://jochenpierk.github.io/acc_update/subscribe.html" target="_blank">sign up</a> for weekly email notifications (subscribers: 312, June 8, 2022) or follow on <a href="https://twitter.com/updates_acc?lang=en" target="_blank">twitter</a>. 
-
+</font>   
  <p> </p>
 
   
@@ -41,20 +41,12 @@ I am posting a weekly update on new accounting publications and SSRN working pap
    <tr> 
     <td> <a href="https://jochenpierk.github.io/acc_update/publications_week21.html" target="_blank">Publications Week 21</a> </td> 
     </tr>    
-
-
-
-
    
  </table>
 
-  
-  
-  
-
-  
+   
  <p> </p>
-</font>   
+
   
   
    <h3> Private Firm Accounting Literature </h3>
