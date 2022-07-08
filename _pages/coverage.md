@@ -28,7 +28,9 @@ author_profile: true
   
  <h3> Authored News Articles / Blogs </h3> 
   <font size="3"> <ul>
-     <li>  <a href="https://news.bloombergtax.com/daily-tax-report-international/how-tax-loss-offsetting-affects-financial-reporting" target="_blank">How Tax-Loss Offsetting Affects Financial Reporting</a>, with Saskia Kohlhase</li>
+   <li>  <a href="https://eaa-online.org/arc/blog/2022/07/08/who-cites-us-decomposing-accounting-impact-factors/" target="_blank">Who cites us? Decomposing accounting impact factors </a></li>
+              <ul><li>Accounting Resource Center, July 8, 2022 </li></ul>      
+  <li>  <a href="https://news.bloombergtax.com/daily-tax-report-international/how-tax-loss-offsetting-affects-financial-reporting" target="_blank">How Tax-Loss Offsetting Affects Financial Reporting</a>, with Saskia Kohlhase</li>
               <ul><li>Bloomberg Tax, July 5, 2021</li></ul> 
   <li>  <a href="https://discovery.rsm.nl/articles/503/" target="_blank">Tax rule changes and timing of asset write-offs in loss-making firms</a>, with Saskia Kohlhase</li>
               <ul><li>RSM Discovery, June 04, 2021</li></ul>      
