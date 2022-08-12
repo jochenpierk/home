@@ -82,7 +82,7 @@ table, th, td {
     </td>
     <td>
       <ul class="no-bullets">
-      <li >  <span class="__dimensions_badge_embed__" data-doi="10.1007/s11142-022-09707-y" data-style="small_rectangle">   </li>
+      <li >  <span class="__dimensions_badge_embed__" data-doi="10.1007/s11142-022-09707-y" data-style="small_rectangle"> </span>   </li>
       <li >  <span data-badge-type="2" data-link-target='_blank' data-doi="10.1007/s11142-022-09707-y" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>    </li> </ul>
     </td>
 </tr>    
