@@ -78,12 +78,12 @@ table, th, td {
    
   <tr>
    <td>
-   <li>  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3576389" target="_blank">Public Peers, Accounting Comparability, and Value Relevance of Private Firms' Financial Reporting</a>, with T. Bourveau, J. V. Chen, and F. Elfers.  <ul>  <li> <i>Review of Accounting Studies</i>, accepted.  </li> </ul> </li>
+   <li>  <a href="https://link.springer.com/article/10.1007/s11142-022-09707-y" target="_blank">Public Peers, Accounting Comparability, and Value Relevance of Private Firms' Financial Reporting</a>, with T. Bourveau, J. V. Chen, and F. Elfers.  <ul>  <li> <i>Review of Accounting Studies</i>, 2022.  </li> </ul> </li>
     </td>
     <td>
       <ul class="no-bullets">
-      <li >   </li>
-      <li >    </li> </ul>
+      <li >  <span class="__dimensions_badge_embed__" data-doi="10.1007/s11142-022-09707-y" data-style="small_rectangle">   </li>
+      <li >  <span data-badge-type="2" data-link-target='_blank' data-doi="10.1007/s11142-022-09707-y" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>    </li> </ul>
     </td>
 </tr>    
    
