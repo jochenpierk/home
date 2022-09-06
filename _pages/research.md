@@ -106,7 +106,10 @@ table, th, td {
 <tr>
    <td>
    <li>  <a href="https://www.tandfonline.com/doi/full/10.1080/00014788.2021.1982670" target="_blank">Private Firm Accounting: The European Reporting Environment, Data and Research Perspectives</a>, with C. Beuselinck, J. Gassen, and F. Elfers.   
-    <ul>  <li> <i>Accounting and Business Research</i>, 2021. <img src="https://jochenpierk.github.io/home/open_access.JPG" width="6%" height="6%">  </li> </ul> </li>
+    <ul>  
+      <li> <i>Accounting and Business Research</i>, 2021. <img src="https://jochenpierk.github.io/home/open_access.JPG" width="6%" height="6%">  </li> 
+      <li> Private Firm Accounting Literature Database: <a href="https://trr266.wiwi.hu-berlin.de/shiny/pfirmacclit/" target="_blank">Click here</a> </li> 
+    </ul> </li>
     </td>
     <td>
       <ul class="no-bullets">
