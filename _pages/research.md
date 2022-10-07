@@ -67,7 +67,7 @@ table, th, td {
    
 <tr>
    <td>
-   <li>  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3108489" target="_blank">On the Dynamics between Local and International Tax Planning in Multinational Corporations</a>, with C. Beuselinck.  <ul>  <li> <i>Review of Accounting Studies</i>, accepted.  </li> </ul> </li>
+   <li>  <a href="https://link.springer.com/content/pdf/10.1007/s11142-022-09731-y.pdf" target="_blank">On the Dynamics between Local and International Tax Planning in Multinational Corporations</a>, with C. Beuselinck.  <ul>  <li> <i>Review of Accounting Studies</i>, 2022. <img src="https://jochenpierk.github.io/home/open_access.JPG" width="6%" height="6%"> </li> </ul> </li>
     </td>
     <td>
       <ul class="no-bullets">
