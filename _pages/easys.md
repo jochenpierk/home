@@ -53,106 +53,13 @@ table, th, td {
 
   
 
-* {box-sizing: border-box}
-* {box-sizing: border-box}
-.mySlides1, .mySlides2 {display: none}
-img {vertical-align: middle;}
-
-/* Slideshow container */
-.slideshow-container {
-  max-width: 400px;
-  position: relative;
-  margin: auto;
-}
-
-
-/* Next & previous buttons */
-.prev, .next {
-  cursor: pointer;
-  position: absolute;
-  top: 50%;
-  width: auto;
-  padding: 16px;
-  margin-top: -22px;
-  color: white;
-  font-weight: bold;
-  font-size: 18px;
-  transition: 0.6s ease;
-  border-radius: 0 3px 3px 0;
-  user-select: none;
-}
-
-/* Position the "next button" to the right */
-.next {
-  right: 0;
-  border-radius: 3px 0 0 3px;
-}
-
-/* On hover, add a black background color with a little bit see-through */
-.prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
-}
-
-/* Caption text */
-.text {
-  color: #f2f2f2;
-  font-size: 15px;
-  padding: 8px 12px;
-  position: absolute;
-  bottom: 8px;
-  width: 100%;
-  text-align: center;
-}
-
-/* Number text (1/20 etc) */
-.numbertext {
-  color: #f2f2f2;
-  font-size: 12px;
-  padding: 8px 12px;
-  position: absolute;
-  top: 0;
-}
-
-/* The dots/bullets/indicators */
-.dot {
-  cursor: pointer;
-  height: 15px;
-  width: 15px;
-  margin: 0 2px;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  transition: background-color 0.6s ease;
-}
-
-.active, .dot:hover {
-  background-color: #717171;
-}
-
-/* Fading animation */
-.fade {
-  animation-name: fade;
-  animation-duration: 1.5s;
-}
-
-@keyframes fade {
-  from {opacity: .4} 
-  to {opacity: 1}
-}
-
-/* On smaller screens, decrease text size */
-@media only screen and (max-width: 300px) {
-  .prev, .next,.text {font-size: 11px}
-}
-</style>
-
-
 
 </head>
 
 <body>
 
-
+ <h2> Site under constructions ... </h2>
+  
  <h3> EASYS 2022 - Bergen, Norway</h3>
 
 <tr>
@@ -166,38 +73,9 @@ img {vertical-align: middle;}
     <li><b>Ferdinand Elfers (Erasmus University Rotterdam)</b>,<i> Historical Cost vs. Fair Value Accounting: Impairment Choice and Trading Incentives    </i></li>   
    </td>
 </tr>   
-
+ <a href="https://jochenpierk.github.io/easys/previous_versions.html" target="_blank">Check out some pics!</a>  
+  
 <p>
-
-<img src="https://jochenpierk.github.io/home/pictures/2022_1.jpg" style="width:100%"> 
-<div class="slideshow-container">
-<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_1.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_2.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_3.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_4.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_5.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_6.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_7.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_8.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_9.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_10.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_11.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_12.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_13.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_14.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_15.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_16.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_17.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_18.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_19.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_20.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_21.jpg" style="width:100%"> </div>
-<a class="prev" onclick="plusSlides(-1, 0)">&#10094;</a>
-  <a class="next" onclick="plusSlides(1, 0)">&#10095;</a>
-</div>
-<br>
-
-
 
 <h3> EASYS 2021 - Online</h3>
 <tr>
@@ -210,50 +88,8 @@ img {vertical-align: middle;}
     <li><b>Marcel Olbert (London Business School)</b>, <i> How Does Private Firm Disclosure Affect Demand for Public Firm Equity?</i>  </li> 
     <li><b>Nathan Goldman (North Carolina State University)</b>, <i> Do companies manage earnings less after a critical audit matter disclosure?</i>  </li> 
     <li><b>Tim Martens (City University of London)</b>, <i> Capital Market Feedback and Corporate Innovation</i>  </li> 
- 
-   </td>
+    </td>
 </tr>   
 
 <h3> EASYS 2016 - Maastricht, The Netherlands</h3>
-
-<p>
-<div class="slideshow-container">
-<div class="mySlides2">   <img src="https://jochenpierk.github.io/home/pictures/2016_1.jpg" style="width:100%"> </div>
-<div class="mySlides2">   <img src="https://jochenpierk.github.io/home/pictures/2016_2.jpg" style="width:100%"> </div>
-<div class="mySlides2">   <img src="https://jochenpierk.github.io/home/pictures/2016_3.jpg" style="width:100%"> </div>
-<div class="mySlides2">   <img src="https://jochenpierk.github.io/home/pictures/2016_4.jpg" style="width:100%"> </div>
-<div class="mySlides2">   <img src="https://jochenpierk.github.io/home/pictures/2016_5.jpg" style="width:100%"> </div>
-<div class="mySlides2">   <img src="https://jochenpierk.github.io/home/pictures/2016_6.jpg" style="width:100%"> </div>
-<div class="mySlides2">   <img src="https://jochenpierk.github.io/home/pictures/2016_7.jpg" style="width:100%"> </div>
-<div class="mySlides2">   <img src="https://jochenpierk.github.io/home/pictures/2016_8.jpg" style="width:100%"> </div>
-<div class="mySlides2">   <img src="https://jochenpierk.github.io/home/pictures/2016_9.jpg" style="width:100%"> </div>
-<div class="mySlides2">   <img src="https://jochenpierk.github.io/home/pictures/2016_10.jpg" style="width:100%"> </div>
-<div class="mySlides2">   <img src="https://jochenpierk.github.io/home/pictures/2016_11.jpg" style="width:100%"> </div>
-<div class="mySlides2">   <img src="https://jochenpierk.github.io/home/pictures/2016_12.jpg" style="width:100%"> </div>
-<div class="mySlides2">   <img src="https://jochenpierk.github.io/home/pictures/2016_13.jpg" style="width:100%"> </div>
-
-  <a class="prev" onclick="plusSlides(-1, 1)">&#10094;</a>
-  <a class="next" onclick="plusSlides(1, 1)">&#10095;</a>
-</div>
-
-<script>
-var slideIndex = [1,1];
-var slideId = ["mySlides1", "mySlides2"]
-showSlides(1, 0);
-showSlides(1, 1);
-
-function plusSlides(n, no) {
-  showSlides(slideIndex[no] += n, no);
-}
-
-function showSlides(n, no) {
-  var i;
-  var x = document.getElementsByClassName(slideId[no]);
-  if (n > x.length) {slideIndex[no] = 1}    
-  if (n < 1) {slideIndex[no] = x.length}
-  for (i = 0; i < x.length; i++) {
-     x[i].style.display = "none";  
-  }
-  x[slideIndex[no]-1].style.display = "block";  
-}
-</script>
+ <a href="https://jochenpierk.github.io/easys/previous_versions.html" target="_blank">Check out some pics!</a>  
