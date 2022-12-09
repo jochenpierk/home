@@ -68,7 +68,7 @@ table, th, td {
    </td>
 </tr>   
   <br>
- <a href="https://jochenpierk.github.io/easys/previous_versions.html" target="_blank">Check out some pics!</a>  
+ <a href="https://jochenpierk.github.io/easys/previous_versions.html" target="_blank">Check out some pictures!</a>  
   
 <p>
 
@@ -88,4 +88,4 @@ table, th, td {
 
 <h3> EASYS 2016 - Maastricht, The Netherlands</h3>
    <br>
-  <a href="https://jochenpierk.github.io/easys/previous_versions.html" target="_blank">Check out some pics!</a>  
+  <a href="https://jochenpierk.github.io/easys/previous_versions.html" target="_blank">Check out some pictures!</a>  
