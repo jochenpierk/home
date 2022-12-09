@@ -34,7 +34,6 @@ author_profile: true
     <li><b>Ferdinand Elfers (Erasmus University Rotterdam)</b>,<i> Historical Cost vs. Fair Value Accounting: Impairment Choice and Trading Incentives    </i></li>   
    </td>
 </tr>   
- 
  <a href="https://jochenpierk.github.io/easys/previous_versions.html" target="_blank">Check out some pictures!</a>  
   
 
@@ -94,7 +93,23 @@ author_profile: true
   </td>
 </tr>   
    <a href="https://jochenpierk.github.io/easys/previous_versions.html" target="_blank">Check out some pictures!</a>    
-    
+ 
+ 
+ <h2>EASYS 2018 - Milan, Italy</h2>
+<tr>
+   <td>
+    <li><b>Jan Riepe (University of Tübingen)</b>, <i> The Dark Side of Entrepreneurial Overconfidence: Biased Self-Attribution and Entrepreneurial Advice Taking</i>  </li> 
+    <li><b>Claudia Imperatore (Bocconi University)</b>, <i> </i>  Accounting Conservatism and the Timing of M&A</li> 
+    <li><b>Pietro Bianchi (University of Miami)</b>, <i> </i>  How do disclosure and litigation affect the outcome of going private transactions</li> 
+    <li><b>Katharina Hombach (Frankfurt School of Finance and Management)</b>, <i> </i>  Firm Value Effects of Targeted Disclosure Regulation</li> 
+    <li><b>Christophe van Linden (Belmont University)</b>, <i> </i>  Do too many cooks spoil the broth? The effects of auditor alignment</li> 
+    <li><b>Vivek Raval (University of Illinois at Chicago)</b>, <i> </i>  The effect of non-timely gain recognition on the accrual-cash flow relation</li> 
+    <li><b>Lorenzo Dal Maso (Erasmus University Rotterdam)</b>, <i> </i>  Does the Joint Provision of Sustainability Assurance and Financial Audit Services Improve or Impair Financial Audit Quality?</li> 
+    <li><b>Mary Herly (Aarhus University)</b>, <i> How do Bank Bailouts Affect Firm Decisions?</i>  </li> 
+  </td>
+</tr>   
+   <a href="https://jochenpierk.github.io/easys/previous_versions.html" target="_blank">Check out some pictures!</a>    
+ 
 <h2>EASYS 2016 - Maastricht, The Netherlands</h2>
   
   <a href="https://jochenpierk.github.io/easys/previous_versions.html" target="_blank">Check out some pictures!</a>  
