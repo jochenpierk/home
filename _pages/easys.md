@@ -18,7 +18,7 @@ author_profile: true
 
  <h2> Site under constructions ... </h2>
   
- <h3> EASYS 2022 - Bergen, Norway</h3>
+ <h2> EASYS 2022 - Bergen, Norway</h2>
 
 <tr>
    <td>
@@ -36,7 +36,7 @@ author_profile: true
   
 <p>
 
-<h3> EASYS 2021 - Online</h3>
+<h2> EASYS 2021 - Online</h2>
 <tr>
    <td>
     <li><b>Sarah Kroechert (Lancaster University Management School)</b>, <i> University Spending Efficiency and Diversity Outcomes</i>  </li> 
@@ -49,6 +49,36 @@ author_profile: true
     <li><b>Tim Martens (City University of London)</b>, <i> Capital Market Feedback and Corporate Innovation</i>  </li> 
     </td>
 </tr>   
+
+<h2> EASYS 2020 - Online</h2>
+<tr>
+   <td>
+    <li><b>Harald Amberger (WU Wien)</b>, <i> </i>  Internal Agency Conflicts and the Tax-sensitivity of Debt</li> 
+    <li><b>Marcel Olbert (London Business School) </b>, <i> </i> Private Equity Ownership and Financial Sophistication</li> 
+    <li><b>Thomas Bourveau (Columbia Business School)</b>, <i> </i>  Is there too much tipping?</li> 
+    <li><b>Caspar David Peter (Erasmus University Rotterdam)</b>, <i> </i>  Access to disclosure and pollution</li> 
+    <li><b>Sara Bormann (Goethe University)</b>, <i> </i>  Trade Secret Protection and Firms’ Investment into Internal Information Systems</li> 
+    <li><b>Roberto Vincenzi (Bocconi University)</b>, <i> </i>   Costumor Concentration and the Debt Structure</li> 
+    <li><b>David Samuel (University of Wisconsin-Madison)</b>, <i> </i>   “Just BEAT It” Do firms reclassify costs to avoid the base erosion and anti-abuse tax (BEAT) of the TCJA</li>    
+    <li><b>Ann-Kristin Grosskopf (LMU Munich)</b>, <i> </i> Corporate social responsibility and stakeholder attention</li> 
+    <li><b>Benjamin Osswald (University of Illinois)</b>, <i> </i> Tax Risk and Proprietary Costs</li> 
+    <li><b>Nico Lehmann (Humboldt University Berlin)</b>, <i> </i>  The effect of CSR disclosure on firm contracting: Evidence from the expansion of CSR rating coverage</li> 
+    <li><b>Jan Riepe (Tübingen University)</b>, <i> </i>  Do tax accruals trigger bank depositors’ reactions? — Evidence from the Tax Cuts and Jobs Act</li> 
+    <li><b>Elia Ferracuti (Duke University)</b>, <i> </i>  Market Inattention: Bounded Rationality or Rational Inattention</li> 
+    <li><b>Sarah Kroechert (Lancaster University Management School) </b>, <i> Do Financial Investment Decisions Affect Individuals’ Non-Financial Decisions?</i>  </li> 
+    <li><b>Oliver Binz (INSEAD)</b>, <i> U</i>  The Information Content of Corporate Earnings: Evidence from the Securities Exchange Act of 1934</li> 
+    <li><b>Ferdinand Elfers (Erasmus University Rotterdam)</b>, <i> Does Fair Value Lead to Fire Sales? — Evidence from the Volcker Rule</i>  </li> 
+    <li><b>Jochen Pierk (Erasmus University Rotterdam)</b>, <i> Does Shark Tank enhance Entrepreneurial Activities</i>  </li> 
+    <li><b>Thomas Keusch (INSEAD)</b>, <i> Board Risk Oversight and Firms’ Environmental and Social Engagement</i>  </li> 
+    <li><b>Ulf Mohrmann (Universitaet Konstanz)</b>, <i> Auditors’ Going Concern Opinions for Banks and Market Discipline</i>  </li> 
+    <li><b>Antonio De Vito (IE Business School)</b>, <i> Austerity Spillovers through Firms’ Internal Networks: Evidence from Subsidiary-Level Data</i>  </li> 
+    <li><b>Saskia Kohlhase (Erasmus University Rotterdam)</b>, <i> The relation between tax rates, tariffs, and transfer pricing components</i>  </li>   
+    <li><b>Aneesh Raghunandan (London School of Economics)</b>, <i> (Non-)Enforcement for Sale? Political Connections to State Attorneys General and Corporate Misconduct.</i>  </li> 
+    <li><b>Claudia Imperatore (Bocconi University)</b>, <i> Are control rights and cash flow rights differences good for corporate investments? The case of family firms</i>  </li> 
+         </td>
+</tr>   
+
+
 
 <h3> EASYS 2016 - Maastricht, The Netherlands</h3>
    <br>
