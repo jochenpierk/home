@@ -18,7 +18,10 @@ author_profile: true
 
  <h2> Site under constructions ... </h2>
   
- <h2> EASYS 2022 - Bergen, Norway</h2>
+ 
+  <h2>Previous Versions</h2>
+ 
+ <h2>EASYS 2022 - Bergen, Norway</h2>
 
 <tr>
    <td>
@@ -35,7 +38,7 @@ author_profile: true
  <a href="https://jochenpierk.github.io/easys/previous_versions.html" target="_blank">Check out some pictures!</a>  
   
 
-<h2> EASYS 2021 - Online</h2>
+<h2>EASYS 2021 - Online</h2>
 <tr>
    <td>
     <li><b>Sarah Kroechert (Lancaster University Management School)</b>, <i> University Spending Efficiency and Diversity Outcomes</i>  </li> 
@@ -77,7 +80,7 @@ author_profile: true
          </td>
 </tr>   
 
-<h2> EASYS 2019 - Paphos, Cyprus</h2>
+<h2>EASYS 2019 - Paphos, Cyprus</h2>
 <tr>
    <td>
     <li><b>Ulf Mohrmann (University of Konstanz)</b>, <i> </i>  The Effects of Mandatory Audit Firm Rotation and Joint Audits on Audit Quality and Market Structure: Experimental Evidence </li> 
@@ -92,6 +95,6 @@ author_profile: true
 </tr>   
    <a href="https://jochenpierk.github.io/easys/previous_versions.html" target="_blank">Check out some pictures!</a>    
     
-<h2> EASYS 2016 - Maastricht, The Netherlands</h2>
+<h2>EASYS 2016 - Maastricht, The Netherlands</h2>
   
   <a href="https://jochenpierk.github.io/easys/previous_versions.html" target="_blank">Check out some pictures!</a>  
