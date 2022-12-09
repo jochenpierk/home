@@ -67,6 +67,7 @@ table, th, td {
     <li><b>Ferdinand Elfers (Erasmus University Rotterdam)</b>,<i> Historical Cost vs. Fair Value Accounting: Impairment Choice and Trading Incentives    </i></li>   
    </td>
 </tr>   
+  <br>
  <a href="https://jochenpierk.github.io/easys/previous_versions.html" target="_blank">Check out some pics!</a>  
   
 <p>
@@ -86,4 +87,5 @@ table, th, td {
 </tr>   
 
 <h3> EASYS 2016 - Maastricht, The Netherlands</h3>
- <a href="https://jochenpierk.github.io/easys/previous_versions.html" target="_blank">Check out some pics!</a>  
+   <br>
+  <a href="https://jochenpierk.github.io/easys/previous_versions.html" target="_blank">Check out some pics!</a>  
