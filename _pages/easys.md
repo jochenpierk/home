@@ -109,7 +109,33 @@ author_profile: true
   </td>
 </tr>   
    <a href="https://jochenpierk.github.io/easys/previous_versions.html" target="_blank">Check out some pictures!</a>    
+
+ <h2>EASYS 2018 - Valencia, Spain</h2>
+<tr>
+   <td>
+    <li><b>Martin Holzhacker (Michigan State University)</b>, <i> </i>  Relative Performance Evaluation and Synergies from Cooperation</li> 
+    <li><b>Ulf Mohrmann (University of Konstanz)</b>, <i> </i>  Can auditors become over-conservative? Evidence from market reactions to auditor changes</li> 
+    <li>Caspar David Peter (Rotterdam School of Management)<b></b>, <i> </i>  Private firms’ investment efficiency and local news media coverage</li> 
+    <li><b>Zhongwei Huang (City University London)</b>, <i> </i>  Economic Consequences of Hiring Wall Street Analysts as Investor Relations Officers</li> 
+    <li><b>Harm Schütt (LMU Munich)</b>, <i> </i>  Do financial news outlets cater to heterogeneous readers?</li> 
+    <li><b>Paulo Maduro (Universidad Carlos III de Madrid)</b>, <i> </i>  Earnings manipulation in an information choice environment</li> 
+    <li><b>Marcus Witzky (London School of Economics)</b>, <i> </i>  Monitoring by Individual Investors</li> 
+    <li><b>Nico Lehmann (University of Goettingen)</b>, <i> </i>  Revisiting the monitoring role of sovereign wealth funds: Evidence from a quasinatural experiment</li> 
+  </td>
+</tr>   
+   <a href="https://jochenpierk.github.io/easys/previous_versions.html" target="_blank">Check out some pictures!</a>   
  
 <h2>EASYS 2016 - Maastricht, The Netherlands</h2>
-  
-  <a href="https://jochenpierk.github.io/easys/previous_versions.html" target="_blank">Check out some pictures!</a>  
+  <tr>
+   <td>
+    <li><b>Mariano Scapin (University of Bristol)</b>, <i> </i>  Accounting conservatism and tournament incentives</li> 
+    <li><b>Jan Riepe (University of Tübingen)</b>, <i> </i>  Public disclosure, depositors, and market discipline: Evidence from Germany </li> 
+    <li><b>Sara Bormann (Washington University in St. Louis)</b>, <i> </i>  Understanding the cost structure of a firm: Balancing activities and achieving economies of scope </li> 
+    <li><b>Christoph Sextroh (Tilburg University)</b>, <i> </i>  Why did politicians blame fair value accounting during the financial crisis? The role of conservative ideology and special interests</li> 
+    <li><b>Anna Alexander (WHU)</b>, <i> </i>  Corporate tax reforms and tax-motivated profit shifting: Evidence from the EU</li> 
+    <li><b>Jochen Pierk (Vienna University of Economics and Business)</b>, <i> </i>  Do foreign tax authorities benefit from the U.S. worldwide tax system?</li> 
+    <li><b>Thomas Bourveau (HKUST Hong Kong)</b>, <i> </i>  Proprietary costs and voluntary disclosure: Evidence from tax induced changes in R&D incentives</li> 
+    <li><b>Chung-Yu Hung (University of Melbourne)</b>, <i> </i>  The information role of proximity for corporate investment</li>    
+  </td>
+</tr>   
+   <a href="https://jochenpierk.github.io/easys/previous_versions.html" target="_blank">Check out some pictures!</a>  
