@@ -171,27 +171,27 @@ img {vertical-align: middle;}
 
 
 <div class="slideshow-container">
-<div class="mySlides1">   <img src="https://github.com/jochenpierk/home/blob/master/pictures/2022_1.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://github.com/jochenpierk/home/blob/master/pictures/2022_2.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://github.com/jochenpierk/home/blob/master/pictures/2022_3.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://github.com/jochenpierk/home/blob/master/pictures/2022_4.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://github.com/jochenpierk/home/blob/master/pictures/2022_5.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://github.com/jochenpierk/home/blob/master/pictures/2022_6.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://github.com/jochenpierk/home/blob/master/pictures/2022_7.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://github.com/jochenpierk/home/blob/master/pictures/2022_8.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://github.com/jochenpierk/home/blob/master/pictures/2022_9.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://github.com/jochenpierk/home/blob/master/pictures/2022_10.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://github.com/jochenpierk/home/blob/master/pictures/2022_11.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://github.com/jochenpierk/home/blob/master/pictures/2022_12.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://github.com/jochenpierk/home/blob/master/pictures/2022_13.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://github.com/jochenpierk/home/blob/master/pictures/2022_14.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://github.com/jochenpierk/home/blob/master/pictures/2022_15.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://github.com/jochenpierk/home/blob/master/pictures/2022_16.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://github.com/jochenpierk/home/blob/master/pictures/2022_17.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://github.com/jochenpierk/home/blob/master/pictures/2022_18.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://github.com/jochenpierk/home/blob/master/pictures/2022_19.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://github.com/jochenpierk/home/blob/master/pictures/2022_20.jpg" style="width:100%"> </div>
-<div class="mySlides1">   <img src="https://github.com/jochenpierk/home/blob/master/pictures/2022_21.jpg" style="width:100%"> </div>
+<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_1.jpg" style="width:100%"> </div>
+<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_2.jpg" style="width:100%"> </div>
+<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_3.jpg" style="width:100%"> </div>
+<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_4.jpg" style="width:100%"> </div>
+<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_5.jpg" style="width:100%"> </div>
+<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_6.jpg" style="width:100%"> </div>
+<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_7.jpg" style="width:100%"> </div>
+<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_8.jpg" style="width:100%"> </div>
+<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_9.jpg" style="width:100%"> </div>
+<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_10.jpg" style="width:100%"> </div>
+<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_11.jpg" style="width:100%"> </div>
+<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_12.jpg" style="width:100%"> </div>
+<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_13.jpg" style="width:100%"> </div>
+<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_14.jpg" style="width:100%"> </div>
+<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_15.jpg" style="width:100%"> </div>
+<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_16.jpg" style="width:100%"> </div>
+<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_17.jpg" style="width:100%"> </div>
+<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_18.jpg" style="width:100%"> </div>
+<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_19.jpg" style="width:100%"> </div>
+<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_20.jpg" style="width:100%"> </div>
+<div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_21.jpg" style="width:100%"> </div>
 <a class="prev" onclick="plusSlides(-1, 0)">&#10094;</a>
   <a class="next" onclick="plusSlides(1, 0)">&#10095;</a>
 </div>
@@ -218,19 +218,19 @@ img {vertical-align: middle;}
 
 <p>
 <div class="slideshow-container">
-<div class="mySlides2">   <img src="https://github.com/jochenpierk/home/blob/master/pictures/2016_1.jpg" style="width:100%"> </div>
-<div class="mySlides2">   <img src="https://github.com/jochenpierk/home/blob/master/pictures/2016_2.jpg" style="width:100%"> </div>
-<div class="mySlides2">   <img src="https://github.com/jochenpierk/home/blob/master/pictures/2016_3.jpg" style="width:100%"> </div>
-<div class="mySlides2">   <img src="https://github.com/jochenpierk/home/blob/master/pictures/2016_4.jpg" style="width:100%"> </div>
-<div class="mySlides2">   <img src="https://github.com/jochenpierk/home/blob/master/pictures/2016_5.jpg" style="width:100%"> </div>
-<div class="mySlides2">   <img src="https://github.com/jochenpierk/home/blob/master/pictures/2016_6.jpg" style="width:100%"> </div>
-<div class="mySlides2">   <img src="https://github.com/jochenpierk/home/blob/master/pictures/2016_7.jpg" style="width:100%"> </div>
-<div class="mySlides2">   <img src="https://github.com/jochenpierk/home/blob/master/pictures/2016_8.jpg" style="width:100%"> </div>
-<div class="mySlides2">   <img src="https://github.com/jochenpierk/home/blob/master/pictures/2016_9.jpg" style="width:100%"> </div>
-<div class="mySlides2">   <img src="https://github.com/jochenpierk/home/blob/master/pictures/2016_10.jpg" style="width:100%"> </div>
-<div class="mySlides2">   <img src="https://github.com/jochenpierk/home/blob/master/pictures/2016_11.jpg" style="width:100%"> </div>
-<div class="mySlides2">   <img src="https://github.com/jochenpierk/home/blob/master/pictures/2016_12.jpg" style="width:100%"> </div>
-<div class="mySlides2">   <img src="https://github.com/jochenpierk/home/blob/master/pictures/2016_13.jpg" style="width:100%"> </div>
+<div class="mySlides2">   <img src="https://jochenpierk.github.io/home/pictures/2016_1.jpg" style="width:100%"> </div>
+<div class="mySlides2">   <img src="https://jochenpierk.github.io/home/pictures/2016_2.jpg" style="width:100%"> </div>
+<div class="mySlides2">   <img src="https://jochenpierk.github.io/home/pictures/2016_3.jpg" style="width:100%"> </div>
+<div class="mySlides2">   <img src="https://jochenpierk.github.io/home/pictures/2016_4.jpg" style="width:100%"> </div>
+<div class="mySlides2">   <img src="https://jochenpierk.github.io/home/pictures/2016_5.jpg" style="width:100%"> </div>
+<div class="mySlides2">   <img src="https://jochenpierk.github.io/home/pictures/2016_6.jpg" style="width:100%"> </div>
+<div class="mySlides2">   <img src="https://jochenpierk.github.io/home/pictures/2016_7.jpg" style="width:100%"> </div>
+<div class="mySlides2">   <img src="https://jochenpierk.github.io/home/pictures/2016_8.jpg" style="width:100%"> </div>
+<div class="mySlides2">   <img src="https://jochenpierk.github.io/home/pictures/2016_9.jpg" style="width:100%"> </div>
+<div class="mySlides2">   <img src="https://jochenpierk.github.io/home/pictures/2016_10.jpg" style="width:100%"> </div>
+<div class="mySlides2">   <img src="https://jochenpierk.github.io/home/pictures/2016_11.jpg" style="width:100%"> </div>
+<div class="mySlides2">   <img src="https://jochenpierk.github.io/home/pictures/2016_12.jpg" style="width:100%"> </div>
+<div class="mySlides2">   <img src="https://jochenpierk.github.io/home/pictures/2016_13.jpg" style="width:100%"> </div>
 
   <a class="prev" onclick="plusSlides(-1, 1)">&#10094;</a>
   <a class="next" onclick="plusSlides(1, 1)">&#10095;</a>
