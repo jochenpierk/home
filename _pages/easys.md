@@ -110,7 +110,7 @@ author_profile: true
 </tr>   
    <a href="https://jochenpierk.github.io/easys/previous_versions.html" target="_blank">Check out some pictures!</a>    
 
- <h2>EASYS 2018 - Valencia, Spain</h2>
+ <h2>EASYS 2017 - Valencia, Spain</h2>
 <tr>
    <td>
     <li><b>Martin Holzhacker (Michigan State University)</b>, <i> </i>  Relative Performance Evaluation and Synergies from Cooperation</li> 
