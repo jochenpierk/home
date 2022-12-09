@@ -169,7 +169,7 @@ img {vertical-align: middle;}
 
 <p>
 
-
+<img src="https://jochenpierk.github.io/home/pictures/2022_1.jpg" style="width:100%"> 
 <div class="slideshow-container">
 <div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_1.jpg" style="width:100%"> </div>
 <div class="mySlides1">   <img src="https://jochenpierk.github.io/home/pictures/2022_2.jpg" style="width:100%"> </div>
