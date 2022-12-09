@@ -77,8 +77,21 @@ author_profile: true
          </td>
 </tr>   
 
-
-
+<h2> EASYS 2019 - Paphos, Cyprus</h2>
+<tr>
+   <td>
+    <li><b>Ulf Mohrmann (University of Konstanz)</b>, <i> </i>  The Effects of Mandatory Audit Firm Rotation and Joint Audits on Audit Quality and Market Structure: Experimental Evidence </li> 
+    <li><b>Yin Wang (Singapore Management University)</b>, <i> </i>  Advertising and Disclosure: Do Firms Cluster Their Advertising around Disclosure Periods? </li> 
+    <li><b>Matthias Breuer (Columbia Business School)</b>, <i> </i>  Reporting Mandates and Innovation </li> 
+    <li><b>Harm Schütt (Tilburg University)</b>, <i> </i>  Accounting for Uncertainty: An Application of Bayesian Methods to Accruals Models</li> 
+    <li><b>Thomas Bourveau (Columbia Business School)</b>, <i> </i>  Accounting Standards and the Value Relevance of Private Firms’ Financial Reporting </li> 
+    <li><b>Caspar David Peter (Erasmus University Rotterdam)</b>, <i> </i>  What a difference a name makes – Disclosure avoidance and relative income </li> 
+    <li><b>Christoph Sextroh (Tilburg University)</b>, <i> </i>  Capital Market Relationships and Interfirm Information Spillovers </li> 
+    <li><b>Marion Boisseau-Sierra (University of Cambridge)</b>, <i> </i>  Sovereign ratings and their solicitation status </li> 
+  </td>
+</tr>   
+   <a href="https://jochenpierk.github.io/easys/previous_versions.html" target="_blank">Check out some pictures!</a>    
+    
 <h2> EASYS 2016 - Maastricht, The Netherlands</h2>
   
   <a href="https://jochenpierk.github.io/easys/previous_versions.html" target="_blank">Check out some pictures!</a>  
