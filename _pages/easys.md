@@ -14,43 +14,7 @@ author_profile: true
    gtag('config', 'G-05633BF9HL', {'anonymize_ip': true});
 </script>
 
-<html>
-<head>
 
-<meta name="viewport" content="width=device-width, initial-scale=1" /> 
-                                      
-<style>
-
-ul  {
-     line-height:100%; 
-}
-li  {
-     line-height:100%; 
-}
-br {
-     line-height:100%;
-}
-ul.no-bullets {
-  list-style-type: none; 
-  line-height:100%;
-  margin: 0;
-  padding: 0;
-}  
-table, th, td {
-  border: none;
-  padding-bottom: 0;
-}
- th, td {
-    font-size: 18px;
-      padding-bottom: 0;
-  }
-
-  </style>
-
-
-</head>
-
-<body>
 
  <h2> Site under constructions ... </h2>
   
