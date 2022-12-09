@@ -1,12 +1,9 @@
-
 ---
 layout: archive
 title: "EASYS"
 permalink: /easys/
 author_profile: true
 ---
-
-
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-05633BF9HL"></script>
 <script>
