@@ -21,11 +21,7 @@ The European Accounting Symposium for Young Scholars (EASYS) is an annual me
  
 It is meant to establish research networks among young scholars. Participants present their early-stage work and obtain feedback in a friendly and constructive environment. The target audience of the workshop is European faculty with the rank of post-doctoral researchers or assistant professor (non-tenured). The workshop includes a maximum of 20 participants to ensure a friendly environment to present early stage projects / research ideas. Presented research projects should not be under review / submitted to a journal. The symposium focuses on quantitative research in all areas of accounting (e.g., financial, managerial, auditing, taxation). Please note that the symposium is not related to the European Accounting Association. If you have questions about the EASYS meeting, you can contact us. 
  
-Organizer: 
-Sara Bormann, Goethe-Universität Frankfurt    
-Thomas Bourveau, Columbia Business School
-Jochen Pierk, Erasmus University Rotterdam
-Mariano Scapin, University of Bristol
+Organizer: Sara Bormann, Thomas Bourveau, Jochen Pierk, Mariano Scapin
  
  
  
