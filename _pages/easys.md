@@ -31,10 +31,9 @@ author_profile: true
     <li><b>Ferdinand Elfers (Erasmus University Rotterdam)</b>,<i> Historical Cost vs. Fair Value Accounting: Impairment Choice and Trading Incentives    </i></li>   
    </td>
 </tr>   
-  <br>
+ 
  <a href="https://jochenpierk.github.io/easys/previous_versions.html" target="_blank">Check out some pictures!</a>  
   
-<p>
 
 <h2> EASYS 2021 - Online</h2>
 <tr>
@@ -48,7 +47,7 @@ author_profile: true
     <li><b>Nathan Goldman (North Carolina State University)</b>, <i> Do companies manage earnings less after a critical audit matter disclosure?</i>  </li> 
     <li><b>Tim Martens (City University of London)</b>, <i> Capital Market Feedback and Corporate Innovation</i>  </li> 
     </td>
-</tr>   
+ 
 
 <h2> EASYS 2020 - Online</h2>
 <tr>
@@ -80,6 +79,6 @@ author_profile: true
 
 
 
-<h3> EASYS 2016 - Maastricht, The Netherlands</h3>
-   <br>
+<h2> EASYS 2016 - Maastricht, The Netherlands</h2>
+  
   <a href="https://jochenpierk.github.io/easys/previous_versions.html" target="_blank">Check out some pictures!</a>  
