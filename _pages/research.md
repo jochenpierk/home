@@ -225,7 +225,7 @@ table, th, td {
    
    <tr>
    <td>
- <li>The Role of Multinational Corporations’ Executives in Foreign Subsidiaries’ Tax Management, with Benjamin Osswald.  
+ <li>The Role of Multinational Corporations’ Executives in Foreign Subsidiaries’ Tax Management, with B. Osswald.  
   <ul>  <li> Status: Work in Progress </li> </ul> </li>
    </td>
    <td>
@@ -236,7 +236,7 @@ table, th, td {
    
       <tr>
    <td>
- <li>Accoutning Regulation in European Union, with Eva Labro.  
+ <li>Accoutning Regulation in European Union, with E. Labro.  
   <ul>  <li> Status: Work in Progress </li> </ul> </li>
    </td>
    <td>
