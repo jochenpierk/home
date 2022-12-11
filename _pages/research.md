@@ -205,9 +205,7 @@ table, th, td {
 <tr>
    <td>
      <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3703590" target="_blank"> Brexit! The Effect of Political Uncertainty on International Research Collaborations of Firms and Research Institutions</a> , with B. Osswald. 
-    <ul>   <li> Status: Work in Progress   </li> 
-           <li> Covered by <a href= "https://www.ft.com/content/ed2e508e-cfcf-4469-ab28-a26dffbb4d5e" target="_blank">Financial Times</a> and <a href= "https://www.nature.com/articles/d41586-020-02920-2" target="_blank">Nature</a>.    </li>  
-         </ul> </li>
+    <ul>   <li> Status: Work in Progress   </li>          </ul> </li>
     </td>
    <td>
      <ul class="no-bullets">
@@ -236,7 +234,18 @@ table, th, td {
    </td>
   </tr>
    
+      <tr>
+   <td>
+ <li>Accoutning Regulation in European Union, with Eva Labro.  
+  <ul>  <li> Status: Work in Progress </li> </ul> </li>
+   </td>
+   <td>
+   <ul class="no-bullets">
+   <li >  </li> </ul>
+   </td>
+  </tr>
+   
 </table>
 
-</body>
+
 
