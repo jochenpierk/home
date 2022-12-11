@@ -62,9 +62,10 @@ table, th, td {
 
  <h3> Publications </h3>
  
- <h4> ERIM P* Classification </h4> 
- <table style="width:100%"> 
+  <table style="width:100%"> 
    
+  <table>  
+    
 <tr>
    <td>
    <li>  <a href="https://doi.org/10.1007/s11142-022-09731-y" target="_blank">On the Dynamics between Local and International Tax Planning in Multinational Corporations</a>, with C. Beuselinck.  <ul>  <li> <i>Review of Accounting Studies</i>, 2022. <img src="https://jochenpierk.github.io/home/open_access.JPG" width="6%" height="6%"> </li> </ul> </li>
@@ -86,22 +87,6 @@ table, th, td {
       <li >  <span data-badge-type="2" data-link-target='_blank' data-doi="10.1007/s11142-022-09707-y" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>    </li> </ul>
     </td>
 </tr>    
-   
-<tr>
-    <td>
-    <li>  <a href="https://link.springer.com/article/10.1057/s41267-019-00287-9" target="_blank">The Effect of a Worldwide Tax System on Tax Management of Foreign Subsidiaries</a>, with S. Kohlhase.        
-     <ul>  <li> <i>Journal of International Business Studies</i>, 2020. <img src="https://jochenpierk.github.io/home/open_access.JPG" width="6%" height="6%">  </li> </ul>   </li>
-     </td>
-     <td>
-          <ul class="no-bullets">
-          <li > <span class="__dimensions_badge_embed__" data-doi="10.1057/s41267-019-00287-9" data-style="small_rectangle"> </span>  </li>
-          <li >  <span data-badge-type="2" data-link-target='_blank' data-doi="10.1057/s41267-019-00287-9" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>    </li> </ul>
-     </td>
-</tr>  
-   
-   </table>
- <h4> ERIM P and S Classification </h4> 
- <table style="width:100%">   
    
 <tr>
    <td>
@@ -141,7 +126,22 @@ table, th, td {
    <li > <span data-badge-type="2" data-link-target='_blank' data-doi="10.1080/00014788.2020.1783634" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>   </li>  </ul>
    </td>
 </tr>  
-<tr>
+
+    
+    <tr>
+    <td>
+    <li>  <a href="https://link.springer.com/article/10.1057/s41267-019-00287-9" target="_blank">The Effect of a Worldwide Tax System on Tax Management of Foreign Subsidiaries</a>, with S. Kohlhase.        
+     <ul>  <li> <i>Journal of International Business Studies</i>, 2020. <img src="https://jochenpierk.github.io/home/open_access.JPG" width="6%" height="6%">  </li> </ul>   </li>
+     </td>
+     <td>
+          <ul class="no-bullets">
+          <li > <span class="__dimensions_badge_embed__" data-doi="10.1057/s41267-019-00287-9" data-style="small_rectangle"> </span>  </li>
+          <li >  <span data-badge-type="2" data-link-target='_blank' data-doi="10.1057/s41267-019-00287-9" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>    </li> </ul>
+     </td>
+</tr>  
+   
+    
+    <tr>
      <td>
        <li>   <a href="https://www.sciencedirect.com/science/article/pii/S027842541830187X" target="_blank">IPOs and IFRS in European exchange-regulated markets: A research note</a> 
        <ul>  <li> <i>Journal of Accounting and Public Policy</i>, 2018. </li> </ul> </li>
@@ -165,10 +165,7 @@ table, th, td {
              </ul>   
      </td>
 </tr> 
-</table>   
-   
-<h4> Other </h4>    
-<table style="width:100%">     
+
 <tr>
     <td>
     <li>  <a href="https://research.owlit.de/document/6ed42696-ea1c-3217-826f-c08e2ffa016d" target="_blank">Conversion of IFRS and German GAAP – Evidence from pension provisions (in German)</a>, with M. Weil.  
