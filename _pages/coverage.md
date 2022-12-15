@@ -16,8 +16,7 @@ author_profile: true
 </script>
 
 
-  </ul> </font> 
-  
+ 
  <h3> Authored News Articles / Blogs </h3> 
   <font size="3"> <ul>
      <li>  <a href="[https://eaa-online.org/arc/blog/2022/07/08/who-cites-us-decomposing-accounting-impact-factors](https://eaa-online.org/arc/blog/2022/12/15/publication-outcomes-after-presenting-at-the-eaa-annual-congress/)/" target="_blank">Publication outcomes after presenting at the EAA Annual Congress </a></li>
