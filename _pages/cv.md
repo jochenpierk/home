@@ -19,7 +19,8 @@ redirect_from:
 <h3>Academic Positions </h3>
 
 <font size="3"> <ul>
-  <li>11/2016 – present     Erasmus University Rotterdam, School of Economics, Assistant Professor   </li>  
+  <li>11/2022 – present     Erasmus University Rotterdam, School of Economics, Associate Professor   </li> 
+  <li>11/2016 – 10/2022     Erasmus University Rotterdam, School of Economics, Assistant Professor   </li>  
   <li>06/2015 – 10/2016     Vienna University of Economics and Business, International Accounting Group, Post-doc researcher  </li> 
   <li>01/2015 – 05/2015     University of North Carolina, Kenan-Flagler School of Business, Visiting Scholar, Invited by Robert Bushman  </li> 
   <li>05/2014 – 12/2014     Humboldt University Berlin, Institute of Financial Accounting and Auditing, Re-search Assistant  </li> 
