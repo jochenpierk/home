@@ -18,7 +18,7 @@ author_profile: true
 
 <h3> Weekly Publication Update </h3>
 <font size="3"> 
-I am posting a weekly update on new accounting publications and SSRN working papers. Feel free to <a href="https://jochenpierk.github.io/acc_update/subscribe.html" target="_blank">sign up</a> for weekly email notifications (subscribers: 771, October 17, 2022) or follow on <a href="https://twitter.com/updates_acc?lang=en" target="_blank">twitter</a>. 
+I am posting a weekly update on new accounting publications and SSRN working papers. Feel free to <a href="https://jochenpierk.github.io/acc_update/subscribe.html" target="_blank">sign up</a> for weekly email notifications (subscribers: 846, December 21, 2022). 
 
  <p> </p>
 
