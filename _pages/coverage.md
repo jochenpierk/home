@@ -19,10 +19,10 @@ author_profile: true
  
  <h3> Authored News Articles / Blogs </h3> 
   <font size="3"> <ul>
-     <li>  <a href="[https://eaa-online.org/arc/blog/2022/07/08/who-cites-us-decomposing-accounting-impact-factors](https://eaa-online.org/arc/blog/2022/12/15/publication-outcomes-after-presenting-at-the-eaa-annual-congress/)/" target="_blank">Publication outcomes after presenting at the EAA Annual Congress </a></li>
-              <ul><li>Accounting Resource Center, December 15, 2022 </li></ul>      
+     <li>  <a href="https://eaa-online.org/arc/blog/2022/12/15/publication-outcomes-after-presenting-at-the-eaa-annual-congress/" target="_blank">Publication outcomes after presenting at the EAA Annual Congress </a></li>
+              <ul><li>EAA Accounting Resource Center, December 15, 2022 </li></ul>      
   <li>  <a href="https://eaa-online.org/arc/blog/2022/07/08/who-cites-us-decomposing-accounting-impact-factors/" target="_blank">Who cites us? Decomposing accounting impact factors </a></li>
-              <ul><li>Accounting Resource Center, July 8, 2022 </li></ul>      
+              <ul><li>EAA Accounting Resource Center, July 8, 2022 </li></ul>      
   <li>  <a href="https://news.bloombergtax.com/daily-tax-report-international/how-tax-loss-offsetting-affects-financial-reporting" target="_blank">How Tax-Loss Offsetting Affects Financial Reporting</a>, with Saskia Kohlhase</li>
               <ul><li>Bloomberg Tax, July 5, 2021</li></ul> 
   <li>  <a href="https://discovery.rsm.nl/articles/503/" target="_blank">Tax rule changes and timing of asset write-offs in loss-making firms</a>, with Saskia Kohlhase</li>
@@ -30,7 +30,7 @@ author_profile: true
   <li> <a href="https://www.accountant.nl/discussie/opinie/2020/9/tandeloze-waakhonden/" target="_blank">Tandeloze waakhonden</a>, with Ferdinand Elfers</li>
               <ul><li>accountant.nl, September 23, 2020 </li></ul>     
   <li>  <a href="https://arc.eaa-online.org/blog/toothless-watchdogs" target="_blank">Toothless Watchdogs</a>, with Ferdinand Elfers</li>
-              <ul><li>Accounting Resource Center, September 2, 2020 </li></ul>   
+              <ul><li>EAA Accounting Resource Center, September 2, 2020 </li></ul>   
    <li>  <a href="https://discovery.rsm.nl/articles/424/" target="_blank">The effect of a worldwide tax system on tax management of foreign subsidiaries</a>, with Saskia Kohlhase</li>
               <ul><li>RSM Discovery, February 11, 2020</li></ul>     
   </ul> </font> 
