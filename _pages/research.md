@@ -236,7 +236,7 @@ table, th, td {
    
       <tr>
    <td>
- <li>Accoutning Regulation in the European Union, with E. Labro.  
+ <li>Accounting Regulation in the European Union, with E. Labro.  
   <ul>  <li> Status: Work in Progress </li> </ul> </li>
    </td>
    <td>
