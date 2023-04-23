@@ -27,20 +27,16 @@ I am posting a weekly update on new accounting publications and SSRN working pap
   
   
     <tr> 
+    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week16.html" target="_blank">Publications Week 16</a> </td> 
+    </tr>   
+   <tr> 
     <td> <a href="https://jochenpierk.github.io/acc_update/publications_week15.html" target="_blank">Publications Week 15</a> </td> 
     </tr>    
     <tr> 
     <td> <a href="https://jochenpierk.github.io/acc_update/publications_week14.html" target="_blank">Publications Week 14</a> </td> 
     </tr>    
-    <tr> 
-    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week13.html" target="_blank">Publications Week 13</a> </td> 
-    </tr>   
-    <tr> 
-    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week12.html" target="_blank">Publications Week 12</a> </td> 
-    </tr>  
-    <tr> 
-    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week11.html" target="_blank">Publications Week 11</a> </td> 
-    </tr>   
+   
+
 
 
 
