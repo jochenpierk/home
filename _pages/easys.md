@@ -25,8 +25,26 @@ Organizer: Sara Bormann, Thomas Bourveau, Jochen Pierk, Mariano Scapin
  
  
  
-  <h2>Previous Versions</h2>
+  <h2>Upcoming</h2>
  
+  <h2>EASYS 2023 - Helsinki, Finland</h2>
+ <tr>
+   <td>
+    <li><b>Nikolaos Floropoulos (Universidad Carlos III de Madrid)</b>, <i> The informativeness of short-term and long-term annual analyst forecasts</i>  </li> 
+    <li><b>Oliver Binz (INSEAD)</b>, <i> Does Monetary Policy Transparency Reduce the Price Sensitivity of Publicly Traded Firms’ Investment?</i>  </li> 
+     <li><b>Ionela Andreicovici (Frankfurt School of Finance and Management)</b>, <i> CSR Disclosure and Agency Frictions: Evidence from Corporate Philanthropy Disclosure</i>  </li> 
+     <li><b>Jeroen Koenraadt (London School of Economics)</b>, <i> Do Firms Listen to Social Media Analysts? Evidence from Seeking Alpha</i>  </li> 
+     <li><b>Amadeus Bach (University of Mannheim)</b>, <i> Real Effects of Internal Information Allocation: Evidence from a Field Experiment </i>  </li> 
+     <li><b>Nicolas Rudolf (University of Lausanne)</b>, <i> </i>  </li> 
+     <li><b>Stavriana Hadjigavirel (CUNEF University)</b>, <i> The Effect of Distance on Distracted Auditors: Evidence from Non-Accounting related Lawsuits against Audit Clients</i>  </li> 
+     <li><b>Omar de Ines Anton (CUNEF University)</b>, <i> Audit materiality and debt contracting</i>  </li> 
+
+     
+    </td>
+ </tr>   
+ 
+  <h2>Previous Versions</h2>
+  
  <h2>EASYS 2022 - Bergen, Norway</h2>
 
 <tr>
