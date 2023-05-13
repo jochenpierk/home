@@ -36,7 +36,7 @@ It is meant to establish research networks among young scholars. Participants p
      <li><b>Jeroen Koenraadt (London School of Economics)</b>, <i> Do Firms Listen to Social Media Analysts? Evidence from Seeking Alpha</i>  </li> 
      <li><b>Amadeus Bach (University of Mannheim)</b>, <i> Real Effects of Internal Information Allocation: Evidence from a Field Experiment </i>  </li> 
      <li><b>Nicolas Rudolf (University of Lausanne)</b>, <i> </i>  </li> 
-     <li><b>Stavriana Hadjigavirel (CUNEF University)</b>, <i> The Effect of Distance on Distracted Auditors: Evidence from Non-Accounting related Lawsuits against Audit Clients</i>  </li> 
+     <li><b>Stavriana Hadjigavirel (CUNEF University)</b>, <i> Auditing on the Edge: Spillover effects of having a scrutinized client</i>  </li> 
      <li><b>Omar de Ines Anton (CUNEF University)</b>, <i> Audit materiality and debt contracting</i>  </li> 
 
      
