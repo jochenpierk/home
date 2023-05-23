@@ -22,11 +22,7 @@ The European Accounting Symposium for Young Scholars (EASYS) is an annual me
 It is meant to establish research networks among young scholars. Participants present their early-stage work and obtain feedback in a friendly and constructive environment. The target audience of the workshop is European faculty with the rank of post-doctoral researchers or assistant professor (non-tenured). The workshop includes a maximum of 20 participants to ensure a friendly environment to present early stage projects / research ideas. Presented research projects should not be under review / submitted to a journal. The symposium focuses on quantitative research in all areas of accounting (e.g., financial, managerial, auditing, taxation). Please note that the symposium is not related to the European Accounting Association. If you have questions about the EASYS meeting, you can contact us. 
  
 
- 
- 
- 
-  <h2>Upcoming</h2>
- 
+  
   <h2>EASYS 2023 - Helsinki, Finland</h2>
  <tr>
    <td>
@@ -35,15 +31,14 @@ It is meant to establish research networks among young scholars. Participants p
      <li><b>Ionela Andreicovici (Frankfurt School of Finance and Management)</b>, <i> CSR Disclosure and Agency Frictions: Evidence from Corporate Philanthropy Disclosure</i>  </li> 
      <li><b>Jeroen Koenraadt (London School of Economics)</b>, <i> Do Firms Listen to Social Media Analysts? Evidence from Seeking Alpha</i>  </li> 
      <li><b>Amadeus Bach (University of Mannheim)</b>, <i> Real Effects of Internal Information Allocation: Evidence from a Field Experiment </i>  </li> 
-     <li><b>Nicolas Rudolf (University of Lausanne)</b>, <i> </i>  </li> 
+     <li><b>Nicolas Rudolf (University of Lausanne)</b>, <i> Leading by Example: Can One Universal Shareholder’s Proxy-voting Pre-Disclosure Influence Corporate Governance Outcomes?</i>  </li> 
      <li><b>Stavriana Hadjigavirel (CUNEF University)</b>, <i> Auditing on the Edge: Spillover effects of having a scrutinized client</i>  </li> 
      <li><b>Omar de Ines Anton (CUNEF University)</b>, <i> Audit materiality and debt contracting</i>  </li> 
-
-     
+  
     </td>
  </tr>   
- 
-  <h2>Previous Versions</h2>
+  <a href="https://jochenpierk.github.io/easys/previous_versions.html" target="_blank">Check out some pictures!</a>  
+  
   
  <h2>EASYS 2022 - Bergen, Norway</h2>
 
