@@ -27,9 +27,18 @@ author_profile: true
   </ul>
 </font> 
 
-<h3> Service for Journals / Associations </h3>
-
+<h3> Awards and Recognitions </h3>
 <font size="3"> 
+<ul> 
+  <li> Best Reviewer Award 2022, European Accounting Review  </li>
+  <li> Excellence in Reviewing Recognition 2021, European Accounting Review  </li>
+  <li> Excellence in Reviewing Recognition 2020, European Accounting Review  </li>
+</ul> 
+ </font> 
+
+  
+ <h3> Service for Journals / Associations </h3>
+ <font size="3"> 
  
  <ul> 
   <li> Member of the <a href="http://www.eaa-online.org/r/Standing_Scientific_Committee" target="_blank">Standing Scientific Committee</a> of the European Accounting Assoication   </li> 
@@ -37,13 +46,10 @@ author_profile: true
   <a href="https://arc.eaa-online.org/accounting-resources-centre-committee" target="_blank">Accounting Resources Centre Committee</a> (EAA ARC) of the European Accounting Association </li> 
  <li> Ad hoc Reviewer for: 
     <ul>  
-      <li> European Accounting Review 
-        (<a href="https://www.tandfonline.com/doi/full/10.1080/09638180.2021.1880631" target="_blank">2020 </a> and 
-        <a href="https://www.tandfonline.com/doi/full/10.1080/09638180.2022.2047251" target="_blank">2021 </a>        
-        Excellence in Reviewing Recognition) </li>
+     <li> European Accounting Review  </li>
      <li> Review of Accounting Studies </li>
-         <li> Contemporary Accounting Research </li>
-      <li> Accounting and Business Research </li>
+     <li> Contemporary Accounting Research </li>
+     <li> Accounting and Business Research </li>
      <li> Journal of Management Accouting Research </li>
      <li> Journal of Accounting and Public Policy </li>
     </ul> </li>
