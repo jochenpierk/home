@@ -204,7 +204,7 @@ table, th, td {
    
 <tr>
    <td>
-     <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3703590" target="_blank"> Brexit! The Effect of Political Uncertainty on International Research Collaborations of Firms and Research Institutions</a> , with B. Osswald. 
+     <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3703590" target="_blank"> Brexit! The Effect of Political Uncertainty on International Research Collaborations of Firms and Research Institutions</a>, with B. Osswald. 
     <ul>   <li> Status: Work in Progress   </li>          </ul> </li>
     </td>
    <td>
@@ -212,9 +212,10 @@ table, th, td {
      <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3703590" data-popup="left" data-size="small" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true"></a>  </li> </ul>
    </td>
 </tr>
+
 <tr>
    <td>
- <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3657391" target="_blank"> Does Shark Tank Enhance Entrepreneurial Activities</a> , with C. D. Peter.  
+ <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3657391" target="_blank"> Does Shark Tank Enhance Entrepreneurial Activities</a>, with C. D. Peter.  
   <ul>  <li> Status: Work in Progress </li> </ul> </li>
    </td>
    <td>
@@ -223,21 +224,22 @@ table, th, td {
    </td>
   </tr>
    
-   <tr>
+<tr>
    <td>
- <li>The Role of Multinational Corporations’ Executives in Foreign Subsidiaries’ Tax Management, with B. Osswald.  
+ <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4431937" target="_blank"> Crossing the Atlantic: The Role of U.S. Executives in Tax Planning of Foreign Subsidiaries</a>, with B. Osswald.  
   <ul>  <li> Status: Work in Progress </li> </ul> </li>
    </td>
    <td>
    <ul class="no-bullets">
-   <li >  </li> </ul>
+   <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.4431937" data-popup="left" data-size="small" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true"></a>  </li> </ul>
    </td>
   </tr>
    
       <tr>
    <td>
  <li>Accounting Regulation in the European Union, with E. Labro.  
-  <ul>  <li> Status: Work in Progress </li> </ul> </li>
+  <ul>  <li> Status: Work in Progress </li>  </li>
+    <li> Status: <a href= "http://www.eu-regulations.com/" target="_blank"> Accompanying Website</a>  </li> </ul> </li>   
    </td>
    <td>
    <ul class="no-bullets">
