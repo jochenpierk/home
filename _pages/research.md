@@ -239,7 +239,7 @@ table, th, td {
    <td>
  <li>Accounting Regulation in the European Union, with E. Labro.  
   <ul>  <li> Status: Work in Progress </li>  
-    <li> Status: <a href= "http://www.eu-regulations.com/" target="_blank"> Accompanying Website</a>  </li> </ul> </li> 
+    <li> <a href= "http://www.eu-regulations.com/" target="_blank"> Accompanying Website</a>  </li> </ul> </li> 
    </td>
    <td>
    <ul class="no-bullets">
