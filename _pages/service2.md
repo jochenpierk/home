@@ -25,30 +25,15 @@ I am posting a weekly update on new accounting publications and SSRN working pap
   
  <table style="width:100%">   
   
+                          <tr> 
+    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week29.html" target="_blank">Publications Week 29</a> </td> 
+    </tr>  
                          <tr> 
     <td> <a href="https://jochenpierk.github.io/acc_update/publications_week28.html" target="_blank">Publications Week 28</a> </td> 
     </tr>  
                      <tr> 
     <td> <a href="https://jochenpierk.github.io/acc_update/publications_week27.html" target="_blank">Publications Week 27</a> </td> 
     </tr>  
-              <tr> 
-    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week26.html" target="_blank">Publications Week 26</a> </td> 
-    </tr>    
-          <tr> 
-    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week25.html" target="_blank">Publications Week 25</a> </td> 
-    </tr>    
-         <tr> 
-    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week24.html" target="_blank">Publications Week 24</a> </td> 
-    </tr>    
-   <tr> 
-    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week23.html" target="_blank">Publications Week 23</a> </td> 
-    </tr>      
-   <tr> 
-    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week22.html" target="_blank">Publications Week 22</a> </td> 
-    </tr>    
-   <tr> 
-    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week21.html" target="_blank">Publications Week 21</a> </td> 
-    </tr>      
 
 
 
