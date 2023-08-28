@@ -20,6 +20,26 @@ author_profile: true
 <font size="3"> 
 I am posting a weekly update on new accounting publications and SSRN working papers. Feel free to <a href="https://jochenpierk.github.io/acc_update/subscribe.html" target="_blank">sign up</a> for weekly email notifications (subscribers: 1025, June 14, 2023). 
 
+<p> </p>
+
+
+ <table style="width:100%">   
+
+                          <tr> 
+    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week34.html" target="_blank">Publications Week 34</a> </td> 
+    </tr>  
+                            <tr> 
+    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week33.html" target="_blank">Publications Week 33</a> </td> 
+    </tr>  
+                           <tr> 
+    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week32.html" target="_blank">Publications Week 32</a> </td> 
+    </tr>  
+ 
+
+
+
+ </table>
+
 
 
 
