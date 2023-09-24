@@ -25,25 +25,17 @@ I am posting a weekly update on new accounting publications and SSRN working pap
 
  <table style="width:100%">   
 
+                      <tr> 
+    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week38.html" target="_blank">Publications Week 38</a> </td> 
+    </tr>  
                          <tr> 
     <td> <a href="https://jochenpierk.github.io/acc_update/publications_week37.html" target="_blank">Publications Week 37</a> </td> 
     </tr>  
                             <tr> 
     <td> <a href="https://jochenpierk.github.io/acc_update/publications_week36.html" target="_blank">Publications Week 36</a> </td> 
     </tr>  
-                       <tr> 
-    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week35.html" target="_blank">Publications Week 35</a> </td> 
-    </tr>  
-                          <tr> 
-    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week34.html" target="_blank">Publications Week 34</a> </td> 
-    </tr>  
-                            <tr> 
-    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week33.html" target="_blank">Publications Week 33</a> </td> 
-    </tr>  
-                           <tr> 
-    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week32.html" target="_blank">Publications Week 32</a> </td> 
-    </tr>  
- 
+      
+
 
 
 
