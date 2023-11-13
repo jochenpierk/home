@@ -65,10 +65,37 @@ table, th, td {
   <table style="width:100%"> 
    
   <table>  
+
+<tr>
+   <td>
+   <li>  <a href="https://www.tandfonline.com/journals/rear20" target="_blank">Dissemination of Accounting Research</a>, with B. Garcia Osma, and A. Mora.   
+    <ul>  
+      <li> <i>European Accounting Review</i>, accepted. <img src="https://jochenpierk.github.io/home/open_access.JPG" width="6%" height="6%">  </li> 
+         </ul> </li>
+    </td>
+    <td>
+      
+    </td>
+</tr>   
+
+<tr>
+   <td>
+   <li>  <a href="https://www.tandfonline.com/doi/full/10.1080/00014788.2021.1982670" target="_blank">Private Firm Accounting: The European Reporting Environment, Data and Research Perspectives</a>, with C. Beuselinck, J. Gassen, and F. Elfers.   
+    <ul>  
+      <li> <i>Accounting and Business Research</i>, 2023 (1). <img src="https://jochenpierk.github.io/home/open_access.JPG" width="6%" height="6%">  </li> 
+         </ul> </li>
+    </td>
+    <td>
+      <ul class="no-bullets">
+      <li > <span class="__dimensions_badge_embed__" data-doi="10.1080/00014788.2021.1982670" data-style="small_rectangle"> </span>   </li>
+      <li > <span data-badge-type="2" data-link-target='_blank' data-doi="10.1080/00014788.2021.1982670" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>     </li> </ul>
+    </td>
+</tr>    
+
     
 <tr>
    <td>
-   <li>  <a href="https://doi.org/10.1007/s11142-022-09731-y" target="_blank">On the Dynamics between Local and International Tax Planning in Multinational Corporations</a>, with C. Beuselinck.  <ul>  <li> <i>Review of Accounting Studies</i>, 2022. <img src="https://jochenpierk.github.io/home/open_access.JPG" width="6%" height="6%"> </li> </ul> </li>
+   <li>  <a href="https://doi.org/10.1007/s11142-022-09731-y" target="_blank">On the Dynamics between Local and International Tax Planning in Multinational Corporations</a>, with C. Beuselinck.  <ul>  <li> <i>Review of Accounting Studies</i>, 2022 (online first). <img src="https://jochenpierk.github.io/home/open_access.JPG" width="6%" height="6%"> </li> </ul> </li>
     </td>
     <td>
       <ul class="no-bullets">
@@ -79,7 +106,7 @@ table, th, td {
    
   <tr>
    <td>
-   <li>  <a href="https://link.springer.com/article/10.1007/s11142-022-09707-y" target="_blank">Public Peers, Accounting Comparability, and Value Relevance of Private Firms' Financial Reporting</a>, with T. Bourveau, J. V. Chen, and F. Elfers.  <ul>  <li> <i>Review of Accounting Studies</i>, 2022. <img src="https://jochenpierk.github.io/home/open_access.JPG" width="6%" height="6%"> </li> </ul> </li>
+   <li>  <a href="https://link.springer.com/article/10.1007/s11142-022-09707-y" target="_blank">Public Peers, Accounting Comparability, and Value Relevance of Private Firms' Financial Reporting</a>, with T. Bourveau, J. V. Chen, and F. Elfers.  <ul>  <li> <i>Review of Accounting Studies </i>, 2022 (online first). <img src="https://jochenpierk.github.io/home/open_access.JPG" width="6%" height="6%"> </li> </ul> </li>
     </td>
     <td>
       <ul class="no-bullets">
@@ -88,24 +115,12 @@ table, th, td {
     </td>
 </tr>    
    
-<tr>
-   <td>
-   <li>  <a href="https://www.tandfonline.com/doi/full/10.1080/00014788.2021.1982670" target="_blank">Private Firm Accounting: The European Reporting Environment, Data and Research Perspectives</a>, with C. Beuselinck, J. Gassen, and F. Elfers.   
-    <ul>  
-      <li> <i>Accounting and Business Research</i>, 2021. <img src="https://jochenpierk.github.io/home/open_access.JPG" width="6%" height="6%">  </li> 
-         </ul> </li>
-    </td>
-    <td>
-      <ul class="no-bullets">
-      <li > <span class="__dimensions_badge_embed__" data-doi="10.1080/00014788.2021.1982670" data-style="small_rectangle"> </span>   </li>
-      <li > <span data-badge-type="2" data-link-target='_blank' data-doi="10.1080/00014788.2021.1982670" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>     </li> </ul>
-    </td>
-</tr>    
+
  
  <tr>
    <td>
    <li>  <a href="https://onlinelibrary.wiley.com/doi/10.1111/jbfa.12502" target="_blank">Tax Rule Changes and the Timing of Asset Write-Offs in Loss Firms</a>, with S. Kohlhase. 
-       <ul>  <li> <i>Journal of Business Finance & Accounting</i>, 2021. <img src="https://jochenpierk.github.io/home/open_access.JPG" width="6%" height="6%">  </li> </ul> </li>
+       <ul>  <li> <i>Journal of Business Finance & Accounting</i>, 2021 (5-6). <img src="https://jochenpierk.github.io/home/open_access.JPG" width="6%" height="6%">  </li> </ul> </li>
     </td>
     <td>
       <ul class="no-bullets">
@@ -116,7 +131,7 @@ table, th, td {
  <tr>
    <td>
    <li>  <a href="https://www.tandfonline.com/doi/full/10.1080/00014788.2020.1783634" target="_blank">Big baths and CEO overconfidence</a> 
-       <ul>  <li> <i>Accounting and Business Research</i>, 2021. <img src="https://jochenpierk.github.io/home/open_access.JPG" width="6%" height="6%">  
+       <ul>  <li> <i>Accounting and Business Research</i>, 2021 (2). <img src="https://jochenpierk.github.io/home/open_access.JPG" width="6%" height="6%">  
         </li> </ul> </li>
    </td>
    <td>
@@ -130,7 +145,7 @@ table, th, td {
     <tr>
     <td>
     <li>  <a href="https://link.springer.com/article/10.1057/s41267-019-00287-9" target="_blank">The Effect of a Worldwide Tax System on Tax Management of Foreign Subsidiaries</a>, with S. Kohlhase.        
-     <ul>  <li> <i>Journal of International Business Studies</i>, 2020. <img src="https://jochenpierk.github.io/home/open_access.JPG" width="6%" height="6%">  </li> </ul>   </li>
+     <ul>  <li> <i>Journal of International Business Studies</i>, 2020 (8). <img src="https://jochenpierk.github.io/home/open_access.JPG" width="6%" height="6%">  </li> </ul>   </li>
      </td>
      <td>
           <ul class="no-bullets">
@@ -143,7 +158,7 @@ table, th, td {
     <tr>
      <td>
        <li>   <a href="https://www.sciencedirect.com/science/article/pii/S027842541830187X" target="_blank">IPOs and IFRS in European exchange-regulated markets: A research note</a> 
-       <ul>  <li> <i>Journal of Accounting and Public Policy</i>, 2018. </li> </ul> </li>
+       <ul>  <li> <i>Journal of Accounting and Public Policy</i>, 2018 (5). </li> </ul> </li>
      </td>
      <td> 
        <ul class="no-bullets">
@@ -155,7 +170,7 @@ table, th, td {
 <tr>
      <td>
      <li>  <a href="https://www.sciencedirect.com/science/article/abs/pii/S027842541500099X" target="_blank">Price Regulation and Accounting Choice</a>, with M. Weil.   
-     <ul>  <li> <i>Journal of Accounting and Public Policy</i>, 2016. </li> </ul> </li>
+     <ul>  <li> <i>Journal of Accounting and Public Policy</i>, 2016 (3). </li> </ul> </li>
      </td>
      <td>
      <ul class="no-bullets">
