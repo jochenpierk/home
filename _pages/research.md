@@ -68,7 +68,7 @@ table, th, td {
 
 <tr>
    <td>
-   <li>  <a href="https://www.tandfonline.com/journals/rear20" target="_blank">Dissemination of Accounting Research</a>, with B. Garcia Osma, and A. Mora.   
+   <li>  <a href="https://www.tandfonline.com/doi/full/10.1080/09638180.2023.2276215?src=" target="_blank">Dissemination of Accounting Research</a>, with B. Garcia Osma, and A. Mora.   
     <ul>  
       <li> <i>European Accounting Review</i>, accepted. <img src="https://jochenpierk.github.io/home/open_access.JPG" width="6%" height="6%">  </li> 
          </ul> </li>
