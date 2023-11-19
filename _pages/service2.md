@@ -24,38 +24,16 @@ I am posting a weekly update on new accounting publications and SSRN working pap
 
 
  <table style="width:100%">   
-
+                           <tr> 
+    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week46.html" target="_blank">Publications Week 46</a> </td> 
+    </tr>  
                                        <tr> 
     <td> <a href="https://jochenpierk.github.io/acc_update/publications_week45.html" target="_blank">Publications Week 45</a> </td> 
     </tr>  
                                           <tr> 
     <td> <a href="https://jochenpierk.github.io/acc_update/publications_week44.html" target="_blank">Publications Week 44</a> </td> 
     </tr>  
-                                      <tr> 
-    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week43.html" target="_blank">Publications Week 43</a> </td> 
-    </tr>  
-                        <tr> 
-    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week42.html" target="_blank">Publications Week 42</a> </td> 
-    </tr>  
-                           <tr> 
-    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week41.html" target="_blank">Publications Week 41</a> </td> 
-    </tr>  
-                               <tr> 
-    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week40.html" target="_blank">Publications Week 40</a> </td> 
-    </tr>  
-                                 <tr> 
-    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week39.html" target="_blank">Publications Week 39</a> </td> 
-    </tr>  
-                      <tr> 
-    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week38.html" target="_blank">Publications Week 38</a> </td> 
-    </tr>  
-                         <tr> 
-    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week37.html" target="_blank">Publications Week 37</a> </td> 
-    </tr>  
-                            <tr> 
-    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week36.html" target="_blank">Publications Week 36</a> </td> 
-    </tr>  
-      
+   
 
 
 
