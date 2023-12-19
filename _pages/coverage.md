@@ -16,10 +16,12 @@ author_profile: true
 </script>
 
 
- 
+
  <h3> Authored News Articles / Blogs </h3> 
   <font size="3"> <ul>
-     <li>  <a href="https://eaa-online.org/arc/blog/2022/12/15/publication-outcomes-after-presenting-at-the-eaa-annual-congress/" target="_blank">Publication outcomes after presenting at the EAA Annual Congress </a></li>
+     <li>  <a href=" https://eaa-online.org/arc/blog/2023/12/19/enhancing-the-social-relevance-of-accounting-research/" target="_blank">Enhancing the Social Relevance of Accounting Research </a></li>
+              <ul><li>EAA Accounting Resource Center, December 19, 2023 </li></ul>    
+    <li>  <a href="https://eaa-online.org/arc/blog/2022/12/15/publication-outcomes-after-presenting-at-the-eaa-annual-congress/" target="_blank">Publication outcomes after presenting at the EAA Annual Congress </a></li>
               <ul><li>EAA Accounting Resource Center, December 15, 2022 </li></ul>      
   <li>  <a href="https://eaa-online.org/arc/blog/2022/07/08/who-cites-us-decomposing-accounting-impact-factors/" target="_blank">Who cites us? Decomposing accounting impact factors </a></li>
               <ul><li>EAA Accounting Resource Center, July 8, 2022 </li></ul>      
