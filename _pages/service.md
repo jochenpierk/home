@@ -30,6 +30,7 @@ author_profile: true
 <h3> Awards and Recognitions </h3>
 <font size="3"> 
 <ul> 
+  <li> 2023 most cited <a href="https://www.tandfonline.com/doi/full/10.1080/00014788.2021.1982670" target="_blank">paper</a>  in Accounting and Business Research (ABR)  </li>
   <li> Best Reviewer Award 2022, European Accounting Review  </li>
   <li> Excellence in Reviewing Recognition 2021, European Accounting Review  </li>
   <li> Excellence in Reviewing Recognition 2020, European Accounting Review  </li>
