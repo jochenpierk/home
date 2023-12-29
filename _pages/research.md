@@ -258,7 +258,8 @@ table, th, td {
    
       <tr>
    <td>
- <li>Accounting Regulation in the European Union, with E. Labro.  
+ <li>
+   <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4663683" target="_blank"> Accounting Regulation in the European Union</a>, with E. Labro.  
   <ul>  <li> Status: Work in Progress </li>  
     <li> <a href= "http://www.eu-regulations.com/" target="_blank"> Accompanying Website</a>  </li> </ul> </li> 
    </td>
