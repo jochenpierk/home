@@ -42,7 +42,8 @@ author_profile: true
  <font size="3"> 
  
  <ul> 
-  <li> Member of the <a href="http://www.eaa-online.org/r/Standing_Scientific_Committee" target="_blank">Standing Scientific Committee</a> of the European Accounting Assoication   </li> 
+  <li> Associate Editor <a href="https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=rear20" target="_blank">European Accounting Review</a> </li> 
+   <li> Member of the <a href="http://www.eaa-online.org/r/Standing_Scientific_Committee" target="_blank">Standing Scientific Committee</a> of the European Accounting Association   </li> 
  <li> Member of the 
   <a href="https://arc.eaa-online.org/accounting-resources-centre-committee" target="_blank">Accounting Resources Centre Committee</a> (EAA ARC) of the European Accounting Association </li> 
  <li> Ad hoc Reviewer for: 
@@ -51,7 +52,7 @@ author_profile: true
      <li> Review of Accounting Studies </li>
      <li> Contemporary Accounting Research </li>
      <li> Accounting and Business Research </li>
-     <li> Journal of Management Accouting Research </li>
+     <li> Journal of Management Accounting Research </li>
      <li> Journal of Accounting and Public Policy </li>
     </ul> </li>
   </ul>
