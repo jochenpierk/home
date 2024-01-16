@@ -213,8 +213,8 @@ table, th, td {
 
 <tr>
    <td>
-     <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3370953" target="_blank"> In-Network Auditors as Information Intermediaries Within Business Groups </a>,  with E. Labro, C. D. Peter, and C. van Linden. 
-     <ul>  <li> Status: Revise and resubmit </li> </ul> </li>
+     <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3370953" target="_blank"> In-Network Auditors and Foreign Subsidiaries’ Investment Efficiency </a>,  with E. Labro, and C. van Linden. 
+     <ul>  <li> Status: Submitted </li> </ul> </li>
    </td>
    <td>
       <ul class="no-bullets">
