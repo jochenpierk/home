@@ -31,10 +31,7 @@ I am posting a weekly update on new accounting publications and SSRN working pap
                                                  <tr> 
     <td> <a href="https://jochenpierk.github.io/acc_update/publications_week5.html" target="_blank">Publications Week 5</a> </td> 
     </tr> 
-                          <tr> 
-    <td> <a href="https://jochenpierk.github.io/acc_update/publications_week4.html" target="_blank">Publications Week 4</a> </td> 
-    </tr> 
-
+   
 
 
 
