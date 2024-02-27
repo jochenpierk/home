@@ -66,7 +66,16 @@ table, th, td {
    
   <table>  
 
-
+<tr>
+   <td>
+   <li>  <a href="https://doi.org/10.1007/s11142-022-09731-y" target="_blank">On the Dynamics between Local and International Tax Planning in Multinational Corporations</a>, with C. Beuselinck.  <ul>  <li> <i>Review of Accounting Studies</i>, 2024, 29 (1). <img src="https://jochenpierk.github.io/home/open_access.JPG" width="6%" height="6%"> </li> </ul> </li>
+    </td>
+    <td>
+      <ul class="no-bullets">
+      <li >  <span class="__dimensions_badge_embed__" data-doi="10.1007/s11142-022-09731-y" data-style="small_rectangle"> </span>   </li>
+      <li >  <span data-badge-type="2" data-link-target='_blank' data-doi="10.1007/s11142-022-09731-y" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>    </li>  </ul>
+    </td>
+</tr>    
 
   <tr>
    <td>
@@ -108,17 +117,6 @@ table, th, td {
 </tr>    
 
     
-<tr>
-   <td>
-   <li>  <a href="https://doi.org/10.1007/s11142-022-09731-y" target="_blank">On the Dynamics between Local and International Tax Planning in Multinational Corporations</a>, with C. Beuselinck.  <ul>  <li> <i>Review of Accounting Studies</i>, 2022 (online first). <img src="https://jochenpierk.github.io/home/open_access.JPG" width="6%" height="6%"> </li> </ul> </li>
-    </td>
-    <td>
-      <ul class="no-bullets">
-      <li >  <span class="__dimensions_badge_embed__" data-doi="10.1007/s11142-022-09731-y" data-style="small_rectangle"> </span>   </li>
-      <li >  <span data-badge-type="2" data-link-target='_blank' data-doi="10.1007/s11142-022-09731-y" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>    </li>  </ul>
-    </td>
-</tr>    
-   
 
 
  
