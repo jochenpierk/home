@@ -214,8 +214,8 @@ table, th, td {
     <li> <a href= "http://www.eu-regulations.com/" target="_blank"> Accompanying Website</a>  </li> </ul> </li> 
    </td>
    <td>
-   <ul class="no-bullets">
-   <li >  </li> </ul>
+      <ul class="no-bullets">
+      <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.4663683" data-popup="left" data-size="small" class="plumx-plum-print-popup" data-site="plum" data- hide-when-empty="true"></a>  </li>  </ul>
    </td>
   </tr>
 
