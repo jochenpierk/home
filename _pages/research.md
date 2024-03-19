@@ -206,7 +206,29 @@ table, th, td {
  
  <table style="width:100%"> 
 
+      <tr>
+   <td>
+ <li>
+   <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4663683" target="_blank"> Accounting Regulation in the European Union</a>, with E. Labro.  
+  <ul>  <li> Status: Submitted </li>  
+    <li> <a href= "http://www.eu-regulations.com/" target="_blank"> Accompanying Website</a>  </li> </ul> </li> 
+   </td>
+   <td>
+   <ul class="no-bullets">
+   <li >  </li> </ul>
+   </td>
+  </tr>
 
+<tr>
+   <td>
+     <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4765271" target="_blank"> Tax-related Key Audit Matters and Changes in Corporate Income Shifting </a>,  with C. Beuselinck, N. Goldman, and C. Valle Ruiz. 
+     <ul>  <li> Status: Submitted </li> </ul> </li>
+   </td>
+   <td>
+      <ul class="no-bullets">
+      <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.4765271" data-popup="left" data-size="small" class="plumx-plum-print-popup" data-site="plum" data- hide-when-empty="true"></a>  </li>  </ul>
+   </td>
+</tr>   
 
 
 <tr>
@@ -254,18 +276,7 @@ table, th, td {
    </td>
   </tr>
    
-      <tr>
-   <td>
- <li>
-   <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4663683" target="_blank"> Accounting Regulation in the European Union</a>, with E. Labro.  
-  <ul>  <li> Status: Work in Progress </li>  
-    <li> <a href= "http://www.eu-regulations.com/" target="_blank"> Accompanying Website</a>  </li> </ul> </li> 
-   </td>
-   <td>
-   <ul class="no-bullets">
-   <li >  </li> </ul>
-   </td>
-  </tr>
+
    
 </table>
 
