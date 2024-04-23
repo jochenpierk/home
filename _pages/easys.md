@@ -23,6 +23,18 @@ It is meant to establish research networks among young scholars. Participants p
  
  <h2>EASYS 2024 - Bucharest, Romania</h2>
  The next EASYS meeting will take place in Bucharest, Romania. The event is by invitation only. <a href=" https://www.eur.nl/en/ese/events/easys-2024-05-14" target="_blank">More info.</a>  
+ <br>  <br>
+ <tr>
+   <td>
+    <li><b>Lemonia Marina Rempoutsika (Open University)</b>, <i>Accounting disclosure and regulatory intervention: Evidence at the bank holding company level </i>  </li> 
+    <li><b>Sara Bormann (Goethe University Frankfurt)</b>, <i>Accounting information systems and firms’ financial reporting similarity </i>  </li> 
+    <li><b>Tim Martens (Bocconi University)</b>, <i>Dividends as Actionable Information: Evidence from Patent Valuations </i>  </li> 
+    <li><b>Katharina Weiß (LMU Munich School of Management)</b>, <i>ESG Information and Analysts’ Forecasts Accuracy: Evidence from Analysts’ Research Reports </i>  </li> 
+    <li><b>Cinthia Valle Ruiz (IESEG School of Management)</b>, <i>Tax and non-tax government policies and the location of patents </i>  </li> 
+    <li><b>Florian Habermann (Radboud University)</b>, <i>Materiality as a Double-Edged Sword: Real effects of SASB Sustainability Topics </i>  </li> 
+    <li><b>Ismail El Fassi (University of Lausanne)</b>, <i> </i>The Role of Relative Performance Feedback Across Human-Artificial Intelligence Collaboration Strategies  </li> 
+    </td>
+ </tr>   
 
 
   
