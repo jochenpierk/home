@@ -35,7 +35,7 @@ It is meant to establish research networks among young scholars. Participants p
     <li><b>Ismail El Fassi (University of Lausanne)</b>, <i> </i>The Role of Relative Performance Feedback Across Human-Artificial Intelligence Collaboration Strategies  </li> 
     </td>
  </tr>   
-
+ <a href="https://jochenpierk.github.io/easys/previous_versions.html" target="_blank">Check out some pictures!</a>  
 
   
   <h2>EASYS 2023 - Helsinki, Finland</h2>
