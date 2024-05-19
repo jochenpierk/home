@@ -22,8 +22,6 @@ The European Accounting Symposium for Young Scholars (EASYS) is an annual me
 It is meant to establish research networks among young scholars. Participants present their early-stage work and obtain feedback in a friendly and constructive environment. The target audience of the workshop is European faculty with the rank of post-doctoral researchers or assistant professor (non-tenured). The workshop includes around 25 participants to ensure a friendly environment to present early stage projects / research ideas. Presented research projects should not be under review / submitted to a journal. The symposium focuses on quantitative research in all areas of accounting (e.g., financial, managerial, auditing, taxation). Please note that the symposium is not related to the European Accounting Association. If you have questions about the EASYS meeting, you can contact us. 
  
  <h2>EASYS 2024 - Bucharest, Romania</h2>
- The next EASYS meeting will take place in Bucharest, Romania. The event is by invitation only. <a href=" https://www.eur.nl/en/ese/events/easys-2024-05-14" target="_blank">More info.</a>  
- <br>  <br>
  <tr>
    <td>
     <li><b>Lemonia Marina Rempoutsika (Open University)</b>, <i>Accounting disclosure and regulatory intervention: Evidence at the bank holding company level </i>  </li> 
