@@ -20,7 +20,7 @@ author_profile: true
 <font size="3"> 
 I am posting a weekly update on new accounting publications and SSRN working papers. Feel free to <a href="https://jochenpierk.github.io/acc_update/subscribe.html" target="_blank">sign up</a> for weekly email notifications (subscribers: 1,530, November 2024). 
 <p> </p>
-If you prefer not to sign up via email, you can also directly access the latest update. Replace the XX in  the following string with the current week: https://jochenpierk.github.io/acc_update/publications_weekXX.html. For example, week 30 <a href="https://jochenpierk.github.io/acc_update/publications_week30.html" target="_blank">x</a>. 
+If you prefer not to sign up via email, you can also directly access the latest update. Replace the XX in  the following string with the current week: https://jochenpierk.github.io/acc_update/publications_weekXX.html. For example, week 30 <a href="https://jochenpierk.github.io/acc_update/publications_week30.html" target="_blank">https://jochenpierk.github.io/acc_update/publications_week30.html</a>. 
 
 
 <p> </p>
