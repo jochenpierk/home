@@ -98,7 +98,7 @@ table, th, td {
     <td>
        <ul class="no-bullets">
       <li > <span class="__dimensions_badge_embed__" data-doi="10.1080/09638180.2023.2276215" data-style="small_rectangle"> </span>   </li>
-         </li> </ul>
+          </ul>
     </td>
 </tr>   
 
@@ -154,7 +154,7 @@ table, th, td {
      <td>
           <ul class="no-bullets">
           <li > <span class="__dimensions_badge_embed__" data-doi="10.1057/s41267-019-00287-9" data-style="small_rectangle"> </span>  </li>
-          <li >  <span data-badge-type="2" data-link-target='_blank' data-doi="10.1057/s41267-019-00287-9" data-badge-popover='left' data-hide-no-mentions="false" class="altmetric-embed"> </span>    </li> </ul>
+         </ul>
      </td>
 </tr>  
    
@@ -167,8 +167,7 @@ table, th, td {
      <td> 
        <ul class="no-bullets">
        <li > <span class="__dimensions_badge_embed__" data-doi="10.1016/j.jaccpubpol.2018.09.005" data-style="small_rectangle"> </span>   </li> 
-              <li >  <span data-badge-type="2" data-link-target='_blank' data-doi="10.1016/j.jaccpubpol.2018.09.005" data-badge-popover='left' data-hide-no-mentions="true" class="altmetric-embed"> </span>    </li> 
-              </ul>
+                         </ul>
        </td>
 </tr>   
 <tr>
@@ -179,8 +178,7 @@ table, th, td {
      <td>
      <ul class="no-bullets">
      <li > <span class="__dimensions_badge_embed__" data-doi="10.1016/j.jaccpubpol.2015.12.005" data-style="small_rectangle"> </span>  </li> 
-          <li >  <span data-badge-type="2" data-link-target='_blank' data-doi="10.1016/j.jaccpubpol.2015.12.005" data-badge-popover='left' data-hide-no-mentions="true" class="altmetric-embed"> </span>    </li> 
-             </ul>   
+                      </ul>   
      </td>
 </tr> 
 
