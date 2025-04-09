@@ -21,6 +21,21 @@ The European Accounting Symposium for Young Scholars (EASYS) is an annual me
  
 It is meant to establish research networks among young scholars. Participants present their early-stage work and obtain feedback in a friendly and constructive environment. The target audience of the workshop is European faculty with the rank of post-doctoral researchers or assistant professor (non-tenured). The workshop includes around 25 participants to ensure a friendly environment to present early stage projects / research ideas. Presented research projects should not be under review / submitted to a journal. The symposium focuses on quantitative research in all areas of accounting (e.g., financial, managerial, auditing, taxation). Please note that the symposium is not related to the European Accounting Association. If you have questions about the EASYS meeting, you can contact us. 
  
+
+ 
+  <h2>EASYS 2025 - Rome, Italy</h2>
+ <tr>
+   <td>
+    <li><b>Marco Errico (Tilburg University)</b>, <i>Racial Disparities in the Processing of Whistleblower Complaints </i>  </li> 
+    <li><b>Nadine Zbiegly (University of Augsburg)</b>, <i>The Ability of OCI Components under IFRS to Predict Future Economic Benefits </i>  </li> 
+    <li><b>Bjarne Brie (Tilburg University)</b>, <i>Real effects of mandatory supply chain due diligence: Evidence from Germany </i>  </li> 
+    <li><b>Isabella Brancaccio (Bocconi University)</b>, <i>Do depositors monitor banks using accounting information? Evidence from the EDGAR log file </i>  </li> 
+    <li><b>Hari Ramasubramanian (Frankfurt School of Finance and Management)</b>, <i>Using Sales Target Difficulty to Manage the Strategic Role of Sales Measures </i>  </li> 
+    <li><b>Tobias Bornemann (WU Vienna)</b>, <i>In the Spotlight: The Effect of CSR Ratings on Tax Avoidance and Tax Transparency </i>  </li> 
+    <li><b>Sven Hörner (University of Bayreuth)</b>, <i>Audit Firm-Level Revenue Composition and Audit Quality—Evidence from Europe </i>  </li> 
+    </td>
+ </tr>   
+ 
  <h2>EASYS 2024 - Bucharest, Romania</h2>
  <tr>
    <td>
@@ -30,7 +45,7 @@ It is meant to establish research networks among young scholars. Participants p
     <li><b>Katharina Weiß (LMU Munich School of Management)</b>, <i>ESG Information and Analysts’ Forecasts Accuracy: Evidence from Analysts’ Research Reports </i>  </li> 
     <li><b>Cinthia Valle Ruiz (IESEG School of Management)</b>, <i>Tax and non-tax government policies and the location of patents </i>  </li> 
     <li><b>Florian Habermann (Radboud University)</b>, <i>Materiality as a Double-Edged Sword: Real effects of SASB Sustainability Topics </i>  </li> 
-    <li><b>Ismail El Fassi (University of Lausanne)</b>, <i> </i>The Role of Relative Performance Feedback Across Human-Artificial Intelligence Collaboration Strategies  </li> 
+    <li><b>Ismail El Fassi (University of Lausanne)</b>, <i>The Role of Relative Performance Feedback Across Human-Artificial Intelligence Collaboration Strategies </i>  </li> 
     </td>
  </tr>   
  <a href="https://jochenpierk.github.io/easys/previous_versions.html" target="_blank">Check out some pictures!</a>  
