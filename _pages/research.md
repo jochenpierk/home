@@ -67,6 +67,17 @@ table, th, td {
   <table>  
 
 
+<tr>
+   <td>
+   <li>     <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4663683" target="_blank"> Accounting Regulation in the European Union</a>, with E. Labro.    <ul>  <li> <i>Review of Accounting Studies</i>, accepted.  </li> </ul> </li>
+    </td>
+    <td>
+      <ul class="no-bullets">
+      <li >  <span class="__dimensions_badge_embed__" data-doi="10.1007/s11142-022-09731-y" data-style="small_rectangle"> </span>   </li>
+       </ul>
+    </td>
+</tr>    
+
 
 <tr>
    <td>
