@@ -66,6 +66,20 @@ table, th, td {
    
   <table>  
 
+      <tr>
+   <td>
+ <li>
+   <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4663683" target="_blank"> Accounting Regulation in the European Union</a>, with E. Labro.  
+  <ul>   
+    <li> <a href= "http://www.eu-regulations.com/" target="_blank"> Accompanying Website</a>  </li> </ul> </li> 
+     <li> <i>Review of Accounting Studies</i>, accepted.   </li> 
+   </td>
+   <td>
+      <ul class="no-bullets">
+      <li > </li>  </ul>
+   </td>
+  </tr>
+
 <tr>
    <td>
    <li>  <a href="https://doi.org/10.1007/s11142-022-09731-y" target="_blank">On the Dynamics between Local and International Tax Planning in Multinational Corporations</a>, with C. Beuselinck.  <ul>  <li> <i>Review of Accounting Studies</i>, 2024, 29 (1). <img src="https://jochenpierk.github.io/home/open_access.JPG" width="6%" height="6%"> </li> </ul> </li>
@@ -204,18 +218,7 @@ table, th, td {
  
  <table style="width:100%"> 
 
-      <tr>
-   <td>
- <li>
-   <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4663683" target="_blank"> Accounting Regulation in the European Union</a>, with E. Labro.  
-  <ul>   
-    <li> <a href= "http://www.eu-regulations.com/" target="_blank"> Accompanying Website</a>  </li> </ul> </li> 
-   </td>
-   <td>
-      <ul class="no-bullets">
-      <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.4663683" data-popup="left" data-size="small" class="plumx-plum-print-popup" data-site="plum" data- hide-when-empty="true"></a>  </li>  </ul>
-   </td>
-  </tr>
+
 
 <tr>
    <td>
