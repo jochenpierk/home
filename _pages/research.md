@@ -73,7 +73,7 @@ table, th, td {
   <ul>   
     <li> <a href= "http://www.eu-regulations.com/" target="_blank"> Accompanying Website</a>  </li> 
      <li> <i>Review of Accounting Studies</i>, accepted.   </li> </ul> 
-   
+   </td>
    <td>
         
    </td>
