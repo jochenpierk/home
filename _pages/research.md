@@ -75,7 +75,7 @@ table, th, td {
      <li> <i>Review of Accounting Studies</i>, accepted.   </li> </ul> 
    
    <td>
-        <li > </li>  </ul>
+        
    </td>
   </tr>
 
