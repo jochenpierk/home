@@ -35,6 +35,7 @@ It is meant to establish research networks among young scholars. Participants p
     <li><b>Sven Hörner (University of Bayreuth)</b>, <i>Audit Firm-Level Revenue Composition and Audit Quality—Evidence from Europe </i>  </li> 
     </td>
  </tr>   
+ <a href="https://jochenpierk.github.io/easys/previous_versions.html" target="_blank">Check out some pictures!</a>  
  
  <h2>EASYS 2024 - Bucharest, Romania</h2>
  <tr>
