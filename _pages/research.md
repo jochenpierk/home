@@ -67,17 +67,17 @@ table, th, td {
   <table>  
 
 
+
 <tr>
    <td>
-   <li>     <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4663683" target="_blank"> Accounting Regulation in the European Union</a>, with E. Labro.    <ul>  <li> <i>Review of Accounting Studies</i>, accepted.  </li> </ul> </li>
+   <li>  <a href="https://link.springer.com/article/10.1007/s11142-025-09909-0" target="_blank">Accounting Regulation in the European Union</a>, with E. Labro  <ul>  <li> <i>Review of Accounting Studies</i>, 2025. <img src="https://jochenpierk.github.io/home/open_access.JPG" width="6%" height="6%"> </li> </ul> </li>
     </td>
     <td>
       <ul class="no-bullets">
-      <li >    </li>
+      <li >  <span class="__dimensions_badge_embed__" data-doi="10.1007/s11142-025-09909-0" data-style="small_rectangle"> </span>   </li>
        </ul>
     </td>
 </tr>    
-
 
 <tr>
    <td>
