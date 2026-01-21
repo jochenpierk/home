@@ -66,7 +66,18 @@ table, th, td {
    
   <table>  
 
-
+<tr>
+   <td>
+   <li>  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3370953" target="_blank">In-Network Auditors and Foreign Subsidiaries’ Investment Efficiency</a>, with E. Labro, and C. van Linden  <ul>  <li> <i>European Accounting Review</i>, accepted.  </li> 
+  
+   </ul> </li>
+    </td>
+    <td>
+      <ul class="no-bullets">
+      <li >    </li>
+       </ul>
+    </td>
+</tr>    
 
 <tr>
    <td>
@@ -231,16 +242,7 @@ table, th, td {
 </tr>   
 
 
-<tr>
-   <td>
-     <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3370953" target="_blank"> In-Network Auditors and Foreign Subsidiaries’ Investment Efficiency </a>,  with E. Labro, and C. van Linden. 
-     </li>
-   </td>
-   <td>
-      <ul class="no-bullets">
-      <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.3370953" data-popup="left" data-size="small" class="plumx-plum-print-popup" data-site="plum" data- hide-when-empty="true"></a>  </li>  </ul>
-   </td>
-</tr>   
+
    
    
 <tr>
