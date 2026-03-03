@@ -68,7 +68,7 @@ table, th, td {
 
 <tr>
    <td>
-   <li>  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3370953" target="_blank">In-Network Auditors and Foreign Subsidiaries’ Investment Efficiency</a>, with E. Labro, and C. van Linden  <ul>  <li> <i>European Accounting Review</i>, accepted.  </li> 
+   <li>  <a href="https://www.tandfonline.com/doi/full/10.1080/09638180.2026.2624458" target="_blank">In-Network Auditors and Foreign Subsidiaries’ Investment Efficiency</a>, with E. Labro, and C. van Linden  <ul>  <li> <i>European Accounting Review</i>, 2026.  </li> 
   
    </ul> </li>
     </td>
