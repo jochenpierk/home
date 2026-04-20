@@ -68,13 +68,24 @@ table, th, td {
 
 <tr>
    <td>
-   <li>  <a href="https://www.tandfonline.com/doi/full/10.1080/09638180.2026.2624458" target="_blank">In-Network Auditors and Foreign Subsidiaries’ Investment Efficiency</a>, with E. Labro, and C. van Linden  <ul>  <li> <i>European Accounting Review</i>, 2026.  </li> 
-  
-   </ul> </li>
+   <li>  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4431937" target="_blank">The Role of Executives in Foreign Tax Planning</a>, with B. Osswald  <ul>  <li> <i>Journal of Accounting and Economics</i>, accepted  </li> </ul> </li>
     </td>
     <td>
       <ul class="no-bullets">
       <li >    </li>
+       </ul>
+    </td>
+</tr> 
+
+
+<tr>
+   <td>
+   <li>  <a href="https://www.tandfonline.com/doi/full/10.1080/09638180.2026.2624458" target="_blank">In-Network Auditors and Foreign Subsidiaries’ Investment Efficiency</a>, with E. Labro, and C. van Linden  <ul>  <li> <i>European Accounting Review</i>, 2026. <img src="https://jochenpierk.github.io/home/open_access.JPG" width="6%" height="6%">  </li> 
+     </ul> </li>
+    </td>
+    <td>
+      <ul class="no-bullets">
+      <li >  <span class="__dimensions_badge_embed__" data-doi="10.1080/09638180.2026.2624458" data-style="small_rectangle"> </span>  </li>
        </ul>
     </td>
 </tr>    
@@ -267,16 +278,7 @@ table, th, td {
    </td>
   </tr>
    
-<tr>
-   <td>
- <li>  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4431937" target="_blank"> Crossing the Atlantic: The Role of U.S. Executives in Tax Planning of Foreign Subsidiaries</a>, with B. Osswald.  
-  </li>
-   </td>
-   <td>
-   <ul class="no-bullets">
-   <li > <a href="https://plu.mx/plum/a/?doi=10.2139%2Fssrn.4431937" data-popup="left" data-size="small" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true"></a>  </li> </ul>
-   </td>
-  </tr>
+
    
 
    
