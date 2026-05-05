@@ -19,7 +19,10 @@ author_profile: true
 
  <h3> Authored News Articles / Blogs </h3> 
   <font size="3"> <ul>
-      <li>  <a href="https://eaa-online.org/arc/blog/2024/04/11/private-firm-accounting-literature-database/" target="_blank">Private Firm Accounting Literature Database </a></li>
+     
+ <li>  <a href="https://mcusercontent.com/ffab1869b934ebf881c40649e/files/0658d611-9852-102e-eb1f-33688f196122/EAA_NL_News_from_the_SSC_March_2026.pdf" target="_blank">News from the Standing Scientific Committee </a></li>
+              <ul><li>EAA Newsletter, April 7, 2026 </li></ul>        
+    <li>  <a href="https://eaa-online.org/arc/blog/2024/04/11/private-firm-accounting-literature-database/" target="_blank">Private Firm Accounting Literature Database </a></li>
               <ul><li>EAA Accounting Resource Center, April 11, 2024 </li></ul>    
     <li>  <a href="https://eaa-online.org/arc/blog/2023/12/19/enhancing-the-social-relevance-of-accounting-research/" target="_blank">Enhancing the Social Relevance of Accounting Research </a></li>
               <ul><li>EAA Accounting Resource Center, December 19, 2023 </li></ul>    
