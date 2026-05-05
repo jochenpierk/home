@@ -72,7 +72,7 @@ table, th, td {
     </td>
     <td>
       <ul class="no-bullets">
-      <li >    </li>
+      <li >  <span class="__dimensions_badge_embed__" data-doi="10.1016/j.jacceco.2026.101899" data-style="small_rectangle"> </span>  </li>
        </ul>
     </td>
 </tr> 
