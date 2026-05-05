@@ -68,7 +68,7 @@ table, th, td {
 
 <tr>
    <td>
-   <li>  <a href="https://www.sciencedirect.com/science/article/abs/pii/S016541012600042X" target="_blank">The Role of Executives in Foreign Tax Planning</a>, with B. Osswald  <ul>  <li> <i>Journal of Accounting and Economics</i>, accepted  </li> </ul> </li>
+   <li>  <a href="https://www.sciencedirect.com/science/article/abs/pii/S016541012600042X" target="_blank">The Role of Executives in Foreign Tax Planning</a>, with B. Osswald  <ul>  <li> <i>Journal of Accounting and Economics</i>, 2026  </li> </ul> </li>
     </td>
     <td>
       <ul class="no-bullets">
