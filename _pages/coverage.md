@@ -42,6 +42,9 @@ author_profile: true
  <h3> Coverage </h3>
  <font size="3"> <ul>
 
+  
+    <li>  <a href="https://www.forbes.com/sites/nathangoldman/2026/05/04/ceos-play-key-role-in-slashing-corporate-tax-bills/" target="_blank">CEOs Play Key Role In Slashing Corporate Tax Bills</a></li>
+              <ul> <li> Forbes, May 4, 2026 </li> </ul> 
   <li>  <a href="https://techpolicyinstitute.org/2020/12/09/research-roundup-for-december-2020/" target="_blank">Research Roundup for December 2020</a></li>
               <ul> <li> Technology Policy Institute (Think Tank), December 9, 2020 </li> </ul> 
   <li>  <a href="https://www.nature.com/articles/d41586-020-02920-2" target="_blank">Brexit's back: the five issues that will shape science</a></li>
