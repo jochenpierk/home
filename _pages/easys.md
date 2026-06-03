@@ -48,7 +48,7 @@ It is meant to establish research networks among young scholars. Participants p
 <li><b>Tobias Steindl (University of Regensburg)</b>, <i>Artificial intelligence and the voluntary disclosure of Scope 3 carbon emissions</i></li>
     </td>
  </tr>   
-     <br>
+   
  <a href="https://jochenpierk.github.io/easys/previous_versions.html" target="_blank">Check out some pictures!</a>  
  
   <h2>EASYS 2025 - Rome, Italy</h2>
