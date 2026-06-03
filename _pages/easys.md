@@ -19,9 +19,37 @@ author_profile: true
  
 The European Accounting Symposium for Young Scholars (EASYS) is an annual meeting that takes place right before the European Accounting Association Annual meeting. 
  
-It is meant to establish research networks among young scholars. Participants present their early-stage work and obtain feedback in a friendly and constructive environment. The target audience of the workshop is European faculty with the rank of post-doctoral researchers or assistant professor (non-tenured). The workshop includes around 25 participants to ensure a friendly environment to present early stage projects / research ideas. Presented research projects should not be under review / submitted to a journal. The symposium focuses on quantitative research in all areas of accounting (e.g., financial, managerial, auditing, taxation). Please note that the symposium is not related to the European Accounting Association. If you have questions about the EASYS meeting, you can contact us. 
+It is meant to establish research networks among young scholars. Participants present their early-stage work and obtain feedback in a friendly and constructive environment. The workshop includes around 40 participants to ensure a friendly environment to present early stage projects / research ideas. Presented research projects should not be under review / submitted to a journal. The symposium focuses on quantitative research in all areas of accounting (e.g., financial, managerial, auditing, taxation). Please note that the symposium is not related to the European Accounting Association. If you have questions about the EASYS meeting, you can contact us. 
  
+ <h2>EASYS 2026 - Prague, Czech Republic</h2>
 
+ <h3>Young Scholar Track </h3>
+ <tr>
+   <td>
+<li><b>Lemonia Marina Rempoutsika (The Open University)</b>, <i>Cleaner Books in Munkier Places: Local Corruption and Bank Opacity</i></li>
+<li><b>Doron Reichmann (Goethe University Frankfurt)</b>, <i>Deep Listening: Managerial Persuasion Through Vocal Delivery in Earnings Calls</i></li>
+<li><b>Clemens Lauer (HEC Paris)</b>, <i>Learning to Protect: Bank Network Experience and Borrower Cyber Resilience</i></li>
+<li><b>Christian Friedrich (University of Mannheim)</b>, <i>Words on Drugs</i></li>
+<li><b>Tanja Keeve (Frankfurt School of Finance and Management)</b>, <i>Selective ESG Disclosure</i></li>
+<li><b>Bianca Beyer (Aalto University)</b>, <i>Game of Telephone: The Role of Accounting Firms in Tax Incentives (Non)Usage</i></li>
+<li><b>Roope Keloharju (Aalto University)</b>, <i>Corporate Risk Networks and Systemic Vulnerabilities: Understanding the Relational Role of Geopolitical Risk</i></li>
+    </td>
+ </tr>   
+ 
+ <h3>Young-in-Spirit Track  </h3>
+ <tr>
+   <td>
+<li><b>Roberto Vincenzi (Bocconi University)</b>, <i>Are Disclosed Merger Synergies Realized?</i></li>
+<li><b>Sarah Kroechert (University of Cambridge)</b>, <i>Executive Risk-Taking</i></li>
+<li><b>Sara Bormann (Goethe University Frankfurt)</b>, <i>Cyber Risk and Information Compartmentalization within Firms</i></li>
+<li><b>Sven Hörner (University of Bayreuth)</b>, <i>The Costs of Sustainability Assurance</i></li>
+<li><b>Ulrike Thuerheimer (University of Amsterdam)</b>, <i>Cashing out or scaling up? Partnership and workforce dynamics following Private Equity Investments in Audit Firms</i></li>
+<li><b>Tim Martens (Bocconi University)</b>, <i>Patent Disclosures and Capital Market Feedback: Evidence from AIPA</i></li>
+<li><b>Tobias Steindl (University of Regensburg)</b>, <i>Artificial intelligence and the voluntary disclosure of Scope 3 carbon emissions</i></li>
+    </td>
+ </tr>   
+     <br>
+ <a href="https://jochenpierk.github.io/easys/previous_versions.html" target="_blank">Check out some pictures!</a>  
  
   <h2>EASYS 2025 - Rome, Italy</h2>
  <tr>
@@ -48,7 +76,8 @@ It is meant to establish research networks among young scholars. Participants p
     <li><b>Florian Habermann (Radboud University)</b>, <i>Materiality as a Double-Edged Sword: Real effects of SASB Sustainability Topics </i>  </li> 
     <li><b>Ismail El Fassi (University of Lausanne)</b>, <i>The Role of Relative Performance Feedback Across Human-Artificial Intelligence Collaboration Strategies </i>  </li> 
     </td>
- </tr>   
+ </tr>  
+ 
  <a href="https://jochenpierk.github.io/easys/previous_versions.html" target="_blank">Check out some pictures!</a>  
 
   
