@@ -68,13 +68,13 @@ table, th, td {
 
 <tr>
    <td>
-   <li>  Tax-related Key Audit Matters and Changes in Multinational Income Shifting ?, with C. Beuselinck, N. Goldman, and C. Valle Ruiz.  <ul>  <li> <i>The Accounting Review</i>, accepted  </li> </ul> </li>
+li>  <a href="https://doi.org/10.2308/TAR-2024-0168" target="_blank">Tax-related Key Audit Matters and Changes in Multinational Income Shifting</a>, with C. Beuselinck, N. Goldman, and C. Valle Ruiz  <ul>  <li> <i>The Accounting Review</i>, 2026  </li> </ul> </li>
     </td>
     <td>
     </td>
 </tr> 
 
-
+  
 <tr>
    <td>
    <li>  Financial Accounting Regulation: A Double-Edged Sword for Managerial Accounting?, with E. Labro  <ul>  <li> <i>Accounting and Business Research</i>, accepted  </li> </ul> </li>
