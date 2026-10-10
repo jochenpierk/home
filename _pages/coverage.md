@@ -45,8 +45,9 @@ author_profile: true
  <h3> Coverage </h3>
  <font size="3"> <ul>
 
-  
-    <li>  <a href="https://www.forbes.com/sites/nathangoldman/2026/05/04/ceos-play-key-role-in-slashing-corporate-tax-bills/" target="_blank">CEOs Play Key Role In Slashing Corporate Tax Bills</a></li>
+<li>  <a href="https://news.ncsu.edu/2026/10/kams-international-money-moves/" target="_blank">Study Suggests New Auditing Rules Are Curbing International Money Moves</a></li>
+          <ul> <li> NC State University News, Octorber 9, 2026 </li> </ul> 
+      <li>  <a href="https://www.forbes.com/sites/nathangoldman/2026/05/04/ceos-play-key-role-in-slashing-corporate-tax-bills/" target="_blank">CEOs Play Key Role In Slashing Corporate Tax Bills</a></li>
               <ul> <li> Forbes, May 4, 2026 </li> </ul> 
   <li>  <a href="https://techpolicyinstitute.org/2020/12/09/research-roundup-for-december-2020/" target="_blank">Research Roundup for December 2020</a></li>
               <ul> <li> Technology Policy Institute (Think Tank), December 9, 2020 </li> </ul> 
